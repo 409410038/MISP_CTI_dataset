@@ -1,0 +1,10 @@
+IdeaTMS
+2022
+is
+vulnerable
+to
+SQL
+Injection
+via
+the
+PATH_INFO

@@ -1,0 +1,7 @@
+PowerShell
+command
+to
+invoke
+a
+Meterpreter
+session

@@ -1,0 +1,6 @@
+ESET
+Detection
+name
+:
+WinGo/KillFiles.C
+trojan

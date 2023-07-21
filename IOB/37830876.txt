@@ -1,0 +1,12 @@
+Authorization
+Bypass
+Through
+User-Controlled
+Key
+in
+NPM
+urijs
+prior
+to
+1.19.8
+.

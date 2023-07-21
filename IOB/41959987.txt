@@ -1,0 +1,10 @@
+Windows
+Server
+Remotely
+Accessible
+Registry
+Keys
+Information
+Disclosure
+Vulnerability
+.

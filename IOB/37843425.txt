@@ -1,0 +1,10 @@
+Windows
+StateRepository
+API
+Server
+file
+Elevation
+of
+Privilege
+Vulnerability
+.

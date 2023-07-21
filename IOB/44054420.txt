@@ -1,0 +1,9 @@
+D-Link
+DIR823G
+1.02B05
+is
+vulnerable
+to
+Commad
+Injection
+.

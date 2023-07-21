@@ -1,0 +1,9 @@
+Microsoft
+Dynamics
+365
+(
+on-premises
+)
+Cross-site
+Scripting
+Vulnerability

@@ -1,0 +1,14 @@
+A
+Remote
+Code
+Execution
+(
+RCE
+)
+vulnerability
+exists
+in
+waimairen
+9.1
+via
+wx.php

@@ -1,0 +1,9 @@
+O
+pacote
+PyMafka
+possui
+uma
+estrutura
+semelhante
+ao
+pacote

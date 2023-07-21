@@ -1,0 +1,17 @@
+Reflected
+Cross-Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+Michael
+Winkler
+teachPress
+plugin
+<
+=
+8.1.8
+versions
+.

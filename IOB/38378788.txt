@@ -1,0 +1,15 @@
+Dairy
+Farm
+Shop
+Management
+System
+1.0
+is
+vulnerable
+to
+SQL
+Injection
+via
+sales-report-ds.php
+file
+.

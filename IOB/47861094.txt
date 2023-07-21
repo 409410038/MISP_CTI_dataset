@@ -1,0 +1,14 @@
+APNG_Optimizer
+v1.4
+was
+discovered
+to
+contain
+a
+buffer
+overflow
+via
+the
+component
+/apngopt/ubuntu.png
+.

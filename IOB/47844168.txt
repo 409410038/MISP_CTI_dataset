@@ -1,0 +1,17 @@
+lmxcms
+v1.4.1
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+via
+the
+setbook
+parameter
+at
+index.php
+.

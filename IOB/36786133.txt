@@ -1,0 +1,6 @@
+Outgoing
+RDP
+from
+within
+victim
+infra

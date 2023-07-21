@@ -1,0 +1,15 @@
+Exposure
+of
+Sensitive
+Information
+to
+an
+Unauthorized
+Actor
+in
+Packagist
+pimcore/pimcore
+prior
+to
+10.3.1
+.

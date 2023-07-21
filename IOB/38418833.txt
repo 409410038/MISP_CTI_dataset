@@ -1,0 +1,17 @@
+In
+Home
+Clean
+Service
+System
+1.0
+,
+the
+password
+parameter
+is
+vulnerable
+to
+SQL
+injection
+attacks
+.

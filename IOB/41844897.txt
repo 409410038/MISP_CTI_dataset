@@ -1,0 +1,10 @@
+MKCMS
+V6.2
+has
+SQL
+injection
+via
+/ucenter/reg.php
+name
+parameter
+.

@@ -1,0 +1,13 @@
+In
+JetBrains
+IntelliJ
+IDEA
+before
+2022.1
+HTML
+injection
+into
+IDE
+messages
+was
+possible

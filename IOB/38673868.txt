@@ -1,0 +1,15 @@
+A
+CSRF
+token
+visible
+in
+the
+URL
+may
+possibly
+lead
+to
+information
+disclosure
+vulnerability
+.

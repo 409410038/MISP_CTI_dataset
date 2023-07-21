@@ -1,0 +1,14 @@
+Article
+template
+contents
+with
+sensitive
+data
+could
+be
+accessed
+from
+agents
+without
+permissions
+.

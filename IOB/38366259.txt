@@ -1,0 +1,9 @@
+72crm
+9.0
+has
+an
+Arbitrary
+file
+upload
+vulnerability
+.

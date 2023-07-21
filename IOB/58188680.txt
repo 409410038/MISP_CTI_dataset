@@ -1,0 +1,8 @@
+BrightNight
+encrypted
+file
+name
+(
+appended
+extensions
+)

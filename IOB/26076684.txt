@@ -1,0 +1,6 @@
+Description
+:
+Wipes
+and
+deletes
+itself

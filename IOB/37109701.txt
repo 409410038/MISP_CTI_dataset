@@ -1,0 +1,7 @@
+Yara
+detected
+RansomwareGeneric
+,
+detection
+:
+malicious

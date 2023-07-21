@@ -1,0 +1,7 @@
+WordPress
+REST
+API
+Remote
+Code
+Execution
+Vulnerability

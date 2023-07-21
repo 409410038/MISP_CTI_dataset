@@ -1,0 +1,14 @@
+Server-Side
+Request
+Forgery
+(
+SSRF
+)
+in
+GitHub
+repository
+ionicabizau/parse-url
+prior
+to
+7.0.0
+.

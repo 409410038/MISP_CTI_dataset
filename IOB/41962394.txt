@@ -1,0 +1,11 @@
+Wedding
+Planner
+v1.0
+is
+vulnerable
+to
+has
+arbitrary
+code
+execution
+.

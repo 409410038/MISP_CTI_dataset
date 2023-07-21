@@ -1,0 +1,11 @@
+Inavitas
+Solar
+Log
+product
+has
+an
+unauthenticated
+SQL
+Injection
+vulnerability
+.

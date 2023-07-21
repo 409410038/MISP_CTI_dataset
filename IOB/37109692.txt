@@ -1,0 +1,13 @@
+Creates
+a
+start
+menu
+entry
+(
+Start
+Menu\Programs\Startup
+)
+,
+detection
+:
+suspicious

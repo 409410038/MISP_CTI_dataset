@@ -1,0 +1,15 @@
+Improper
+Authorization
+of
+Index
+Containing
+Sensitive
+Information
+in
+GitHub
+repository
+alfio-event/alf.io
+prior
+to
+2.0-M4-2304
+.

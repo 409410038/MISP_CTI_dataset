@@ -1,0 +1,14 @@
+Launches
+powershell.exe
+in
+a
+hidden
+window
+without
+loading
+the
+user
+'s
+PowerShell
+profile
+.

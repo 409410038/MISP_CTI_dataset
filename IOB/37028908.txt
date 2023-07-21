@@ -1,0 +1,5 @@
+v=spf1
+include
+:
+spf.privateemail.com
+~all

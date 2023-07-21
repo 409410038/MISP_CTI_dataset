@@ -1,0 +1,10 @@
+Windows
+COM+
+Event
+System
+Service
+Elevation
+of
+Privilege
+Vulnerability
+.

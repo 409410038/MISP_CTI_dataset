@@ -1,0 +1,10 @@
+Buffer
+Over-read
+in
+GitHub
+repository
+hpjansson/chafa
+prior
+to
+1.10.3
+.

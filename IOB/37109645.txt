@@ -1,0 +1,12 @@
+Contains
+medium
+sleeps
+(
+>
+=
+30s
+)
+,
+detection
+:
+clean

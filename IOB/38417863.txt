@@ -1,0 +1,14 @@
+imgurl
+v2.31
+was
+discovered
+to
+contain
+a
+Blind
+SQL
+injection
+vulnerability
+via
+/upload/localhost
+.

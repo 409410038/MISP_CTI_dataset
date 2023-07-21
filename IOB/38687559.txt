@@ -1,0 +1,9 @@
+randomUUID
+in
+Scala.js
+before
+1.10.0
+generates
+predictable
+values
+.

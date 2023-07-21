@@ -1,0 +1,13 @@
+A
+Code
+Execution
+vulnerability
+exists
+in
+Statamic
+Version
+through
+3.2.26
+via
+SettingsController.php
+.

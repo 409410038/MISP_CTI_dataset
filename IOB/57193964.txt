@@ -1,0 +1,17 @@
+The
+Settings
+module
+has
+the
+file
+privilege
+escalation
+vulnerability.Successful
+exploitation
+of
+this
+vulnerability
+may
+affect
+confidentiality
+.

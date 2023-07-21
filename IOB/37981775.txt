@@ -1,0 +1,6 @@
+Windows.Devices.Picker.dll
+Elevation
+of
+Privilege
+Vulnerability
+.

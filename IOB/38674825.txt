@@ -1,0 +1,17 @@
+Online
+Student
+Admission
+v1.0
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+via
+the
+txtapplicationID
+parameter
+.

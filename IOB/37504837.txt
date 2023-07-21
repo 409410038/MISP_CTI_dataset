@@ -1,0 +1,13 @@
+Cross
+Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+Ruckus
+Wireless
+ZoneDirector
+9.8.3.0
+.

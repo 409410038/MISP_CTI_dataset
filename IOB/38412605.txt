@@ -1,0 +1,11 @@
+Windows
+Desired
+State
+Configuration
+(
+DSC
+)
+Information
+Disclosure
+Vulnerability
+.

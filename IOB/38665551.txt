@@ -1,0 +1,11 @@
+Cluster
+Client
+Failover
+(
+CCF
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

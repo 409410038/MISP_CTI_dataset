@@ -1,0 +1,7 @@
+Display
+network
+configuration
+on
+all
+network
+interfaces

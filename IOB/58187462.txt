@@ -1,0 +1,13 @@
+This
+vulnerability
+enables
+ssh
+access
+to
+minikube
+container
+using
+a
+default
+password
+.

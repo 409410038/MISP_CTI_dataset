@@ -1,0 +1,7 @@
+POC
+for
+CVE2021-21974
+VMWare
+ESXi
+RCE
+Exploit

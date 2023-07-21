@@ -1,0 +1,15 @@
+SchedMD
+Slurm
+21.08.x
+through
+20.11.x
+has
+Incorrect
+Access
+Control
+that
+leads
+to
+Information
+Disclosure
+.

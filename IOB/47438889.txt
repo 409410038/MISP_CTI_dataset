@@ -1,0 +1,12 @@
+Microsoft
+WDAC
+OLE
+DB
+provider
+for
+SQL
+Server
+Remote
+Code
+Execution
+Vulnerability

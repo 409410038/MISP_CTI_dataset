@@ -1,0 +1,12 @@
+Filtering
+is
+performed
+on
+data
+that
+has
+not
+be
+properly
+canonicalized
+.

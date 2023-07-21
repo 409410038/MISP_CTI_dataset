@@ -1,0 +1,10 @@
+Improper
+Authorization
+in
+GitHub
+repository
+saltstack/salt
+prior
+to
+3004.2
+.

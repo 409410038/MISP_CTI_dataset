@@ -1,0 +1,16 @@
+An
+issue
+in
+H
+v1.0
+allows
+attackers
+to
+bypass
+authentication
+via
+a
+session
+replay
+attack
+.

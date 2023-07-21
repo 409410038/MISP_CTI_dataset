@@ -1,0 +1,16 @@
+Contains
+functionality
+to
+check
+if
+a
+debugger
+is
+running
+(
+IsDebuggerPresent
+)
+,
+detection
+:
+suspicious

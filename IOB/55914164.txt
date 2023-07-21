@@ -1,0 +1,15 @@
+SysAid
+Help
+Desk
+before
+22.1.65
+allows
+XSS
+,
+aka
+FR
+#
+66542
+and
+65579
+.

@@ -1,0 +1,10 @@
+phoronix-test-suite
+is
+vulnerable
+to
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)

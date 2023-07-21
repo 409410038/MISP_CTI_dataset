@@ -1,0 +1,13 @@
+Information
+disclosure
+due
+to
+buffer
+over-read
+in
+Bluetooth
+Host
+while
+A2DP
+streaming
+.

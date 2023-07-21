@@ -1,0 +1,14 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+in
+GitHub
+repository
+tsolucio/corebos
+prior
+to
+8
+.

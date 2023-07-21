@@ -1,0 +1,12 @@
+Sigma
+detected
+:
+Drops
+script
+at
+startup
+location
+,
+detection
+:
+malicious

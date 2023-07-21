@@ -1,0 +1,17 @@
+SQL
+Injection
+vulnerability
+in
+LearnPress
+&
+#
+8211
+;
+WordPress
+LMS
+Plugin
+<
+=
+4.1.7.3.2
+versions
+.

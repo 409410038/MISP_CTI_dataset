@@ -1,0 +1,15 @@
+perfex
+crm
+1.10
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+via
+/clients/profile
+.

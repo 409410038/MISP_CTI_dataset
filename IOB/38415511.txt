@@ -1,0 +1,13 @@
+bbs-go
+<
+=
+3.3.0
+including
+Custom
+Edition
+is
+vulnerable
+to
+stored
+XSS
+.

@@ -1,0 +1,11 @@
+Avaya
+IX
+Workforce
+Engagement
+v15.2.7.1195
+-
+CWE-522
+:
+Insufficiently
+Protected
+Credentials

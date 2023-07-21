@@ -1,0 +1,13 @@
+Existing
+CommBuffer
+checks
+in
+SmmEntryPoint
+will
+not
+catch
+underflow
+when
+computing
+BufferSize
+.

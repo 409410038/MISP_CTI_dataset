@@ -1,0 +1,13 @@
+Insecure
+Storage
+of
+Sensitive
+Information
+in
+GitHub
+repository
+microweber/microweber
+prior
+to
+1.3
+.

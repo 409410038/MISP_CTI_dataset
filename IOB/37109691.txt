@@ -1,0 +1,11 @@
+URLs
+found
+in
+memory
+or
+binary
+data
+,
+detection
+:
+clean

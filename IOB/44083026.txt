@@ -1,0 +1,10 @@
+Improper
+Authentication
+in
+GitHub
+repository
+thorsten/phpmyfaq
+prior
+to
+3.1.10
+.

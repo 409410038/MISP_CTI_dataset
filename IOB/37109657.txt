@@ -1,0 +1,11 @@
+Disables
+application
+error
+messsages
+(
+SetErrorMode
+)
+,
+detection
+:
+clean

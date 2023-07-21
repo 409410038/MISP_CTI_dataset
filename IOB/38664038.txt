@@ -1,0 +1,17 @@
+A
+flaw
+was
+found
+in
+Wildfly
+where
+insufficient
+RBAC
+restrictions
+may
+lead
+to
+expose
+metrics
+data
+.

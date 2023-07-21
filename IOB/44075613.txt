@@ -1,0 +1,11 @@
+Microsoft
+Message
+Queuing
+(
+MSMQ
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

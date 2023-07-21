@@ -1,0 +1,16 @@
+Contains
+functionality
+to
+query
+locales
+information
+(
+e.g
+.
+system
+language
+)
+,
+detection
+:
+suspicious

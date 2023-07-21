@@ -1,0 +1,16 @@
+A
+Cross
+Site
+Scripting
+vulnerabilty
+exists
+in
+Pixelimity
+1.0
+via
+the
+Site
+Description
+field
+in
+pixelimity/admin/setting.php

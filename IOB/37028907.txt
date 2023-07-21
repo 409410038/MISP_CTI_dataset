@@ -1,0 +1,10 @@
+v=spf1
++a
++mx
++ip4:162.0.209.186
++ip4:162.0.209.189
+include
+:
+spf.web-hosting.com
+~all
+''

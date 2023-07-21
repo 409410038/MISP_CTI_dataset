@@ -1,0 +1,13 @@
+information
+disclosure
+due
+to
+cryptographic
+issue
+in
+Core
+during
+RPMB
+read
+request
+.

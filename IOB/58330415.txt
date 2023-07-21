@@ -1,0 +1,14 @@
+Memory
+corruption
+in
+WLAN
+HAL
+while
+processing
+WMI-UTF
+command
+or
+FTM
+TLV1
+command
+.

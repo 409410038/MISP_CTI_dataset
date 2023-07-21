@@ -1,0 +1,16 @@
+Memory
+corruption
+due
+to
+configuration
+weakness
+in
+modem
+wile
+sending
+command
+to
+write
+protected
+files
+.

@@ -1,0 +1,16 @@
+IDURAR
+ERP/CRM
+v1
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+via
+the
+component
+/api/login
+.

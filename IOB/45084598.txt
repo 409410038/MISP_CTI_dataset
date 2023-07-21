@@ -1,0 +1,6 @@
+Group
+:
+lockbit3
+Victim
+:
+wcso.us

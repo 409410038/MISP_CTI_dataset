@@ -1,0 +1,15 @@
+Cross-site
+Scripting
+(
+XSS
+)
+-
+Reflected
+in
+GitHub
+repository
+answerdev/answer
+prior
+to
+1.0.6
+.

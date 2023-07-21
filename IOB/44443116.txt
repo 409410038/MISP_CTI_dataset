@@ -1,0 +1,17 @@
+Memory
+corruption
+due
+to
+access
+of
+uninitialized
+pointer
+in
+Bluetooth
+HOST
+while
+processing
+the
+AVRCP
+packet
+.

@@ -1,0 +1,15 @@
+Weak
+Password
+Recovery
+Mechanism
+for
+Forgotten
+Password
+in
+GitHub
+repository
+microweber/microweber
+prior
+to
+1.3
+.

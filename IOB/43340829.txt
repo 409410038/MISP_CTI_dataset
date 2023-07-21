@@ -1,0 +1,5 @@
+Atlassian
+Confluence
+Authentication
+Bypass
+Vulnerability

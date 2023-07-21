@@ -1,0 +1,15 @@
+Certain
+versions
+of
+HP
+PC
+Hardware
+Diagnostics
+Windows
+are
+potentially
+vulnerable
+to
+buffer
+overflow
+.

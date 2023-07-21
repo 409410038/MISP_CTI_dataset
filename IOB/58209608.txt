@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Wpmet
+ShopEngine
+plugin
+<
+=
+4.1.1
+versions
+.

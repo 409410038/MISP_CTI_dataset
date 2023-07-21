@@ -1,0 +1,14 @@
+The
+login
+page
+of
+Revive
+Adserver
+v5.4.1
+is
+vulnerable
+to
+brute
+force
+attacks
+.

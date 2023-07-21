@@ -1,0 +1,10 @@
+D-Link
+DIR-878
+1.02B05
+is
+vulnerable
+to
+Incorrect
+Access
+Control
+.

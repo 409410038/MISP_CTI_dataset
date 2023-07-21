@@ -1,0 +1,15 @@
+SWFTools
+commit
+772e55a2
+was
+discovered
+to
+contain
+a
+segmentation
+violation
+via
+extractFrame
+at
+/readers/swf.c
+.

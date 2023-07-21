@@ -1,0 +1,16 @@
+A
+malicious
+unauthorized
+PAM
+user
+can
+access
+the
+administration
+configuration
+data
+and
+change
+the
+values
+.

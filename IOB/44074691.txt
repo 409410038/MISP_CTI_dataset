@@ -1,0 +1,17 @@
+Doctor
+Appointment
+Management
+System
+v1.0.0
+was
+discovered
+to
+contain
+a
+cross-site
+scripting
+(
+XSS
+)
+vulnerability
+.

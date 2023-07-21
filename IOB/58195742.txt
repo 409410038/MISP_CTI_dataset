@@ -1,0 +1,16 @@
+AuKill
+verison
+6
+Targeted
+vendors
+:
+Microsoft
+,
+Sophos
+,
+Splashtop
+(
+Remote
+Access
+Tools
+)

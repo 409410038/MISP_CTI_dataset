@@ -1,0 +1,17 @@
+DedeCMS
+v5.7.93
+was
+discovered
+to
+contain
+arbitrary
+file
+deletion
+vulnerability
+in
+upload.php
+via
+the
+delete
+parameter
+.

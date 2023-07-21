@@ -1,0 +1,17 @@
+Terminalfour
+before
+8.3.8
+allows
+XSS
+,
+aka
+RDSM-31817
+.
+8.2.18.2.1
+and
+8.2.18.5
+are
+also
+fixed
+versions
+.

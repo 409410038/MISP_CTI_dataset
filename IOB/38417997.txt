@@ -1,0 +1,12 @@
+Access
+of
+Uninitialized
+Pointer
+in
+GitHub
+repository
+radareorg/radare2
+prior
+to
+5.7.0
+.

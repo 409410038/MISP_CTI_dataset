@@ -1,0 +1,15 @@
+In
+Samba
+,
+GnuTLS
+gnutls_rnd
+(
+)
+can
+fail
+and
+give
+predictable
+random
+values
+.

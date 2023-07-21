@@ -1,0 +1,10 @@
+System
+must
+use
+weak
+authentication
+mechanisms
+for
+administrative
+functions
+.

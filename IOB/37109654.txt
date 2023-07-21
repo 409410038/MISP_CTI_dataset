@@ -1,0 +1,7 @@
+Creates
+temporary
+files
+,
+detection
+:
+clean

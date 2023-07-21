@@ -1,0 +1,16 @@
+BeyondTrust
+AppGuard
+Enterprise
+through
+6.6.20.2
+creates
+a
+Temporary
+File
+in
+a
+Directory
+with
+Insecure
+Permissions
+.

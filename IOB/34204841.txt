@@ -1,0 +1,17 @@
+Alternative
+methods
+to
+achieve
+command
+execution
+while
+bypassing
+security
+controls
+using
+LOLBINs
+such
+as
+REGSVR32
+and
+MSIEXEC

@@ -1,0 +1,7 @@
+Conti
+ESXi
+Locker
+(
+.conti
+)
+ransomware

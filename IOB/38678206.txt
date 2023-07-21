@@ -1,0 +1,14 @@
+Zoho
+ManageEngine
+SupportCenter
+Plus
+before
+11020
+allows
+Stored
+XSS
+in
+the
+request
+history
+.

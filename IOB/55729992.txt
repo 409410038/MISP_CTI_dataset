@@ -1,0 +1,15 @@
+Cross-site
+Scripting
+(
+XSS
+)
+-
+Generic
+in
+GitHub
+repository
+nuxt/framework
+prior
+to
+-
+.

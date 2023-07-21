@@ -1,0 +1,7 @@
+Enables
+debug
+privileges
+,
+detection
+:
+suspicious

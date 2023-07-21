@@ -1,0 +1,12 @@
+loonflow
+r2.0.14
+is
+vulnerable
+to
+server-side
+request
+forgery
+(
+SSRF
+)
+.

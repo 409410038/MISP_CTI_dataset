@@ -1,0 +1,16 @@
+The
+eo_tags
+package
+before
+1.4.19
+for
+PrestaShop
+allows
+SQL
+injection
+via
+a
+crafted
+_ga
+cookie
+.

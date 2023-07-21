@@ -1,0 +1,11 @@
+Weak
+Password
+Requirements
+in
+GitHub
+repository
+polonel/trudesk
+prior
+to
+1.2.2
+.

@@ -1,0 +1,17 @@
+stb_truetype.h
+v1.26
+was
+discovered
+to
+contain
+a
+heap-buffer-overflow
+via
+the
+function
+ttUSHORT
+(
+)
+at
+stb_truetype.h
+.

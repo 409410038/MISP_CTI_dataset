@@ -1,0 +1,12 @@
+Azure
+Open
+Management
+Infrastructure
+(
+OMI
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

@@ -1,0 +1,15 @@
+Downloads
+setup.msi
+,
+saving
+it
+as
+setup.msi
+,
+in
+the
+current
+PowerShell
+working
+directory
+.

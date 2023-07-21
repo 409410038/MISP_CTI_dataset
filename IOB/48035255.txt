@@ -1,0 +1,15 @@
+VMware
+Workstation
+and
+Fusion
+contain
+an
+out-of-bounds
+read/write
+vulnerability
+in
+SCSI
+CD/DVD
+device
+emulation
+.

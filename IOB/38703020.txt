@@ -1,0 +1,14 @@
+EyouCMS
+v1.5.5
+was
+discovered
+to
+have
+no
+access
+control
+in
+the
+component
+/data/sqldata
+.

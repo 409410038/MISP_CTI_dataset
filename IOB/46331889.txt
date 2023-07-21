@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Social
+Login
+WP
+plugin
+<
+=
+5.0.0.0
+versions
+.

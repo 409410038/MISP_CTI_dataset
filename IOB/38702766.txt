@@ -1,0 +1,9 @@
+ImpressCMS
+before
+1.4.3
+allows
+include/findusers.php
+groups
+SQL
+Injection
+.

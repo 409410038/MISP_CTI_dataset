@@ -1,0 +1,7 @@
+Oracle
+WebLogic
+Server
+Remote
+Code
+Execution
+Vulnerability

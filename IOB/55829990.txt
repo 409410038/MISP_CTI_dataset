@@ -1,0 +1,14 @@
+Broken
+Access
+Control
+vulnerability
+in
+Beaver
+Builder
+plugin
+<
+=
+2.5.4.3
+at
+WordPress
+.

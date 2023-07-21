@@ -1,0 +1,15 @@
+lib/Image/ExifTool.pm
+in
+ExifTool
+before
+12.38
+mishandles
+a
+$
+file
+=~
+/\|
+$
+/
+check
+.

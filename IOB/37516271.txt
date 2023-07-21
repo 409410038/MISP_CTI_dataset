@@ -1,0 +1,10 @@
+Open
+Redirect
+in
+GitHub
+repository
+microweber/microweber
+prior
+to
+1.2.19
+.

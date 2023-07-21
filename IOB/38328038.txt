@@ -1,0 +1,12 @@
+Authenticated
+(
+admin+
+)
+Stored
+Cross-Site
+Scripting
+(
+XSS
+)
+vulnerability
+in

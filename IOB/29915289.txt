@@ -1,0 +1,10 @@
+The
+user
+must
+allow
+JavaScript
+to
+execute
+in
+their
+browser

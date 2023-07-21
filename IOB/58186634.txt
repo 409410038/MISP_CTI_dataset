@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+dev.Xiligroup.Com
+-
+MS
+plugin
+<
+=
+1.12.03
+versions
+.

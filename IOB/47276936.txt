@@ -1,0 +1,15 @@
+amano
+Xparc
+parking
+solutions
+7.1.3879
+was
+discovered
+to
+be
+vulnerable
+to
+local
+file
+inclusion
+.

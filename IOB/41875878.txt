@@ -1,0 +1,13 @@
+Zalando
+Skipper
+v0.13.236
+is
+vulnerable
+to
+Server-Side
+Request
+Forgery
+(
+SSRF
+)
+.

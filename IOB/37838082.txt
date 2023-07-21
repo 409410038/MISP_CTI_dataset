@@ -1,0 +1,11 @@
+Microsoft
+Dynamics
+365
+(
+on-premises
+)
+Remote
+Code
+Execution
+Vulnerability
+.

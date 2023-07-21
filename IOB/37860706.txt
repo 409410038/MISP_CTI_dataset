@@ -1,0 +1,10 @@
+Business
+Logic
+Errors
+in
+Rubygems
+typo
+prior
+to
+9.2.7
+.

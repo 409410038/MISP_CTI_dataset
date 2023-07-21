@@ -1,0 +1,17 @@
+Authentication
+Bypass
+vulnerability
+in
+miniOrange
+OAuth
+2.0
+client
+for
+SSO
+plugin
+<
+=
+1.11.3
+at
+WordPress
+.

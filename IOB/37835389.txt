@@ -1,0 +1,10 @@
+Improper
+Access
+Control
+in
+Packagist
+librenms/librenms
+prior
+to
+22.2.0
+.

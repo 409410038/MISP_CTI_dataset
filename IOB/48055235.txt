@@ -1,0 +1,14 @@
+CLTPHP
+<
+=6.0
+is
+vulnerable
+to
+Unrestricted
+Upload
+of
+File
+with
+Dangerous
+Type
+.

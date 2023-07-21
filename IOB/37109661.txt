@@ -1,0 +1,12 @@
+Uses
+bcdedit
+to
+modify
+the
+Windows
+boot
+settings
+,
+detection
+:
+malicious

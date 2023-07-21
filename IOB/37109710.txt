@@ -1,0 +1,11 @@
+Contains
+functionality
+to
+query
+network
+adapater
+information
+,
+detection
+:
+suspicious

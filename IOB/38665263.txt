@@ -1,0 +1,15 @@
+Windows
+Kerberos
+Elevation
+of
+Privilege
+Vulnerability
+.
+This
+CVE
+ID
+is
+unique
+from
+CVE-2022-24544
+.

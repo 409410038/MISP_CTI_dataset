@@ -1,0 +1,10 @@
+Null
+terminators
+are
+not
+properly
+handled
+by
+the
+filter
+.

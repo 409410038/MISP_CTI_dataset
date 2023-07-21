@@ -1,0 +1,14 @@
+Transient
+DOS
+due
+to
+reachable
+assertion
+in
+modem
+during
+MIB
+reception
+and
+SIB
+timeout

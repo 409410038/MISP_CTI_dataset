@@ -1,0 +1,12 @@
+Skycaiji
+v2.5.1
+was
+discovered
+to
+contain
+a
+deserialization
+vulnerability
+via
+/SkycaijiApp/admin/controller/Mystore.php
+.

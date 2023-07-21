@@ -1,0 +1,16 @@
+NETGEAR
+Nighthawk
+R6220
+v1.1.0.112_1.0.1
+was
+discovered
+to
+contain
+a
+cross-site
+scripting
+(
+XSS
+)
+vulnerability
+.

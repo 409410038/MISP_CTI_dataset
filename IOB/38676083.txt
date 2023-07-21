@@ -1,0 +1,17 @@
+Insurance
+Management
+System
+1.0
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+via
+the
+username
+parameter
+.

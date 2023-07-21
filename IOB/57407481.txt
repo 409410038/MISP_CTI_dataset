@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Softaculous
+Loginizer
+plugin
+<
+=
+1.7.5
+versions
+.

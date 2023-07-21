@@ -1,0 +1,11 @@
+Improper
+Access
+Control
+in
+GitHub
+repository
+calcom/cal.com
+prior
+to
+2.7
+.

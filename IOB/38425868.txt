@@ -1,0 +1,13 @@
+SolarView
+Compact
+ver.6.00
+allows
+attackers
+to
+access
+sensitive
+files
+via
+directory
+traversal
+.

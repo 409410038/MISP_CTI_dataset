@@ -1,0 +1,8 @@
+CMD
+/C
+vssÇÈdmin
+list
+shadows
+/for=E
+:
+>

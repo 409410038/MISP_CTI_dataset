@@ -1,0 +1,17 @@
+Improper
+authentication
+vulnerability
+in
+Samsung
+Internet
+prior
+to
+16.0.2.19
+allows
+attackers
+to
+bypass
+secret
+mode
+password
+authentication

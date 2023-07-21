@@ -1,0 +1,16 @@
+NASM
+2.16
+(
+development
+)
+is
+vulnerable
+to
+476
+:
+Null
+Pointer
+Dereference
+via
+output/outaout.c
+.

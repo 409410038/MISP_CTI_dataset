@@ -1,0 +1,16 @@
+dynamicMarkt
+<
+=
+3.10
+is
+affected
+by
+SQL
+injection
+in
+the
+kat
+parameter
+of
+index.php
+.

@@ -1,0 +1,16 @@
+Software's
+input
+validation
+or
+filtering
+must
+not
+detect
+and
+block
+presence
+of
+additional
+malicious
+command
+.

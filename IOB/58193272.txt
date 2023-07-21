@@ -1,0 +1,12 @@
+Invoke-WebRequest
+．
+<
+url
+>
+/setup.msi
+・
+-OutFile
+．
+setup.msi
+・
+；

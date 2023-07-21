@@ -1,0 +1,11 @@
+Windows
+Credential
+Guard
+Domain-joined
+Public
+Key
+Elevation
+of
+Privilege
+Vulnerability
+.

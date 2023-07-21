@@ -1,0 +1,13 @@
+KLiK
+SocialMediaWebsite
+version
+v1.0.1
+is
+vulnerable
+to
+SQL
+Injection
+via
+the
+profile.php
+.

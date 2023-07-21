@@ -1,0 +1,10 @@
+This
+issue
+affects
+:
+Terminal
+Operating
+System
+versions
+before
+5.0.13

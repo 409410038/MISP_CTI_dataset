@@ -1,0 +1,16 @@
+Creates
+guard
+pages
+,
+often
+used
+to
+prevent
+reverse
+engineering
+and
+debugging
+,
+detection
+:
+clean

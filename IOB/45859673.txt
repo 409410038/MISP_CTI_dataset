@@ -1,0 +1,15 @@
+Memory
+corruption
+in
+modem
+due
+to
+integer
+overflow
+to
+buffer
+overflow
+while
+handling
+APDU
+response

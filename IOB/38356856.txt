@@ -1,0 +1,10 @@
+Prototype
+Pollution
+in
+GitHub
+repository
+automattic/mongoose
+prior
+to
+6.4.6
+.

@@ -1,0 +1,13 @@
+Math/PrimeField.php
+in
+phpseclib
+through
+2.0.41
+has
+an
+infinite
+loop
+with
+composite
+primefields
+.

@@ -1,0 +1,10 @@
+Sigma
+detected
+:
+Schedule
+system
+process
+,
+detection
+:
+malicious

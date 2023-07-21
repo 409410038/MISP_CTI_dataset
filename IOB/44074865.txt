@@ -1,0 +1,16 @@
+Lead
+Management
+System
+v1.0
+is
+vulnerable
+to
+SQL
+Injection
+via
+the
+id
+parameter
+in
+removeProduct.php
+.

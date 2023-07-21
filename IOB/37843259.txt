@@ -1,0 +1,14 @@
+Windows
+GDI+
+Information
+Disclosure
+Vulnerability
+.
+This
+CVE
+ID
+is
+unique
+from
+CVE-2022-21915
+.

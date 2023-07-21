@@ -1,0 +1,10 @@
+atmail
+6.5.0
+allows
+XSS
+via
+the
+index.php/admin/index/
+error
+parameter
+.

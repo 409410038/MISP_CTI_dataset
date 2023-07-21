@@ -1,0 +1,13 @@
+Allegro
+Tech
+BigFlow
+<
+1.6
+is
+vulnerable
+to
+Missing
+SSL
+Certificate
+Validation
+.

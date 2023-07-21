@@ -1,0 +1,13 @@
+Windows
+Lightweight
+Directory
+Access
+Protocol
+(
+LDAP
+)
+Denial
+of
+Service
+Vulnerability
+.

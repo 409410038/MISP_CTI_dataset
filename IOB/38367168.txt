@@ -1,0 +1,11 @@
+Weak
+Password
+Requirements
+in
+GitHub
+repository
+notrinos/notrinoserp
+prior
+to
+0.7
+.

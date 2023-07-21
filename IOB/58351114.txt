@@ -1,0 +1,11 @@
+AutoIt
+,
+Certutil
+,
+PowerShell
+,
+cmd
+,
+scripting
+,
+RegKey

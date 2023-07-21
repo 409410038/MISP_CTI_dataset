@@ -1,0 +1,6 @@
+Kentico
+CMS
+Remote
+Code
+Execution
+Vulnerability

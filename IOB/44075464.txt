@@ -1,0 +1,12 @@
+Windows
+Local
+Session
+Manager
+(
+LSM
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

@@ -1,0 +1,12 @@
+Windows
+Secure
+Socket
+Tunneling
+Protocol
+(
+SSTP
+)
+Remote
+Code
+Execution
+Vulnerability

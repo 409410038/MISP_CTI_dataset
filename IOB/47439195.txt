@@ -1,0 +1,12 @@
+Windows
+Remote
+Procedure
+Call
+Service
+(
+RPCSS
+)
+Elevation
+of
+Privilege
+Vulnerability

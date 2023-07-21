@@ -1,0 +1,11 @@
+URL
+from
+where
+the
+GuLoader
+shellcode
+(
+base64
+)
+is
+downloaded

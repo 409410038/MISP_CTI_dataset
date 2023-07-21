@@ -1,0 +1,12 @@
+Implementation
+:
+Keep
+session
+state
+on
+the
+server
+,
+when
+possible
+.

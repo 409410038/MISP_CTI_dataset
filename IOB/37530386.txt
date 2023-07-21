@@ -1,0 +1,11 @@
+OS
+Command
+Injection
+in
+GitHub
+repository
+ljharb/npm-lockfile
+prior
+to
+v2.0.5
+.

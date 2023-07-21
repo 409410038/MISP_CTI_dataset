@@ -1,0 +1,13 @@
+AuKill
+version
+5
+Targeted
+vendors
+:
+Microsoft
+,
+Sophos
+,
+Aladdin
+HASP
+Software

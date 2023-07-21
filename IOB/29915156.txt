@@ -1,0 +1,16 @@
+The
+format
+string
+argument
+of
+the
+Syslog
+function
+can
+be
+tainted
+with
+user
+supplied
+data
+.

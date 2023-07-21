@@ -1,0 +1,16 @@
+PE
+file
+has
+an
+executable
+.text
+section
+and
+no
+other
+executable
+section
+,
+detection
+:
+clean

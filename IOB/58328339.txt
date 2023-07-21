@@ -1,0 +1,17 @@
+Memory
+corruption
+in
+Linux
+android
+due
+to
+double
+free
+while
+calling
+unregister
+provider
+after
+register
+call
+.

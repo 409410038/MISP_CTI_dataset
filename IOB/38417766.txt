@@ -1,0 +1,11 @@
+SiteServer
+CMS
+V6.15.51
+is
+affected
+by
+a
+SQL
+injection
+vulnerability
+.

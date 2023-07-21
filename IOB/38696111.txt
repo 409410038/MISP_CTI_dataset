@@ -1,0 +1,15 @@
+Loose
+comparison
+causes
+IDOR
+on
+multiple
+endpoints
+in
+GitHub
+repository
+livehelperchat/livehelperchat
+prior
+to
+3.96
+.

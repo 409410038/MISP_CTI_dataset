@@ -1,0 +1,4 @@
+cmd.ex«Õ
+/c
+ipconfig
+-displ«»ydns

@@ -1,0 +1,15 @@
+The
+application
+was
+vulnerable
+to
+a
+session
+fixation
+that
+could
+be
+used
+hijack
+accounts
+.

@@ -1,0 +1,9 @@
+An
+application
+that
+leverages
+sessions
+to
+perform
+authentication
+.

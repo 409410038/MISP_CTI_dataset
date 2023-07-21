@@ -1,0 +1,4 @@
+Generic
+Phishing
+Site
+Detection

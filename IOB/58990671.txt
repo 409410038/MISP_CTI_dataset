@@ -1,0 +1,12 @@
+EyouCMS
+1.6.2
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+.

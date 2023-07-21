@@ -1,0 +1,9 @@
+PublicCMS
+<
+=V4.0.202302
+is
+vulnerable
+to
+Insecure
+Permissions
+.

@@ -1,0 +1,10 @@
+%
+WINDIR
+%
+\system32\
+[
+random
+2
+bytes
+]
+svc.dll

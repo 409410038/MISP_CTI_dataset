@@ -1,0 +1,7 @@
+Windows
+Clip
+Service
+Elevation
+of
+Privilege
+Vulnerability

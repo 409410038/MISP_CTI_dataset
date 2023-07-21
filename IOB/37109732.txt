@@ -1,0 +1,10 @@
+JoeSecurity_TrojanRansom
+:
+Process
+Memory
+Space
+:
+winlogon.exe
+PID
+:
+908

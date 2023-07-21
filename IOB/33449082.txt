@@ -1,0 +1,8 @@
+VMware
+Server-Side
+Template
+Injection
+Remote
+Code
+Execution
+Vulnerability

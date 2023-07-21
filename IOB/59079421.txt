@@ -1,0 +1,15 @@
+Simple
+Customer
+Relationship
+Management
+1.0
+is
+vulnerable
+to
+SQL
+Injection
+via
+the
+email
+parameter
+.

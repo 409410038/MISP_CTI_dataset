@@ -1,0 +1,16 @@
+Medicine
+Tracker
+System
+in
+PHP
+1.0.0
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+.

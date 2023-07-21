@@ -1,0 +1,16 @@
+JPEGDEC
+commit
+be4843c
+was
+discovered
+to
+contain
+a
+global
+buffer
+overflow
+via
+JPEGDecodeMCU
+at
+/src/jpeg.inl
+.

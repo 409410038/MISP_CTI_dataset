@@ -1,0 +1,12 @@
+``
+Sametime
+Android
+potential
+path
+traversal
+vulnerability
+when
+using
+File
+class
+''

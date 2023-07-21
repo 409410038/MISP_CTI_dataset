@@ -1,0 +1,8 @@
+Found
+command
+line
+output
+,
+detection
+:
+clean

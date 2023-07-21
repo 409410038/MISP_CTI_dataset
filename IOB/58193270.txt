@@ -1,0 +1,7 @@
+cmd
+/c
+¡§
+powershell.exe
+-nop
+-w
+hidden

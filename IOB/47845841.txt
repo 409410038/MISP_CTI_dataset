@@ -1,0 +1,14 @@
+Liferay
+Portal
+6.2.5
+allows
+Command=FileUpload
+&
+Type=File
+&
+CurrentFolder=/
+requests
+when
+frmfolders.html
+exists
+.

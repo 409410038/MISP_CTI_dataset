@@ -1,0 +1,7 @@
+Windows
+Geolocation
+Service
+Remote
+Code
+Execution
+Vulnerability

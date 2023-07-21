@@ -1,0 +1,9 @@
+cmd.exe
+/c
+bcdedit
+/set
+{
+default
+}
+recoveryenabled
+No

@@ -1,0 +1,7 @@
+shelljs
+is
+vulnerable
+to
+Improper
+Privilege
+Management

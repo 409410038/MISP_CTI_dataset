@@ -1,0 +1,2 @@
+cgi-bin/xmlstatus.cgi
+in

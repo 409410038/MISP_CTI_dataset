@@ -1,0 +1,10 @@
+Multiple
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerabilities
+in
+Viszt

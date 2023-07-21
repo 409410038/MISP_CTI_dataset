@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Anton
+Skorobogatov
+Rus-To-Lat
+plugin
+<
+=
+0.3
+versions
+.

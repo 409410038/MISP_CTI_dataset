@@ -1,0 +1,16 @@
+Domotica
+Labs
+srl
+Ikon
+Server
+before
+v2.8.6
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+.

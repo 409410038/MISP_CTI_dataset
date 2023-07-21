@@ -1,0 +1,7 @@
+peertube
+is
+vulnerable
+to
+Improper
+Access
+Control

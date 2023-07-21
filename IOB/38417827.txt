@@ -1,0 +1,12 @@
+Quick
+Heal
+Total
+Security
+before
+12.1.1.27
+allows
+DLL
+hijacking
+during
+installation
+.

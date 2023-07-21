@@ -1,0 +1,6 @@
+%
+WINDIR
+%
+\system32\conhost.exe
+0xffffffff
+-ForceV1

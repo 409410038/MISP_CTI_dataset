@@ -1,0 +1,17 @@
+Information
+disclosure
+in
+kernel
+due
+to
+improper
+handling
+of
+ICMP
+requests
+in
+Snapdragon
+Wired
+Infrastructure
+and
+Networking

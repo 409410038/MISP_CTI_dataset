@@ -1,0 +1,14 @@
+Program
+must
+allow
+for
+user
+controlled
+variables
+to
+be
+applied
+directly
+to
+the
+filesystem

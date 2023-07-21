@@ -1,0 +1,10 @@
+Windows
+Application
+Model
+Core
+API
+Elevation
+of
+Privilege
+Vulnerability
+.

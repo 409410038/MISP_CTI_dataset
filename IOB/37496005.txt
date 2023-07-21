@@ -1,0 +1,16 @@
+PMB
+7.3.10
+allows
+reflected
+XSS
+via
+the
+id
+parameter
+in
+an
+lvl=author_see
+request
+to
+index.php
+.

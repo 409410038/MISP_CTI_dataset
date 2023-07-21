@@ -1,0 +1,9 @@
+Jfinal
+cms
+5.1.0
+is
+vulnerable
+to
+SQL
+Injection
+.

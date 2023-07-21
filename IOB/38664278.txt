@@ -1,0 +1,15 @@
+Azure
+Site
+Recovery
+Information
+Disclosure
+Vulnerability
+.
+This
+CVE
+ID
+is
+unique
+from
+CVE-2022-26896
+.

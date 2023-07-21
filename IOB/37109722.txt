@@ -1,0 +1,7 @@
+Avira
+URL
+Cloud
+:
+http
+:
+//application-api.xyz/api/index.php1/1

@@ -1,0 +1,16 @@
+A
+Remote
+Code
+Execution
+(
+RCE
+)
+vulnerability
+was
+found
+in
+includes/baijiacms/common.inc.php
+in
+baijiacms
+v4
+.

@@ -1,0 +1,14 @@
+Uses
+netsh
+to
+modify
+the
+Windows
+network
+and
+firewall
+settings
+,
+detection
+:
+malicious

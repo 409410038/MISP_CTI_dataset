@@ -1,0 +1,17 @@
+Missing
+authorization
+vulnerability
+in
+the
+system
+components
+.
+Successful
+exploitation
+of
+this
+vulnerability
+will
+affect
+confidentiality
+.

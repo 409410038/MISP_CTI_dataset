@@ -1,0 +1,11 @@
+i-librarian
+4.10
+is
+vulnerable
+to
+Arbitrary
+file
+upload
+in
+ajaxsupplement.php
+.

@@ -1,0 +1,10 @@
+JoeSecurity_Voidcrypt
+:
+Process
+Memory
+Space
+:
+winlogon.exe
+PID
+:
+3508

@@ -1,0 +1,15 @@
+In
+Eternal
+Terminal
+6.2.1
+,
+etserver
+and
+etclient
+have
+predictable
+logfile
+names
+in
+/tmp
+.

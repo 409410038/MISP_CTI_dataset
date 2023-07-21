@@ -1,0 +1,15 @@
+Uses
+code
+obfuscation
+techniques
+(
+call
+,
+push
+,
+ret
+)
+,
+detection
+:
+suspicious

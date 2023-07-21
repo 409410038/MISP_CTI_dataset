@@ -1,0 +1,15 @@
+Sourcecodester
+Covid-19
+Directory
+on
+Vaccination
+System
+1.0
+is
+vulnerable
+to
+SQL
+Injection
+via
+cmdcategory
+.

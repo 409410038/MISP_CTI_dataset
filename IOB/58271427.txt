@@ -1,0 +1,13 @@
+In
+JetBrains
+TeamCity
+before
+2023.05
+stored
+XSS
+in
+GitLab
+Connection
+page
+was
+possible

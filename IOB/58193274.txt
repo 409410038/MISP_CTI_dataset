@@ -1,0 +1,13 @@
+cmd
+/c
+¡§
+msiexec
+/i
+setup.msi
+/qn
+IntegratorLogin=
+<
+email_address
+>
+CompanyId=1
+¡¨

@@ -1,0 +1,12 @@
+lib/omniauth/failure_endpoint.rb
+in
+OmniAuth
+before
+2.0
+does
+not
+escape
+the
+message_key
+value
+.

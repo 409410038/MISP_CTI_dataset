@@ -1,0 +1,4 @@
+cmd.exÇÍ
+/c
+nltÇÍst
+/domain_trusts

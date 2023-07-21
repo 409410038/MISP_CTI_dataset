@@ -1,0 +1,12 @@
+mm-wki
+v0.2.1
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+.

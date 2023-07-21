@@ -1,0 +1,10 @@
+Code
+Injection
+in
+GitHub
+repository
+nilsteampassnet/teampass
+prior
+to
+3.0.7
+.

@@ -1,0 +1,11 @@
+Implemented
+protections
+on
+AWS
+credentials
+that
+were
+not
+properly
+protected
+.

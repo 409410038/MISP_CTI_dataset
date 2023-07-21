@@ -1,0 +1,14 @@
+In
+JetBrains
+TeamCity
+before
+2023.05
+stored
+XSS
+in
+the
+Show
+Connection
+page
+was
+possible

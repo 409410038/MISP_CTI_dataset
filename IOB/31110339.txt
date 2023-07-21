@@ -1,0 +1,8 @@
+Apache
+Struts2
+Redirect/Action
+Method
+Remote
+Code
+Execution
+Vulnerability

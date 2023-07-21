@@ -1,0 +1,17 @@
+custom-content-type-manager
+Wordpress
+plugin
+can
+be
+used
+by
+an
+administrator
+to
+achieve
+arbitrary
+PHP
+remote
+code
+execution
+.

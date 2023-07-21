@@ -1,0 +1,6 @@
+Atlassian
+Confluence
+Remote
+Code
+Execution
+Vulnerability

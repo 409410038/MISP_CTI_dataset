@@ -1,0 +1,15 @@
+GJSON
+<
+=
+1.9.2
+allows
+attackers
+to
+cause
+a
+redos
+via
+crafted
+JSON
+input
+.

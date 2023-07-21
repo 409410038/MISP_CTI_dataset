@@ -1,0 +1,13 @@
+BigAnt
+Software
+BigAnt
+Server
+v5.6.06
+was
+discovered
+to
+utilize
+weak
+password
+hashes
+.

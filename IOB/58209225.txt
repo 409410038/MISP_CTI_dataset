@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+XWP
+Stream
+plugin
+<
+=
+3.9.2
+versions
+.

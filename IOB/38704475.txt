@@ -1,0 +1,16 @@
+Specially
+crafted
+string
+in
+OTRS
+system
+configuration
+can
+allow
+the
+execution
+of
+any
+system
+command
+.

@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+GetResponse
+plugin
+<
+=
+5.5.20
+at
+WordPress
+.

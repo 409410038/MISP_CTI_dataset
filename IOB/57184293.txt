@@ -1,0 +1,10 @@
+SEMCMS
+1.5
+is
+vulnerable
+to
+SQL
+Injection
+via
+Ant_Rponse.php
+.

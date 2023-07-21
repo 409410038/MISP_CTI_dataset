@@ -1,0 +1,14 @@
+Description
+:
+Lockbit
+2.0
+deletes
+all
+shadow
+copies
+on
+disc
+to
+prevent
+data
+recovery

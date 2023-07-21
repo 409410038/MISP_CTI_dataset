@@ -1,0 +1,13 @@
+Target
+server
+software
+must
+be
+a
+HTTP
+server
+that
+performs
+web
+logging
+.

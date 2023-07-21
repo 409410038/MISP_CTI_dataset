@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+PingOnline
+Dyslexiefont
+Free
+plugin
+<
+=
+1.0.0
+versions
+.

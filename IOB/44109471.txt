@@ -1,0 +1,9 @@
+Apache
+Struts2
+Dynamic
+Method
+Invocation
+Remote
+Code
+Execution
+Vulnerability

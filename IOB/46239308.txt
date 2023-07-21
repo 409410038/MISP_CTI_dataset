@@ -1,0 +1,10 @@
+TOTOlink
+A7100RU
+V7.4cu.2313_B20191024
+router
+has
+a
+command
+injection
+vulnerability
+.

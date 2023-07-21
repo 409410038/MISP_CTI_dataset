@@ -1,0 +1,7 @@
+Using
+UTF-8
+Encoding
+to
+Bypass
+Validation
+Logic

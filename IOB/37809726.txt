@@ -1,0 +1,10 @@
+Business
+Logic
+Errors
+in
+Packagist
+microweber/microweber
+prior
+to
+1.2.11
+.

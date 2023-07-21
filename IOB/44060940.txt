@@ -1,0 +1,8 @@
+Yealink
+DM
+Pre
+Auth
+Remote
+Code
+Execution
+Vulnerability

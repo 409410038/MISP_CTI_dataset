@@ -1,0 +1,13 @@
+Hutool
+v5.7.18
+'s
+HttpRequest
+was
+discovered
+to
+ignore
+all
+TLS/SSL
+certificate
+validation
+.

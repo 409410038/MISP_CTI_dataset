@@ -1,0 +1,13 @@
+Ability
+to
+control
+the
+length
+of
+data
+passed
+to
+an
+active
+filter
+.

@@ -1,0 +1,11 @@
+Description
+:
+This
+command
+has
+an
+invalid
+syntax
+and
+errors
+out

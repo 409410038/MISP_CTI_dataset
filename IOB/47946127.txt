@@ -1,0 +1,14 @@
+Shopware
+v5.5.10
+was
+discovered
+to
+contain
+a
+cross-site
+scripting
+(
+XSS
+)
+vulnerability
+.

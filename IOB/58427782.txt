@@ -1,0 +1,15 @@
+The
+Danfoss
+AK-EM100
+web
+applications
+allow
+for
+Local
+File
+Inclusion
+in
+the
+file
+parameter
+.

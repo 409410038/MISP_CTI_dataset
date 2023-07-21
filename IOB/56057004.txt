@@ -1,0 +1,10 @@
+Python
+script
+to
+decode
+encrypted
+resource
+section
+of
+DBatLoader
+-

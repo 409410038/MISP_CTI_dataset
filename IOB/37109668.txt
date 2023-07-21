@@ -1,0 +1,12 @@
+Disables
+the
+Windows
+task
+manager
+(
+taskmgr
+)
+,
+detection
+:
+malicious

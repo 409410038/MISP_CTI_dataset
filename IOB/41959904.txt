@@ -1,0 +1,10 @@
+Azure
+Arc-enabled
+Kubernetes
+cluster
+Connect
+Elevation
+of
+Privilege
+Vulnerability
+.

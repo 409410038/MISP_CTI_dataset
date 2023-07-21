@@ -1,0 +1,15 @@
+Under
+certain
+ldap
+conditions
+,
+Cacti
+authentication
+can
+be
+bypassed
+with
+certain
+credential
+types
+.

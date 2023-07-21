@@ -1,0 +1,6 @@
+PowerShell
+Command
+¡V
+Force
+GPO
+Policy

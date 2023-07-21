@@ -1,0 +1,13 @@
+Potential
+XML
+External
+Entity
+Injection
+in
+ArcSight
+Logger
+versions
+prior
+to
+7.3.0
+.

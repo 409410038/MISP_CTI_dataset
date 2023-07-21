@@ -1,0 +1,16 @@
+Squidex
+before
+7.4.0
+was
+discovered
+to
+contain
+a
+squid.svg
+cross-site
+scripting
+(
+XSS
+)
+vulnerability
+.

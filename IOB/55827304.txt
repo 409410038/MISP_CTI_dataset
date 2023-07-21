@@ -1,0 +1,16 @@
+libvncclient
+v0.9.13
+was
+discovered
+to
+contain
+a
+memory
+leak
+via
+the
+function
+rfbClientCleanup
+(
+)
+.

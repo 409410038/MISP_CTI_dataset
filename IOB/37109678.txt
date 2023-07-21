@@ -1,0 +1,12 @@
+Sigma
+detected
+:
+Delete
+shadow
+copy
+via
+WMIC
+,
+detection
+:
+malicious

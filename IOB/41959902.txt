@@ -1,0 +1,8 @@
+Microsoft
+Windows
+Defender
+Elevation
+of
+Privilege
+Vulnerability
+.

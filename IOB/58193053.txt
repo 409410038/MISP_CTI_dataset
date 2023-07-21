@@ -1,0 +1,14 @@
+bitsadmin
+/transfer
+www
+/download
+hxxps
+:
+//telegram.akipress
+[
+.
+]
+news/lsasss.rar
+F
+:
+\lsasss.rar

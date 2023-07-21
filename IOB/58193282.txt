@@ -1,0 +1,17 @@
+Unspecified
+content
+within
+servers.txt
+file
+;
+likely
+a
+list
+of
+proxy
+servers
+for
+revsocks
+(
+socks.exe
+)

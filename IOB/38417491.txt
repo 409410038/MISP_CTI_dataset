@@ -1,0 +1,16 @@
+HashiCorp
+go-getter
+through
+2.0.2
+does
+not
+safely
+perform
+downloads
+(
+issue
+2
+of
+3
+)
+.

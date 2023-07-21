@@ -1,0 +1,15 @@
+Reflected
+Cross
+Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+NetIQ
+Access
+Manager
+prior
+to
+5.0.2

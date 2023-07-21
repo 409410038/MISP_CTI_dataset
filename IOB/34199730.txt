@@ -1,0 +1,4 @@
+a
+variant
+of
+Win64/HackTool.JuicyPotato.AI

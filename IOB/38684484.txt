@@ -1,0 +1,8 @@
+There
+is
+a
+XSS
+vulnerability
+in
+Careerfy
+.

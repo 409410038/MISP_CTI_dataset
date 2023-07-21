@@ -1,0 +1,13 @@
+Drops
+script
+or
+batch
+files
+to
+the
+startup
+folder
+,
+detection
+:
+malicious

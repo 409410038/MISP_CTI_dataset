@@ -1,0 +1,16 @@
+Server-Side
+Request
+Forgery
+(
+SSRF
+)
+in
+NPM
+@
+peertube/embed-api
+prior
+to
+Not
+released
+yet
+.

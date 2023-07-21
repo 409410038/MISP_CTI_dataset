@@ -1,0 +1,14 @@
+Memory
+corruption
+in
+WLAN
+due
+to
+incorrect
+type
+cast
+while
+sending
+WMI_SCAN_SCH_PRIO_TBL_CMDID
+message
+.

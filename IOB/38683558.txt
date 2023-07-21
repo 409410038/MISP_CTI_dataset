@@ -1,0 +1,14 @@
+The
+Wyzi
+Theme
+was
+affected
+by
+reflected
+XSS
+vulnerabilities
+in
+the
+business
+search
+feature

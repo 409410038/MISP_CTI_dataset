@@ -1,0 +1,16 @@
+A
+SQL
+injection
+vulnerability
+in
+I-Tech
+Trainsmart
+r1044
+exists
+via
+a
+evaluation/assign-evaluation
+?
+id=
+URI
+.

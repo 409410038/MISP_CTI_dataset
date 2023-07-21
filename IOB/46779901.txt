@@ -1,0 +1,10 @@
+SQL
+Injection
+in
+GitHub
+repository
+pimcore/pimcore
+prior
+to
+10.5.19
+.

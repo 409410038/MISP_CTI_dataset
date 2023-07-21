@@ -1,0 +1,6 @@
+Display
+the
+current
+environment
+variable
+settings

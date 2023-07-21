@@ -1,0 +1,16 @@
+Old
+session
+tokens
+can
+be
+used
+to
+authenticate
+to
+the
+application
+and
+send
+authenticated
+requests
+.

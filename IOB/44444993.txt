@@ -1,0 +1,17 @@
+Mojoportal
+v2.7
+was
+discovered
+to
+contain
+an
+authenticated
+XML
+external
+entity
+(
+XXE
+)
+injection
+vulnerability
+.

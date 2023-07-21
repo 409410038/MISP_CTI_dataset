@@ -1,0 +1,9 @@
+Information
+disclosure
+due
+to
+buffer
+overread
+in
+Linux
+sensors

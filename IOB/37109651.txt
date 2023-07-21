@@ -1,0 +1,12 @@
+Stores
+files
+to
+the
+Windows
+start
+menu
+directory
+,
+detection
+:
+suspicious

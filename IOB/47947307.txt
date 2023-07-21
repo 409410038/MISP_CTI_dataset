@@ -1,0 +1,15 @@
+PowerJob
+V4.3.1
+is
+vulnerable
+to
+Incorrect
+Access
+Control
+that
+allows
+for
+remote
+code
+execution
+.

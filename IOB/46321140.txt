@@ -1,0 +1,7 @@
+Windows
+BrokerInfrastructure
+Service
+Elevation
+of
+Privilege
+Vulnerability

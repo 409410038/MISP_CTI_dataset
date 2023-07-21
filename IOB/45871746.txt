@@ -1,0 +1,14 @@
+Equation
+Editor
+is
+an
+old
+Office
+component
+often
+targeted
+by
+exploits
+such
+as
+CVE-2017-11882

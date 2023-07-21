@@ -1,0 +1,11 @@
+Prism
+Launcher
+<
+=
+6.1
+is
+vulnerable
+to
+Directory
+Traversal
+.

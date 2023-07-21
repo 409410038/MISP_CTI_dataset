@@ -1,0 +1,17 @@
+The
+attacker
+must
+be
+able
+to
+write
+to
+resources
+or
+redirect
+access
+to
+the
+service
+registry
+.

@@ -1,0 +1,10 @@
+%
+APPDATA
+%
+\Local\Temp\
+<
+LockBit
+2.0
+wallpaper
+>
+.tmp.bmp
