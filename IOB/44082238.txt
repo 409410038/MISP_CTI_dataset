@@ -1,5 +1,0 @@
-Netsweeper
-Remote
-Code
-Execution
-Vulnerability

@@ -1,5 +1,0 @@
-Windows
-CryptoAPI
-Spoofing
-Vulnerability
-.

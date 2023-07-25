@@ -1,6 +1,0 @@
-Lantronix
-PremierWave
-2050
-Command
-Injection
-Vulnerability

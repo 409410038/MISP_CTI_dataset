@@ -1,9 +1,0 @@
-Windows
-Direct
-Show
--
-Remote
-Code
-Execution
-Vulnerability
-.

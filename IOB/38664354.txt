@@ -1,6 +1,0 @@
-PowerShell
-Elevation
-of
-Privilege
-Vulnerability
-.

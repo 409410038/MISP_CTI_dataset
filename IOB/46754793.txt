@@ -1,7 +1,0 @@
-TP-Link
-TL-R600VPN
-Directory
-Traversal
-Information
-Disclosure
-Vulnerability

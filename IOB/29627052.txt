@@ -1,7 +1,0 @@
-Fortinet
-FortiOS
-SSL
-VPN
-Path
-Traversal
-Vulnerability

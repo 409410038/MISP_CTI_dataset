@@ -1,8 +1,0 @@
-Windows
-Driver
-Revocation
-List
-Security
-Feature
-Bypass
-Vulnerability

@@ -1,8 +1,0 @@
-hex
-encoded
-IP
-0x5fb3a187
-observed
-in
-Powershell
-code

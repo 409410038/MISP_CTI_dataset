@@ -1,7 +1,0 @@
-Advancecomp
-v2.3
-contains
-a
-segmentation
-fault
-.

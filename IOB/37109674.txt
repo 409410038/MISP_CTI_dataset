@@ -1,8 +1,0 @@
-Uses
-new
-MSVCR
-Dlls
-,
-detection
-:
-clean

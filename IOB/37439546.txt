@@ -1,8 +1,0 @@
-Sonatype
-Nexus
-Repository
-Manager
-Remote
-Code
-Execution
-Vulnerability

@@ -1,6 +1,0 @@
-Windows
-SMB
-Denial
-of
-Service
-Vulnerability

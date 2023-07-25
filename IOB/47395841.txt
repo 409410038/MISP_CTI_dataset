@@ -1,6 +1,0 @@
-Axis
-Camera
-Remote
-Command
-Execution
-Vulnerability

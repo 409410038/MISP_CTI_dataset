@@ -1,38 +1,38 @@
-Address
-:
-1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfvBalance
-:
-0.0001185800
-BTC
-(
-+0.0001185800
-BTC
-/
--0.0000000000
-BTC
-)
-Transactions
-:
-1
-(
-previewing
-up
-to
-5
-most
-recent
-)
-======================================================================================
-#
-1
-14
-Jan
-2022
-14:01:25
-UTC
-0.00011858
-BTC
-5.11
-USD
-4.48
-EUR
+Address	O
+:	O
+1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfvBalance	B-Indicator
+:	O
+0.0001185800	O
+BTC	O
+(	O
++0.0001185800	O
+BTC	O
+/	O
+-0.0000000000	O
+BTC	O
+)	O
+Transactions	O
+:	O
+1	O
+(	O
+previewing	O
+up	O
+to	O
+5	O
+most	O
+recent	O
+)	O
+======================================================================================	O
+#	O
+1	O
+14	O
+Jan	O
+2022	O
+14:01:25	O
+UTC	O
+0.00011858	O
+BTC	O
+5.11	O
+USD	O
+4.48	O
+EUR	O

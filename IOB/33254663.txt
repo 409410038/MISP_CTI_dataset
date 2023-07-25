@@ -1,5 +1,0 @@
-api.txt
-decoded
-to
-binary
-file

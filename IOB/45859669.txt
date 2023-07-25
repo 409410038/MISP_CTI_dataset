@@ -1,9 +1,0 @@
-Information
-Disclosure
-in
-Graphics
-during
-GPU
-context
-switch
-.

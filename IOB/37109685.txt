@@ -1,6 +1,0 @@
-Creates
-mutexes
-,
-detection
-:
-clean

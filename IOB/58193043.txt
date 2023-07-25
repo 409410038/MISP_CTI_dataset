@@ -1,4 +1,0 @@
-Packed
-Python
-Meterpreter
-loader

@@ -1,5 +1,0 @@
-Microsoft
-Exchange
-Server
-SSRF
-Vulnerability

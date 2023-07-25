@@ -1,6 +1,0 @@
-Spring
-Cloud
-Gateway
-Code
-Injection
-Vulnerability

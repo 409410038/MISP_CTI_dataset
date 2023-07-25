@@ -1,9 +1,0 @@
-Windows
-SMB
-Witness
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

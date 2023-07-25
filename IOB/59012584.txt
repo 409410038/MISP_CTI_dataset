@@ -1,8 +1,0 @@
-.NET
-and
-Visual
-Studio
-Elevation
-of
-Privilege
-Vulnerability

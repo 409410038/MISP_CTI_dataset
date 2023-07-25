@@ -1,5 +1,0 @@
-ZeroAccess.Gen
-Command
-and
-Control
-Traffic

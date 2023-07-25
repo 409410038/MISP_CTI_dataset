@@ -1,6 +1,0 @@
-Windows
-Snipping
-Tool
-Information
-Disclosure
-Vulnerability

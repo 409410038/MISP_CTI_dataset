@@ -1,5 +1,0 @@
-Buffer
-Overflow
-via
-Environment
-Variables

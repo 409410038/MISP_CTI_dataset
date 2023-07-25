@@ -1,8 +1,0 @@
-From
-title
-:
-Attention
-Required
-!
-|
-Cloudflare

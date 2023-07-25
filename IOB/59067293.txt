@@ -1,6 +1,0 @@
-Named
-pipe
-used
-in
-reverse
-shell

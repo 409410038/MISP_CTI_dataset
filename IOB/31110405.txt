@@ -1,9 +1,0 @@
-Apache
-Struts
-Jakarta
-Multipart
-Parser
-Remote
-Code
-Execution
-Vulnerability

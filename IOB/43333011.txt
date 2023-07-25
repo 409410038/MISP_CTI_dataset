@@ -1,6 +1,0 @@
-.NET
-Framework
-Information
-Disclosure
-Vulnerability
-.

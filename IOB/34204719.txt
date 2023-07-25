@@ -1,5 +1,0 @@
-List
-current
-directories
-and
-files

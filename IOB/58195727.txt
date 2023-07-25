@@ -1,7 +1,0 @@
-AuKill
-version
-1
-Targeted
-vendors
-:
-Sophos

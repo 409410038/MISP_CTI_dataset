@@ -1,8 +1,0 @@
-List
-the
-hosted
-websites
-on
-the
-web
-server

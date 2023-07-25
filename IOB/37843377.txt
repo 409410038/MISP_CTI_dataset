@@ -1,9 +1,0 @@
-Microsoft
-Dynamics
-365
-(
-on-premises
-)
-Spoofing
-Vulnerability
-.

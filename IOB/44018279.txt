@@ -1,6 +1,0 @@
-AMI
-MegaRAC
-Redfish
-Arbitrary
-Code
-Execution

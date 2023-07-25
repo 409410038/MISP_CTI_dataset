@@ -1,8 +1,0 @@
-Windows
-Network
-File
-System
-Information
-Disclosure
-Vulnerability
-.

@@ -1,7 +1,0 @@
-Command
-&
-Control
-(
-C2
-)
-domain

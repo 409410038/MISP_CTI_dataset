@@ -1,7 +1,0 @@
-Microsoft
-Teams
-Denial
-of
-Service
-Vulnerability
-.

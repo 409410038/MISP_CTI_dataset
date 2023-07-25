@@ -1,6 +1,0 @@
-vim
-is
-vulnerable
-to
-Out-of-bounds
-Read

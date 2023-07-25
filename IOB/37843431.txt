@@ -1,9 +1,0 @@
-Windows
-Bind
-Filter
-Driver
-Elevation
-of
-Privilege
-Vulnerability
-.

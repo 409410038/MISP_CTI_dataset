@@ -1,8 +1,0 @@
-Microsoft
-Open
-Management
-Infrastructure
-Remote
-Code
-Execution
-Vulnerability

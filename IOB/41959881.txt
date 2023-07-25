@@ -1,7 +1,0 @@
-Web
-Account
-Manager
-Information
-Disclosure
-Vulnerability
-.

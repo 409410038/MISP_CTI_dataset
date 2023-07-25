@@ -1,6 +1,0 @@
-Group
-:
-snatch
-Victim
-:
-Ingenico

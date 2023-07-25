@@ -1,5 +1,0 @@
-JSSLoader
-:
-the
-shellcode
-edition

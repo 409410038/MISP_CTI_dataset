@@ -1,6 +1,0 @@
-Microsoft
-SharePoint
-Server
-Information
-Disclosure
-Vulnerability

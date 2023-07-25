@@ -1,8 +1,0 @@
-Visual
-Studio
-Code
-Elevation
-of
-Privilege
-Vulnerability
-.

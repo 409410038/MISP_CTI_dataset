@@ -1,6 +1,0 @@
-Windows
-Bluetooth
-Driver
-Information
-Disclosure
-Vulnerability

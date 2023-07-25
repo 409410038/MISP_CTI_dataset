@@ -1,8 +1,0 @@
-WordPress
-Modern
-Events
-Calendar
-Plugin
-SQL
-Injection
-Vulnerability

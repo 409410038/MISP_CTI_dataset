@@ -1,6 +1,0 @@
-Oria
-Gridx
-Remote
-Code
-Execution
-Vulnerability

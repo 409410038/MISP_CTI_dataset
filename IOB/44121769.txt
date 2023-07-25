@@ -1,7 +1,0 @@
-WordPress
-Perfect
-Survey
-Plugin
-SQL
-Injection
-Vulnerability

@@ -1,6 +1,0 @@
-Malicious
-PDF
--
-Formbook
-Stealer
-campaign

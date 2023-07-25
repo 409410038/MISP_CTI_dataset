@@ -1,3 +1,0 @@
-Blind
-SQL
-Injection

@@ -1,6 +1,0 @@
-Windows
-GDI+
-Information
-Disclosure
-Vulnerability
-.

@@ -1,8 +1,0 @@
-This
-affects
-the
-package
-image-tiler
-before
-2.0.2
-.

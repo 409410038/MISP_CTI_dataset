@@ -1,7 +1,0 @@
-Microsoft
-SharePoint
-Server
-Elevation
-of
-Privilege
-Vulnerability

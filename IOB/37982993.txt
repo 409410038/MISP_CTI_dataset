@@ -1,9 +1,0 @@
-Windows
-Connected
-Devices
-Platform
-Service
-Information
-Disclosure
-Vulnerability
-.

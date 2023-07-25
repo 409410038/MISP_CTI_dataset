@@ -1,9 +1,0 @@
-SMB
-Client
-and
-Server
-Remote
-Code
-Execution
-Vulnerability
-.

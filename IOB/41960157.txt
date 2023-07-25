@@ -1,7 +1,0 @@
-Windows
-GDI+
-Remote
-Code
-Execution
-Vulnerability
-.

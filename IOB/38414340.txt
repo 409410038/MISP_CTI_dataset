@@ -1,8 +1,0 @@
-Das
-U-Boot
-2022.01
-has
-a
-Buffer
-Overflow
-.

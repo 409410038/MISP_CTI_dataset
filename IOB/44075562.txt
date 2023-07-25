@@ -1,8 +1,0 @@
-Windows
-iSCSI
-Service
-Denial
-of
-Service
-Vulnerability
-.

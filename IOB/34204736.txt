@@ -1,6 +1,0 @@
-Display
-mapped
-drives
-to
-local
-system

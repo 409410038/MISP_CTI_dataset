@@ -1,8 +1,0 @@
-SysInternals
-Sysmon
-for
-Windows
-Elevation
-of
-Privilege
-Vulnerability

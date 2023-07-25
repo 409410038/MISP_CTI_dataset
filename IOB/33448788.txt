@@ -1,6 +1,0 @@
-Apache
-APISIX
-Remote
-Code
-Execution
-Vulnerability

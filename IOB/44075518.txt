@@ -1,7 +1,0 @@
-Windows
-NTLM
-Elevation
-of
-Privilege
-Vulnerability
-.

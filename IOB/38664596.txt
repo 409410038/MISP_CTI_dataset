@@ -1,9 +1,0 @@
-Windows
-AppX
-Package
-Manager
-Elevation
-of
-Privilege
-Vulnerability
-.

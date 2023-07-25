@@ -1,5 +1,0 @@
-Outbound
-communications
-from
-powershell.exe
-.

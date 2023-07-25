@@ -1,7 +1,0 @@
-Executes
-batch
-files
-,
-detection
-:
-clean

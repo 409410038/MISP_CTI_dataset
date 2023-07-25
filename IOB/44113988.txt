@@ -1,5 +1,0 @@
-Roxy-WI
-Remote
-Code
-Execution
-Vulnerability

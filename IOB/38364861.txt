@@ -1,8 +1,0 @@
-Windows
-Bluetooth
-Driver
-Elevation
-of
-Privilege
-Vulnerability
-.

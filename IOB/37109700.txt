@@ -1,7 +1,0 @@
-Uses
-Microsoft
-Silverlight
-,
-detection
-:
-clean

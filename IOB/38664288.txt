@@ -1,8 +1,0 @@
-Windows
-File
-Explorer
-Elevation
-of
-Privilege
-Vulnerability
-.

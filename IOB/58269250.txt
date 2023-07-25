@@ -1,6 +1,0 @@
-Microsoft
-Outlook
-Denial
-of
-Service
-Vulnerability

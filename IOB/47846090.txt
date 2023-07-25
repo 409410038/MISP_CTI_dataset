@@ -1,9 +1,0 @@
-Dreamer
-CMS
-4.0.1
-allows
-SQL
-injection
-via
-ArchivesMapper.xml
-.

@@ -1,7 +1,0 @@
-Microsoft
-Message
-Queuing
-Remote
-Code
-Execution
-Vulnerability

@@ -1,8 +1,0 @@
-Windows
-Fax
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

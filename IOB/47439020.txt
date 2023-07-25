@@ -1,6 +1,0 @@
-Windows
-Kernel
-Remote
-Code
-Execution
-Vulnerability

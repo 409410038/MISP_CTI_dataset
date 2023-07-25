@@ -1,8 +1,0 @@
-Uses
-32bit
-PE
-files
-,
-detection
-:
-suspicious

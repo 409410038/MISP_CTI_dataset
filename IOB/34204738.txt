@@ -1,4 +1,0 @@
-Display
-files
-opened
-remotely

@@ -1,9 +1,0 @@
-Sonatype
-Nexus
-Repository
-Manager
-3.36.0
-allows
-HTML
-Injection
-.

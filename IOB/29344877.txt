@@ -1,6 +1,0 @@
-Apache
-Tapestry
-ClasspathAssetRequestHandler
-Information
-Disclosure
-Vulnerability

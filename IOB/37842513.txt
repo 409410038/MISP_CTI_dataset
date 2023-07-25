@@ -1,8 +1,0 @@
-Clipboard
-User
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

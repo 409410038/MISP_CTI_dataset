@@ -1,7 +1,0 @@
-Windows
-Bluetooth
-Driver
-Remote
-Code
-Execution
-Vulnerability

@@ -1,8 +1,0 @@
-Windows
-NTLM
-Security
-Support
-Provider
-Information
-Disclosure
-Vulnerability

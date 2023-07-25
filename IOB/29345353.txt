@@ -1,4 +1,0 @@
-TOTOLink
-Command
-Injection
-Vulnerability

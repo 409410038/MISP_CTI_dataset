@@ -1,7 +1,0 @@
-VMware
-vCenter
-Server
-Remote
-Code
-Execution
-Vulnerability

@@ -1,6 +1,0 @@
-Phishing
-mail
--
-Formbook
-Stealer
-Campaign

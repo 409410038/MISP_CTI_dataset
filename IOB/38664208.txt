@@ -1,7 +1,0 @@
-Windows
-LDAP
-Remote
-Code
-Execution
-Vulnerability
-.

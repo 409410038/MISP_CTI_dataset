@@ -1,9 +1,0 @@
-Connected
-Devices
-Platform
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

@@ -1,8 +1,0 @@
-WordPress
-File
-Manager
-Plugin
-Remote
-Code
-Execution
-Vulnerability

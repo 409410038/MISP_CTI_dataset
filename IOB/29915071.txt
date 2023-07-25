@@ -1,7 +1,0 @@
-Postfix
-,
-Null
-Terminate
-,
-and
-Backslash

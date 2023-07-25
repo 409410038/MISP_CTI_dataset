@@ -1,5 +1,0 @@
-Resolves
-to
-datacenter
-Tor
-node

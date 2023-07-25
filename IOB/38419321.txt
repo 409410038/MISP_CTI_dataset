@@ -1,9 +1,0 @@
-static_compressed_inmemory_website_callback.c
-in
-Glewlwyd
-through
-2.6.2
-allows
-directory
-traversal
-.

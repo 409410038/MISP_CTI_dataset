@@ -1,7 +1,0 @@
-Jenkins
-Script
-Security
-Plugin
-Sandbox
-Bypass
-Vulnerability

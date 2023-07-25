@@ -1,4 +1,0 @@
-DoctorAppointmentSystem
-SQL
-Injection
-Vulnerability

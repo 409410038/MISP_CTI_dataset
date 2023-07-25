@@ -1,7 +1,0 @@
-Group
-:
-HiveLeaks
-Victim
-:
-APM
-Terminals

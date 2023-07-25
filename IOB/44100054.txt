@@ -1,6 +1,0 @@
-Boa
-Webserver
-Arbitrary
-File
-Access
-Vulnerability

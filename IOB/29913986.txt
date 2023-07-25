@@ -1,4 +1,0 @@
-Collect
-Data
-from
-Registries

@@ -1,7 +1,0 @@
-mruby
-is
-vulnerable
-to
-NULL
-Pointer
-Dereference

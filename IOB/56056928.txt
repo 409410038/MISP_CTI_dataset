@@ -1,9 +1,0 @@
-Extracted
-LNK
-file
-download
-payload
--
-Remcos
-RAT
-campaign

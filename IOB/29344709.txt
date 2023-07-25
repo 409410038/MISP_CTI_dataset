@@ -1,6 +1,0 @@
-Dragonfly
-Ruby
-Gem
-Argument
-Injection
-Vulnerability

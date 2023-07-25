@@ -1,9 +1,0 @@
-Microsoft
-ATA
-Port
-Driver
-Elevation
-of
-Privilege
-Vulnerability
-.

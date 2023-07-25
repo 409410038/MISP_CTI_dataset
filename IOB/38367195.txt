@@ -1,9 +1,0 @@
-jizhicms
-v2.3.1
-has
-SQL
-injection
-in
-the
-background
-.

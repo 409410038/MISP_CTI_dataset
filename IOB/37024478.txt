@@ -1,5 +1,0 @@
-MikroTik
-RouterOS
-Authentication
-Bypass
-Vulnerability

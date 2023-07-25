@@ -1,6 +1,6 @@
-From
-title
-:
-404
-Not
-Found
+From	O
+title	O
+:	O
+404	B-Indicator
+Not	I-Indicator
+Found	I-Indicator

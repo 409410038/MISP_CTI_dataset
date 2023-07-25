@@ -1,6 +1,0 @@
-Windows
-Installer
-Elevation
-of
-Privilege
-Vulnerability

@@ -1,5 +1,0 @@
-DataTaker
-DT80
-Information
-Disclosure
-Vulnerability

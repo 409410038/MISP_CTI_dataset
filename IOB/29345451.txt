@@ -1,4 +1,0 @@
-Webmin
-Command
-Injection
-Vulnerability

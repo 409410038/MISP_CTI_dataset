@@ -1,7 +1,0 @@
-%
-WINDIR
-%
-\SysWow64\regsvr32.exe
-/s
-..
-\xxw1.ocx

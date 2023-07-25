@@ -1,7 +1,0 @@
-Encoded
-PowerShell
-Command
-Line
-Usage
-of
-ConvertTo-SecureString

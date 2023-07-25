@@ -1,7 +1,0 @@
-Silverstripe
-silverstripe/assets
-through
-1.10
-allows
-XSS
-.

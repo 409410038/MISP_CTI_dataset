@@ -1,5 +1,0 @@
-CobaltStrike.Gen
-Command
-and
-Control
-Traffic

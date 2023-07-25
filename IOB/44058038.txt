@@ -1,7 +1,0 @@
-Wordpress
-SupportCandy
-Plugin
-Arbitrary
-File
-Upload
-Vulnerability

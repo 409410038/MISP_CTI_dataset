@@ -1,8 +1,0 @@
-This
-update
-resolves
-a
-multi-factor
-authentication
-bypass
-attack

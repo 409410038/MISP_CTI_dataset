@@ -1,8 +1,0 @@
-Windows
-IIS
-Server
-Elevation
-of
-Privilege
-Vulnerability
-.

@@ -1,9 +1,0 @@
-Windows
-Projected
-File
-System
-Elevation
-of
-Privilege
-Vulnerability
-.

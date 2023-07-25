@@ -1,5 +1,0 @@
-Joomla
-Remote
-Code
-Execution
-Vulnerability

@@ -1,6 +1,6 @@
-Description
-:
-Wipes
-and
-deletes
-itself
+Description	O
+:	O
+Wipes	B-TTPs
+and	I-TTPs
+deletes	I-TTPs
+itself	I-TTPs

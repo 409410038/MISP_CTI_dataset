@@ -1,9 +1,0 @@
-Windows
-Defender
-Credential
-Guard
-Security
-Feature
-Bypass
-Vulnerability
-.

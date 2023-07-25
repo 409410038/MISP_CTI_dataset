@@ -1,4 +1,0 @@
-Authenticated
-denial
-of
-service

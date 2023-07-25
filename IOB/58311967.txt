@@ -1,7 +1,0 @@
-Improper
-Input
-Validation
-vulnerability
-in
-ABB
-Ltd.

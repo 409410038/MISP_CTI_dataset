@@ -1,6 +1,0 @@
-Group
-:
-lockbit3
-Victim
-:
-slipstreaminc.org

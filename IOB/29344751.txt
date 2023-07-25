@@ -1,4 +1,0 @@
-rConfig
-SQL
-Injection
-Vulnerability

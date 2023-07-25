@@ -1,21 +1,21 @@
-Example
-Impacket
-command
-line
-showing
-the
-execution
-of
-the
-destructive
-malware
-.
-The
-working
-directory
-has
-varied
-in
-observed
-intrusions
-.
+Example	O
+Impacket	B-TTPs
+command	I-TTPs
+line	I-TTPs
+showing	O
+the	O
+execution	O
+of	O
+the	O
+destructive	B-Malware
+malware	I-Malware
+.	O
+The	O
+working	O
+directory	O
+has	O
+varied	O
+in	O
+observed	O
+intrusions	O
+.	O

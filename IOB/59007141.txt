@@ -1,6 +1,0 @@
-Windows
-Authentication
-Elevation
-of
-Privilege
-Vulnerability

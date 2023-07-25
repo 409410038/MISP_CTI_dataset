@@ -1,7 +1,0 @@
-Windows
-HTTP.sys
-Elevation
-of
-Privilege
-Vulnerability
-.

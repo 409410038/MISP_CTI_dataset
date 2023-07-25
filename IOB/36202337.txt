@@ -1,6 +1,0 @@
-GLPI
-htmlawed
-Module
-Code
-Injection
-Vulnerability

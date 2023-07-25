@@ -1,9 +1,0 @@
-Heap-based
-Buffer
-Overflow
-in
-vim/vim
-prior
-to
-8.2
-.

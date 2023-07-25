@@ -1,8 +1,0 @@
-Windows
-Group
-Policy
-Elevation
-of
-Privilege
-Vulnerability
-.

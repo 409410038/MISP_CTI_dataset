@@ -1,8 +1,0 @@
-Windows
-Cleanup
-Manager
-Elevation
-of
-Privilege
-Vulnerability
-.

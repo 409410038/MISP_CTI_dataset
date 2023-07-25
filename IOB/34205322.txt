@@ -1,7 +1,0 @@
-CMD
-/C
-vss«»dmin
-create
-shadow
-/for=E
-:

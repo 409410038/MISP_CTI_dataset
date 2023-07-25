@@ -1,9 +1,0 @@
-Windows
-Defender
-Application
-Control
-Security
-Feature
-Bypass
-Vulnerability
-.

@@ -1,9 +1,0 @@
-Windows
-Security
-Center
-API
-Remote
-Code
-Execution
-Vulnerability
-.

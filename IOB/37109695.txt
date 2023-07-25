@@ -1,7 +1,0 @@
-Queries
-keyboard
-layouts
-,
-detection
-:
-suspicious

@@ -1,8 +1,0 @@
-SENS
-v1.0
-has
-a
-file
-upload
-vulnerability
-.

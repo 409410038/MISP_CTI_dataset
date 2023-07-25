@@ -1,5 +1,0 @@
-TP-Link
-Remote
-Command
-Execution
-Vulnerability

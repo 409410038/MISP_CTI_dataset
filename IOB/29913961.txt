@@ -1,4 +1,0 @@
-Poison
-Web
-Service
-Registry

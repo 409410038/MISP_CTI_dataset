@@ -1,6 +1,0 @@
-username=
-<
-targeted
-mail
-address
->

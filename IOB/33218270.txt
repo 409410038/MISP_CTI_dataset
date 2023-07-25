@@ -1,4 +1,0 @@
-Zyxel
-Command
-Injection
-Vulnerability

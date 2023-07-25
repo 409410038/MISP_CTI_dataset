@@ -1,7 +1,0 @@
-Windows
-Authentication
-Security
-Feature
-Bypass
-Vulnerability
-.

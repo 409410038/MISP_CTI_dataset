@@ -1,5 +1,0 @@
-Sophos
-Firewall
-Authentication
-Bypass
-Vulnerability

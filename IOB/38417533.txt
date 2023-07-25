@@ -1,8 +1,0 @@
-HashiCorp
-go-getter
-before
-2.0.2
-allows
-Command
-Injection
-.

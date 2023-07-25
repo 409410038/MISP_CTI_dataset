@@ -1,9 +1,0 @@
-Microsoft
-Cluster
-Port
-Driver
-Elevation
-of
-Privilege
-Vulnerability
-.

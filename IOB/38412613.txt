@@ -1,9 +1,0 @@
-Windows
-Container
-Manager
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

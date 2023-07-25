@@ -1,6 +1,0 @@
-Support
-script
-for
-extracting
-the
-hosts

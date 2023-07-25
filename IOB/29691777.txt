@@ -1,5 +1,0 @@
-Zeroshell
-Remote
-Command
-Execution
-Vulnerability

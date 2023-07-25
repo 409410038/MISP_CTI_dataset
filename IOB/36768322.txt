@@ -1,6 +1,0 @@
-Yachtcontrol
-Webserver
-Remote
-Command
-Execution
-Vulnerability

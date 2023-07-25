@@ -1,6 +1,0 @@
-HP
-LinuxKI
-Remote
-Code
-Execution
-Vulnerability

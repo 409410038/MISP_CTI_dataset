@@ -1,7 +1,0 @@
-User
-login
-brute
-force
-protection
-functionality
-bypass

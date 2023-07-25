@@ -1,6 +1,0 @@
-Azure
-Arc
-Jumpstart
-Information
-Disclosure
-Vulnerability

@@ -1,4 +1,0 @@
-powershell.exe
-'start
-winword
-name_file'|cmd

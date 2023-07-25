@@ -1,6 +1,0 @@
-Axis
-SSI
-Remote
-Command
-Execution
-Vulnerability

@@ -1,7 +1,0 @@
-Windows
-Cryptographic
-Services
-Remote
-Code
-Execution
-Vulnerability

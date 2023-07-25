@@ -1,9 +1,0 @@
-Argus
-Surveillance
-DVR
-v4.0
-employs
-weak
-password
-encryption
-.

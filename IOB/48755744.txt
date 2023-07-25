@@ -1,5 +1,0 @@
-VoIPmonitor
-Remote
-Code
-Execution
-Vulnerability

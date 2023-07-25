@@ -1,9 +1,0 @@
-Might
-use
-command
-line
-arguments
-,
-detection
-:
-clean

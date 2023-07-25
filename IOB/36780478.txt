@@ -1,6 +1,0 @@
-BeyondTrust
-Remote
-Support
-Cross-Site
-Scripting
-Vulnerability

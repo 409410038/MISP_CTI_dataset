@@ -1,8 +1,0 @@
-Windows
-Domain
-Name
-Service
-Remote
-Code
-Execution
-Vulnerability

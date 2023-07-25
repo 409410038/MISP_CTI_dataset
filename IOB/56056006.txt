@@ -1,8 +1,0 @@
-Pupy
-variant
-communicating
-with
-Decoy
-Dog
-C2
-domains

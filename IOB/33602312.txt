@@ -1,7 +1,0 @@
-Accessing
-WinAPI
-in
-PowerShell
-for
-Credentials
-Dumping

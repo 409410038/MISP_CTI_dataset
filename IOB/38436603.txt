@@ -1,7 +1,0 @@
-Windows
-Server
-Service
-Information
-Disclosure
-Vulnerability
-.

@@ -1,9 +1,0 @@
-Windows
-CNG
-Key
-Isolation
-Service
-Elevation
-of
-Privilege
-Vulnerability

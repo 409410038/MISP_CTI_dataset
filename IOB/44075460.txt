@@ -1,7 +1,0 @@
-Visual
-Studio
-Code
-Remote
-Code
-Execution
-.

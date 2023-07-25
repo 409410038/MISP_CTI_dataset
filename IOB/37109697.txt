@@ -1,8 +1,0 @@
-Enumerates
-the
-file
-system
-,
-detection
-:
-clean

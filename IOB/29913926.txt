@@ -1,5 +1,0 @@
-Manipulating
-Opaque
-Client-based
-Data
-Tokens

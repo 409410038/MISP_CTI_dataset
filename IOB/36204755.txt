@@ -1,4 +1,0 @@
-Nette
-Code
-Injection
-Vulnerability

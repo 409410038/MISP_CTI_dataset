@@ -1,5 +1,0 @@
-rConfig
-Remote
-Code
-Execution
-Vulnerability

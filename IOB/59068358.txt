@@ -1,5 +1,0 @@
-Xiaomi
-R3P/R3D
-Command
-Injection
-Vulnerability

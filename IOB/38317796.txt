@@ -1,9 +1,0 @@
-Unit4
-ERP
-through
-7.9
-allows
-XXE
-via
-ExecuteServerProcessAsynchronously
-.

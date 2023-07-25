@@ -1,5 +1,0 @@
-Fake
-the
-Source
-of
-Data

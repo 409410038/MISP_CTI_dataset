@@ -1,7 +1,0 @@
-Generic
-Webshell
-Command
-and
-Control
-Traffic
-Detection

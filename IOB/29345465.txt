@@ -1,5 +1,0 @@
-Sitecore
-Experience
-Platform
-Deserialization
-Vulnerability

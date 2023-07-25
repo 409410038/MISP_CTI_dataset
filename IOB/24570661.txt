@@ -1,6 +1,6 @@
-Donot
-Team
-¡X
-Indicators
-of
-Compromise
+Donot	B-ThreatActor
+Team	I-ThreatActor
+¡X	O
+Indicators	O
+of	O
+Compromise	O

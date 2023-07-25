@@ -1,3 +1,0 @@
-cmd.ex«Õ
-/c
-syst«Õminfo

@@ -1,7 +1,0 @@
-List
-domain
-controllers
-and
-enumerate
-domain
-trusts

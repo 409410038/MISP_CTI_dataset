@@ -1,7 +1,0 @@
-Windows
-Terminal
-Remote
-Code
-Execution
-Vulnerability
-.

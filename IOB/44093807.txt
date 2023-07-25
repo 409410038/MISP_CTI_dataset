@@ -1,7 +1,0 @@
-Apache
-CouchDB
-JSON
-Remote
-Privilege
-Escalation
-Vulnerability

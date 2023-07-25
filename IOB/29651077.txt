@@ -1,6 +1,0 @@
-Joomla
-!
-HTTP
-SQL
-Injection
-Attempt

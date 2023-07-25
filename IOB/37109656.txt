@@ -1,6 +1,0 @@
-Classification
-label
-,
-detection
-:
-clean

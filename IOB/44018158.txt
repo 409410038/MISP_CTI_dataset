@@ -1,9 +1,0 @@
-Memory
-corruption
-in
-core
-due
-to
-stack-based
-buffer
-overflow

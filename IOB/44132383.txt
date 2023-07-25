@@ -1,8 +1,0 @@
-Daylight
-Studio
-FUEL
-CMS
-Remote
-Code
-Execution
-Vulnerability

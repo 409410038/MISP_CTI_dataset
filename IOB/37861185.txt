@@ -1,7 +1,0 @@
-mruby
-is
-vulnerable
-to
-Heap-based
-Buffer
-Overflow

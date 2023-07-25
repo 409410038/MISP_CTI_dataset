@@ -1,8 +1,0 @@
-Windows
-Upgrade
-Assistant
-Remote
-Code
-Execution
-Vulnerability
-.

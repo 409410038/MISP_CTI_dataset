@@ -1,8 +1,0 @@
-Windows
-Accounts
-Control
-Elevation
-of
-Privilege
-Vulnerability
-.

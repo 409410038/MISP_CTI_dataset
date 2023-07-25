@@ -1,7 +1,0 @@
-AeroCMS
-v0.0.1
-is
-vulnerable
-to
-ClickJacking
-.

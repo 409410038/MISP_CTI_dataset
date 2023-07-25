@@ -1,5 +1,0 @@
-VPNFilter
-Control
-and
-Command
-Traffic

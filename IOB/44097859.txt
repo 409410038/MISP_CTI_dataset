@@ -1,5 +1,0 @@
-SolarView
-Compact
-Command
-Injection
-Vulnerability

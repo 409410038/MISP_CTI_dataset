@@ -1,8 +1,0 @@
-Tile
-Data
-Repository
-Elevation
-of
-Privilege
-Vulnerability
-.

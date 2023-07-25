@@ -1,6 +1,0 @@
-Group
-:
-Lockbit
-Victim
-:
-2cara

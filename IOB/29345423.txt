@@ -1,5 +1,0 @@
-F5
-BIG-IP
-Authentication
-Bypass
-Vulnerability

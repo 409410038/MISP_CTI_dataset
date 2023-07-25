@@ -1,5 +1,0 @@
-NTFS
-Elevation
-of
-Privilege
-Vulnerability

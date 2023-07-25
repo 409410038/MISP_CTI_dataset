@@ -1,8 +1,0 @@
-Yara
-detected
-Voidcrypt
-Ransomware
-,
-detection
-:
-malicious

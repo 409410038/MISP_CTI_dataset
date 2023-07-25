@@ -1,7 +1,0 @@
-Fuzzing
-for
-garnering
-other
-adjacent
-user/sensitive
-data

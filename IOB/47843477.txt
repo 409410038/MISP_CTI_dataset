@@ -1,8 +1,0 @@
-Atropim
-1.5.26
-is
-vulnerable
-to
-Directory
-Traversal
-.

@@ -1,7 +1,0 @@
-Netgear
-DGN
-Device
-Remote
-Command
-Execution
-Vulnerability

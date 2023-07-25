@@ -1,9 +1,0 @@
-Azure
-Service
-Fabric
-Container
-Elevation
-of
-Privilege
-Vulnerability
-.

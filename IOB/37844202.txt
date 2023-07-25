@@ -1,8 +1,0 @@
-Windows
-System
-Launcher
-Elevation
-of
-Privilege
-Vulnerability
-.

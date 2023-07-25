@@ -1,6 +1,0 @@
-ILIAS
-before
-7.16
-allows
-XSS
-.

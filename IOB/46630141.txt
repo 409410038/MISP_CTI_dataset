@@ -1,9 +1,0 @@
-api/auth.go
-in
-Ansible
-Semaphore
-before
-2.8.89
-mishandles
-authentication
-.

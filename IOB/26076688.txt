@@ -1,6 +1,0 @@
-<
-LockBit
-2.0
-Ransomware
-path
->

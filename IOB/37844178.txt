@@ -1,7 +1,0 @@
-.NET
-Framework
-Denial
-of
-Service
-Vulnerability
-.

@@ -1,7 +1,0 @@
-Windows
-Accounts
-Picture
-Elevation
-of
-Privilege
-Vulnerability

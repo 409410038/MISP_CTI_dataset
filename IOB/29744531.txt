@@ -1,7 +1,0 @@
-Microsoft
-Windows
-HTTP.sys
-Remote
-Code
-Execution
-Vulnerability

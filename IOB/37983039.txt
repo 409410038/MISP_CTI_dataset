@@ -1,7 +1,0 @@
-Azure
-Storage
-Library
-Information
-Disclosure
-Vulnerability
-.

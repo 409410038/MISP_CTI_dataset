@@ -1,8 +1,0 @@
-Windows
-File
-History
-Remote
-Code
-Execution
-Vulnerability
-.

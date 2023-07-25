@@ -1,9 +1,0 @@
-Spryker
-Commerce
-OS
-1.4.2
-allows
-Remote
-Command
-Execution
-.

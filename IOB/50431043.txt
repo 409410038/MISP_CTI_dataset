@@ -1,4 +1,0 @@
-LB-LINK
-Command
-Injection
-Vulnerability

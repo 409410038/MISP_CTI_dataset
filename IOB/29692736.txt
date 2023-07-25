@@ -1,7 +1,0 @@
-NetWire
-RAT
-Command
-and
-Control
-Traffic
-Detection

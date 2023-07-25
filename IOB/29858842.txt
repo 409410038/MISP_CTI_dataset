@@ -1,9 +1,0 @@
-Citrix
-Application
-Delivery
-Controller
-And
-Gateway
-Directory
-Traversal
-Vulnerability

@@ -1,8 +1,0 @@
-Free5gc
-v3.2.1
-is
-vulnerable
-to
-Information
-disclosure
-.

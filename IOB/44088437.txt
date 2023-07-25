@@ -1,9 +1,0 @@
-The
-console
-in
-Togglz
-before
-2.9.4
-allows
-CSRF
-.

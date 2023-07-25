@@ -1,8 +1,0 @@
-StorSimple
-8000
-Series
-Elevation
-of
-Privilege
-Vulnerability
-.

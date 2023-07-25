@@ -1,6 +1,0 @@
-YARP
-Denial
-of
-Service
-Vulnerability
-.

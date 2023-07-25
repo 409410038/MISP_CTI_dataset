@@ -1,7 +1,0 @@
-Reads
-software
-policies
-,
-detection
-:
-clean

@@ -1,5 +1,0 @@
-cmd.exe
-/c
-wevtutil
-cl
-application

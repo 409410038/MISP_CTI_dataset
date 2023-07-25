@@ -1,6 +1,0 @@
-Legitimate
-Windows
-executable
-used
-for
-DBatLoader/ModiLoader

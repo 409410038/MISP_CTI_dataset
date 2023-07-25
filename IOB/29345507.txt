@@ -1,5 +1,0 @@
-VoIPmonitor
-GUI
-SQL
-Injection
-Vulnerability

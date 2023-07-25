@@ -1,7 +1,0 @@
-Yara
-detected
-TrojanRansom
-,
-detection
-:
-malicious

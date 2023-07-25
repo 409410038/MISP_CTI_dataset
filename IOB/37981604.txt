@@ -1,6 +1,0 @@
-BitLocker
-Security
-Feature
-Bypass
-Vulnerability
-.

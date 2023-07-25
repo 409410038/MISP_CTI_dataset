@@ -1,5 +1,0 @@
-Apache
-Shiro
-Improper
-Authentication
-Vulnerability

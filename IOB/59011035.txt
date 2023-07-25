@@ -1,8 +1,0 @@
-Microsoft
-PostScript
-Printer
-Driver
-Remote
-Code
-Execution
-Vulnerability

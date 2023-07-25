@@ -1,6 +1,0 @@
-Windows
-Registry
-Elevation
-of
-Privilege
-Vulnerability

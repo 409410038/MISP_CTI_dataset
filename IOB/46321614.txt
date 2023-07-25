@@ -1,8 +1,0 @@
-Windows
-Point-to-Point
-Tunneling
-Protocol
-Remote
-Code
-Execution
-Vulnerability

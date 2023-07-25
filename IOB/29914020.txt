@@ -1,7 +1,0 @@
-Accessing
-Functionality
-Not
-Properly
-Constrained
-by
-ACLs

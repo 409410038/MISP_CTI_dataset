@@ -1,7 +1,0 @@
-Sophos
-SG
-UTM
-Remote
-Code
-Execution
-Vulnerability

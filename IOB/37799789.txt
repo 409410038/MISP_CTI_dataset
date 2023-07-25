@@ -1,6 +1,0 @@
-``
-Sametime
-Android
-PathTraversal
-Vulnerability
-''

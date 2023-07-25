@@ -1,8 +1,0 @@
-Microsoft
-Office
-ClickToRun
-Remote
-Code
-Execution
-Vulnerability
-.

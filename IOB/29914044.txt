@@ -1,4 +1,0 @@
-Subverting
-Environment
-Variable
-Values

@@ -1,6 +1,0 @@
-Microsoft
-SharePoint
-Denial
-of
-Service
-Vulnerability

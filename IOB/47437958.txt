@@ -1,7 +1,0 @@
-Remote
-Procedure
-Call
-Runtime
-Information
-Disclosure
-Vulnerability

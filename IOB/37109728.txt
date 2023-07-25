@@ -1,7 +1,0 @@
-JoeSecurity_RedLine
-:
-%
-ALLUSERSPROFILE
-%
-\Microsoft\Windows\Start
-Menu\Programs\Startup\winlogon.exe

@@ -1,7 +1,0 @@
-Microsoft
-SharePoint
-Server
-Security
-Feature
-BypassVulnerability
-.

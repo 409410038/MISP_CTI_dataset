@@ -1,7 +1,0 @@
-AV1
-Video
-Extension
-Remote
-Code
-Execution
-Vulnerability

@@ -1,4 +1,0 @@
-Apache
-OFBiz
-Deserialization
-Vulnerability

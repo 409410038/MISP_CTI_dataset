@@ -1,6 +1,0 @@
-Yii
-2
-Remote
-Code
-Execution
-Vulnerability

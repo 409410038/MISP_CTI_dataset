@@ -1,8 +1,0 @@
-Last
-Yard
-22.09.8-1
-does
-not
-enforce
-HSTS
-headers

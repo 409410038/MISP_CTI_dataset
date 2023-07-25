@@ -1,6 +1,0 @@
-Azure
-Data
-Explorer
-Spoofing
-Vulnerability
-.

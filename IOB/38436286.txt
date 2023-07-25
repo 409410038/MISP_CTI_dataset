@@ -1,8 +1,0 @@
-Windows
-WLAN
-AutoConfig
-Service
-Information
-Disclosure
-Vulnerability
-.

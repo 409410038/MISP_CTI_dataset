@@ -1,9 +1,0 @@
-Windows
-Active
-Directory
-Certificate
-Services
-Security
-Feature
-Bypass
-.

@@ -1,7 +1,0 @@
-references
-in
-cfg.sh
-to
-a
-user
-alexandros

@@ -1,5 +1,0 @@
-dotCMS
-processFile
-Directory
-Traversal
-Vulnerability

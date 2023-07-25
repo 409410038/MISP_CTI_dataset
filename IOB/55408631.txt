@@ -1,8 +1,0 @@
-Upload
-a
-Web
-Shell
-to
-a
-Web
-Server

@@ -1,5 +1,0 @@
-probably
-a
-variant
-of
-Win32/Exploit.CVE-2017-11882.A

@@ -1,9 +1,0 @@
-Couchbase
-Server
-before
-7.1.0
-has
-Incorrect
-Access
-Control
-.

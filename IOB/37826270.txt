@@ -1,8 +1,0 @@
-ZEROF
-Web
-Server
-2.0
-allows
-/admin.back
-XSS
-.

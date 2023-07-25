@@ -1,6 +1,0 @@
-Unspecified
-files
-created
-in
-Tor
-directory

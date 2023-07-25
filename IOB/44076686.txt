@@ -1,4 +1,0 @@
-vBulletin
-SQL
-Injection
-Vulnerability

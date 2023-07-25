@@ -1,7 +1,0 @@
-Adobe
-ColdFusion
-CKeditor
-Unrestricted
-File
-Upload
-Vulnerability

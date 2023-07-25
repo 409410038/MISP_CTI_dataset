@@ -1,7 +1,0 @@
-ISO
-file
-extracted
-from
-downloaded
-zip
-archive

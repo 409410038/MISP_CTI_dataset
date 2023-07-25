@@ -1,7 +1,0 @@
-Windows
-Contacts
-Remote
-Code
-Execution
-Vulnerability
-.

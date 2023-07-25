@@ -1,9 +1,0 @@
-Windows
-Point-to-Point
-Tunneling
-Protocol
-Denial
-of
-Service
-Vulnerability
-.

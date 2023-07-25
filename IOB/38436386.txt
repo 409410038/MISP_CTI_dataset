@@ -1,8 +1,0 @@
-Windows
-Address
-Book
-Remote
-Code
-Execution
-Vulnerability
-.

@@ -1,6 +1,0 @@
-Avtech
-Devices
-Unauthenticated
-Information
-Disclosure
-Vulnerability

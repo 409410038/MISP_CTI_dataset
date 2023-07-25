@@ -1,8 +1,0 @@
-Intelliantech
-Aptus
-Web
-1.24
-Remote
-Code
-Execution
-Vulnerability

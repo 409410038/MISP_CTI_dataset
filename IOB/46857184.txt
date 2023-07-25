@@ -1,7 +1,0 @@
-Altenergy
-Power
-Control
-Software
-Command
-Injection
-Vulnerability

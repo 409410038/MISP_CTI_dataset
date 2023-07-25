@@ -1,5 +1,0 @@
-Hikvision
-Camera
-Command
-Injection
-Vulnerability

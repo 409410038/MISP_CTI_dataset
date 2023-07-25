@@ -1,7 +1,0 @@
-Silverstripe
-silverstripe/cms
-through
-4.11.0
-allows
-XSS
-.

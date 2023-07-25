@@ -1,8 +1,0 @@
-Liferay
-Portal
-JSON
-Web
-Service
-Insecure
-Deserialization
-Vulnerability

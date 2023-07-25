@@ -1,8 +1,0 @@
-Windows
-Workstation
-Service
-Elevation
-of
-Privilege
-Vulnerability
-.

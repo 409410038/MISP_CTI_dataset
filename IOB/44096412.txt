@@ -1,6 +1,0 @@
-Draytek
-Vigor
-Remote
-Command
-Execution
-Vulnerability

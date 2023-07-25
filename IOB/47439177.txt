@@ -1,9 +1,0 @@
-Windows
-Common
-Log
-File
-System
-Driver
-Information
-Disclosure
-Vulnerability

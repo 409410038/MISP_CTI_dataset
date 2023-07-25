@@ -1,5 +1,0 @@
-Maccms
-Remote
-Command
-Execution
-Vulnerability

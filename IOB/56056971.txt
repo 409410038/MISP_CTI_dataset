@@ -1,8 +1,0 @@
-DBatLoader/NetWireRC
-RAT
-as
-part
-of
-HTML
-attached
-campaign

@@ -1,9 +1,0 @@
-Product
-:
-AndroidVersions
-:
-Android
-SoCAndroid
-ID
-:
-A-277775870

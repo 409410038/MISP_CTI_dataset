@@ -1,4 +1,0 @@
-PAN-OS
-Authentication
-Bypass
-Vulnerability

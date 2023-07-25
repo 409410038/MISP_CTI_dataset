@@ -1,7 +1,0 @@
-Seowon
-Slc-130
-Router
-Remote
-Command
-Execution
-Vulnerability

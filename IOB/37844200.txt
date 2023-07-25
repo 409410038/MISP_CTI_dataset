@@ -1,9 +1,0 @@
-Windows
-Devices
-Human
-Interface
-Elevation
-of
-Privilege
-Vulnerability
-.

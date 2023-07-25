@@ -1,8 +1,0 @@
-MobileIron
-Core
-and
-Connector
-Remote
-Code
-Execution
-Vulnerability

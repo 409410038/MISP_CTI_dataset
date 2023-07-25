@@ -1,9 +1,0 @@
-Windows
-AppContracts
-API
-Server
-Elevation
-of
-Privilege
-Vulnerability
-.

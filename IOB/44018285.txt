@@ -1,4 +1,0 @@
-MegaRAC
-Default
-Credentials
-Vulnerability

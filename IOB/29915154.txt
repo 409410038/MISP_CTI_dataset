@@ -1,7 +1,0 @@
-String
-Format
-Overflow
-in
-syslog
-(
-)

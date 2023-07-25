@@ -1,8 +1,0 @@
-OEM
-Presentation
-Platform
-Unauthenticated
-Remote
-Command
-Injection
-Vulnerability

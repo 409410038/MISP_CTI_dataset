@@ -1,5 +1,0 @@
-Zimbra
-Remote
-Code
-Execution
-Vulnerability

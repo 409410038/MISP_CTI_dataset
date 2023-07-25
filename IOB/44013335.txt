@@ -1,6 +1,0 @@
-PowerShell
-Remote
-Code
-Execution
-Vulnerability
-.

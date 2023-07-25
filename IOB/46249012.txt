@@ -1,7 +1,0 @@
-Group
-:
-medusa
-Victim
-:
-Garbarino
-SAICeI

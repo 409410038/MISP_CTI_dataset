@@ -1,7 +1,0 @@
-HCL
-VersionVault
-Express
-exposes
-administrator
-credentials
-.

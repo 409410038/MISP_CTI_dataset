@@ -1,7 +1,0 @@
-cmd.exe
-/c
-vssadmin
-Delete
-Shadows
-/All
-/Quiet

@@ -1,9 +1,0 @@
-Active
-Directory
-Certificate
-Services
-Elevation
-of
-Privilege
-Vulnerability
-.

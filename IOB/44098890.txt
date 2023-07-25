@@ -1,6 +1,0 @@
-Nortek
-Linear
-eMerge
-Command
-Injection
-Vulnerability

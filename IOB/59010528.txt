@@ -1,8 +1,0 @@
-Windows
-Collaborative
-Translation
-Framework
-Elevation
-of
-Privilege
-Vulnerability

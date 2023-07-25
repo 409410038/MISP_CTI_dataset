@@ -1,7 +1,0 @@
-GPON
-Home
-Routers
-Remote
-Code
-Execution
-Vulnerability

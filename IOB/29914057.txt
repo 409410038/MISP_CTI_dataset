@@ -1,3 +1,0 @@
-Manipulating
-User-Controlled
-Variables

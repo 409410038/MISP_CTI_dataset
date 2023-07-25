@@ -1,5 +1,0 @@
-PHPCMS2008
-type.php
-Code
-Injection
-Vulnerability

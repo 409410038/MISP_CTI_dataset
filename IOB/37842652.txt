@@ -1,9 +1,0 @@
-Active
-Directory
-Domain
-Services
-Elevation
-of
-Privilege
-Vulnerability
-.

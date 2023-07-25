@@ -1,7 +1,0 @@
-Realtek
-Jungle
-SDK
-Remote
-Code
-Execution
-Vulnerability

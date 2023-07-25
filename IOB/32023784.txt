@@ -1,6 +1,0 @@
-HTTP
-Post
-Content
-Length
-Too
-Long

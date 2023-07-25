@@ -1,5 +1,0 @@
-Barni
-master_ip_camera01
-Privilege
-Escalation
-Vulnerability

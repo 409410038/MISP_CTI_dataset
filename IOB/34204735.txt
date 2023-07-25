@@ -1,4 +1,0 @@
-cmd.ex«Õ
-/c
-n«Õt
-use

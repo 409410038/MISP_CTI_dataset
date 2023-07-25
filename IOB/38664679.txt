@@ -1,8 +1,0 @@
-Windows
-Server
-Service
-Remote
-Code
-Execution
-Vulnerability
-.

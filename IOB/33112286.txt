@@ -1,9 +1,0 @@
-wscript.exe
-//e
-:
-vbscript
-//b
-%
-APPDATA
-%
-\Microsoft\Templates\version.ini

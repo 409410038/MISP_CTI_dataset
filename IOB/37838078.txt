@@ -1,6 +1,0 @@
-.NET
-Denial
-of
-Service
-Vulnerability
-.

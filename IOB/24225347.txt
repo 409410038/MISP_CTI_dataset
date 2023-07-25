@@ -1,19 +1,19 @@
-cmd.exe
-/Q
-/c
-start
-c
-:
-\stage1.exe
-1
->
-\\127.0.0.1\ADMIN
-$
-\__
-[
-TIMESTAMP
-]
-2
->
-&
-1
+cmd.exe	B-Indicator
+/Q	I-Indicator
+/c	I-Indicator
+start	I-Indicator
+c	I-Indicator
+:	I-Indicator
+\stage1.exe	I-Indicator
+1	I-Indicator
+>	I-Indicator
+\\127.0.0.1\ADMIN	I-Indicator
+$	I-Indicator
+\__	I-Indicator
+[	I-Indicator
+TIMESTAMP	I-Indicator
+]	I-Indicator
+2	I-Indicator
+>	I-Indicator
+&	I-Indicator
+1	I-Indicator

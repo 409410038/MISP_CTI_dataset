@@ -1,6 +1,0 @@
-TrueBot
-C2
-.
-DiceLoader
-malware
-.

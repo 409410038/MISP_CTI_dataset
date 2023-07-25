@@ -1,5 +1,0 @@
-Heap
-Overflow
-in
-BaseBmpSupportLib
-.

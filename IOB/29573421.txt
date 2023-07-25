@@ -1,5 +1,0 @@
-Mirai
-and
-Reaper
-Exploitation
-Traffic

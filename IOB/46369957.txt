@@ -1,7 +1,0 @@
-Group
-:
-alphv
-Victim
-:
-James
-Group

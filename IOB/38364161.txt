@@ -1,8 +1,0 @@
-This
-affects
-all
-versions
-of
-package
-monorepo-build
-.

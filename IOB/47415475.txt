@@ -1,5 +1,0 @@
-ServiceNow
-Tokyo
-allows
-XSS
-.

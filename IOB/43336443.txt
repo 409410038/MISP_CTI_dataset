@@ -1,9 +1,0 @@
-D-Link
-DIR3060
-DIR3060A1_FW111B04.bin
-is
-vulnerable
-to
-Buffer
-Overflow
-.

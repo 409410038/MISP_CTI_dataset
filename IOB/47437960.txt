@@ -1,7 +1,0 @@
-Microsoft
-Message
-Queuing
-Denial
-of
-Service
-Vulnerability

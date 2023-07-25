@@ -1,5 +1,0 @@
-Windows
-Kernel
-Information
-Disclosure
-Vulnerability

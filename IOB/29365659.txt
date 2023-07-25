@@ -1,9 +1,0 @@
-WordPress
-WPGraphQL
-Plugin
-Authentication
-Bypass
-and
-Information
-Disclosure
-Vulnerability

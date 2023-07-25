@@ -1,8 +1,0 @@
-Group
-:
-Lorenz
-Victim
-:
-Salud
-Family
-Health

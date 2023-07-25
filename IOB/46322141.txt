@@ -1,7 +1,0 @@
-Windows
-Secure
-Channel
-Denial
-of
-Service
-Vulnerability

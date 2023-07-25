@@ -1,9 +1,0 @@
-Cross-Site
-Request
-Forgery
-(
-CSRF
-)
-vulnerability
-in
-Magneticlab

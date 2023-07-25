@@ -1,8 +1,0 @@
-Microsoft
-OneDrive
-for
-MacOS
-Elevation
-of
-Privilege
-Vulnerability

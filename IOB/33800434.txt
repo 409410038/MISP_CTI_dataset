@@ -1,5 +1,0 @@
-Magento
-Remote
-Code
-Execution
-Vulnerability

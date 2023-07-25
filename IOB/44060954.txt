@@ -1,9 +1,0 @@
-WordPress
-WPCargo
-Track
-and
-Trace
-Plugin
-Code
-Execution
-Vulnerability

@@ -1,7 +1,0 @@
-Windows
-Storage
-Elevation
-of
-Privilege
-Vulnerability
-.

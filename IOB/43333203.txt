@@ -1,8 +1,0 @@
-Windows
-Kerberos
-RC4-HMAC
-Elevation
-of
-Privilege
-Vulnerability
-.

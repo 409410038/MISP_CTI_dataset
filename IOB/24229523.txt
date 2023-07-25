@@ -1,6 +1,6 @@
-From
-title
-:
-The
-Bitcoin
-Freedom
+From	O
+title	O
+:	O
+The	O
+Bitcoin	B-Malware
+Freedom	I-Malware

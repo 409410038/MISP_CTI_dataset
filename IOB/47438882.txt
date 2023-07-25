@@ -1,7 +1,0 @@
-.NET
-DLL
-Hijacking
-Remote
-Code
-Execution
-Vulnerability

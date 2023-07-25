@@ -1,9 +1,0 @@
-PowerShell
-scripts
-in
-Network
-share
-(
-credential
-leak
-)

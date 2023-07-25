@@ -1,7 +1,0 @@
-snipe-it
-is
-vulnerable
-to
-Improper
-Access
-Control

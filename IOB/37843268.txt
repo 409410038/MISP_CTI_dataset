@@ -1,5 +1,0 @@
-Win32k
-Information
-Disclosure
-Vulnerability
-.

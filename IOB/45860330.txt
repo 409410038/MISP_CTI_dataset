@@ -1,9 +1,0 @@
-Transient
-DOS
-in
-modem
-due
-to
-reachable
-assertion
-.

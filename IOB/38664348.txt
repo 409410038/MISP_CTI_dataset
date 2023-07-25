@@ -1,6 +1,0 @@
-DiskUsage.exe
-Remote
-Code
-Execution
-Vulnerability
-.

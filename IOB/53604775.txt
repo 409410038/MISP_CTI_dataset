@@ -1,7 +1,0 @@
-Citrix
-SD-WAN
-Center
-Unauthenticated
-Command
-Injection
-Vulnerability

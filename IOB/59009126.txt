@@ -1,8 +1,0 @@
-Windows
-TPM
-Device
-Driver
-Elevation
-of
-Privilege
-Vulnerability

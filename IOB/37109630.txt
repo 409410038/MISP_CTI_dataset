@@ -1,7 +1,0 @@
-Yara
-signature
-match
-,
-detection
-:
-suspicious

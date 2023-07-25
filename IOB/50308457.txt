@@ -1,9 +1,0 @@
-Microsoft
-Remote
-Desktop
-app
-for
-Windows
-Information
-Disclosure
-Vulnerability

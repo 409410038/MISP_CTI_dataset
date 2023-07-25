@@ -1,8 +1,0 @@
-Microsoft
-Windows
-Sysmon
-Elevation
-of
-Privilege
-Vulnerability
-.

@@ -1,3 +1,0 @@
-Sysinternal
-tool
-PsExec

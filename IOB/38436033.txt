@@ -1,8 +1,0 @@
-FUDforum
-3.1.1
-is
-vulnerable
-to
-Stored
-XSS
-.

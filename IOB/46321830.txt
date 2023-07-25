@@ -1,5 +1,0 @@
-Azure
-Apache
-Ambari
-Spoofing
-Vulnerability

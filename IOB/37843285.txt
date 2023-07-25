@@ -1,8 +1,0 @@
-Windows
-Event
-Tracing
-Elevation
-of
-Privilege
-Vulnerability
-.

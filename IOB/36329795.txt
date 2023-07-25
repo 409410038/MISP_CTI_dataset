@@ -1,4 +1,0 @@
-a
-variant
-of
-Win32/Kryptik.HQFM

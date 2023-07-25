@@ -1,5 +1,0 @@
-Netgear
-Firmadyne
-Command
-Injection
-Vulnerability

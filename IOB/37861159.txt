@@ -1,7 +1,0 @@
-vim
-is
-vulnerable
-to
-Use
-After
-Free

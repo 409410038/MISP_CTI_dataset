@@ -1,8 +1,0 @@
-Layer
-2
-Tunneling
-Protocol
-Remote
-Code
-Execution
-Vulnerability

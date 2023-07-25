@@ -1,9 +1,0 @@
-LibreHealth
-EHR
-Base
-2.0.0
-allows
-interface/main/finder/finder_navigation.php
-patient
-XSS
-.

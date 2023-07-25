@@ -1,7 +1,0 @@
-%
-USERPROFILE
-%
-\downloads\network\5-ns
-new
-zippp\5-ns
-new.exe

@@ -1,7 +1,0 @@
-D-Link
-HNAP
-SOAPAction
-Header
-Command
-Execution
-Vulnerability

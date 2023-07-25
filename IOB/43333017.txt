@@ -1,8 +1,0 @@
-Windows
-Human
-Interface
-Device
-Information
-Disclosure
-Vulnerability
-.

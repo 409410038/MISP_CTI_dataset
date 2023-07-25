@@ -1,7 +1,0 @@
-Elastic
-Kibana
-server.js
-Local
-File
-Inclusion
-Vulnerability

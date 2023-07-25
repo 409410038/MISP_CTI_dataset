@@ -1,9 +1,0 @@
-DirectX
-Graphics
-Kernel
-File
-Denial
-of
-Service
-Vulnerability
-.

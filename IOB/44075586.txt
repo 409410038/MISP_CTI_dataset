@@ -1,7 +1,0 @@
-Windows
-Overlay
-Filter
-Information
-Disclosure
-Vulnerability
-.

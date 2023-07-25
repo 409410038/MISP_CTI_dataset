@@ -1,7 +1,0 @@
-SAP
-Multiple
-Products
-HTTP
-Request
-Smuggling
-Vulnerability

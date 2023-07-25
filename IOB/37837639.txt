@@ -1,8 +1,0 @@
-Microsoft
-Dynamics
-GP
-Remote
-Code
-Execution
-Vulnerability
-.

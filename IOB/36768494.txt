@@ -1,6 +1,0 @@
-WSO2
-Products
-Arbitrary
-File
-Upload
-Vulnerability

@@ -1,8 +1,0 @@
-This
-candidate
-is
-unused
-by
-its
-CNA
-.

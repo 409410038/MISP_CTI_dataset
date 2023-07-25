@@ -1,5 +1,0 @@
-Smallshell
-ASP
-Webshell
-Upload
-Detection

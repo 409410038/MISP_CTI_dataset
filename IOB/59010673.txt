@@ -1,8 +1,0 @@
-.NET
-and
-Visual
-Studio
-Remote
-Code
-Execution
-Vulnerability

@@ -1,5 +1,0 @@
-Microsoft
-SharePoint
-Server
-Spoofing
-Vulnerability

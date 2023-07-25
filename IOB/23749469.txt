@@ -1,5 +1,5 @@
-From
-title
-:
-Please
-wait
+From	O
+title	O
+:	O
+Please	O
+wait	O

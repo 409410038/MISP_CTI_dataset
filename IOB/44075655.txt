@@ -1,7 +1,0 @@
-Windows
-Authentication
-Remote
-Code
-Execution
-Vulnerability
-.

@@ -1,5 +1,0 @@
-Event
-Manager
-SQL
-Injection
-Vulnerability

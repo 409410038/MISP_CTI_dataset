@@ -1,9 +1,0 @@
-Virtual
-Machine
-IDE
-Drive
-Elevation
-of
-Privilege
-Vulnerability
-.
