@@ -1,0 +1,3 @@
+Windows	B-Application
+Update	I-Application
+Agent	I-Application

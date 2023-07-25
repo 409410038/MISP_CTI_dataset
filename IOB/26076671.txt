@@ -1,0 +1,7 @@
+cmd.exe	B-Indicator
+/c	I-Indicator
+vssadmin	I-Indicator
+Delete	I-Indicator
+Shadows	I-Indicator
+/All	I-Indicator
+/Quiet	I-Indicator

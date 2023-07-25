@@ -1,0 +1,3 @@
+Microsoft	B-Application
+Configuration	I-Application
+Application	I-Application

@@ -1,0 +1,5 @@
+Description	O
+:	O
+Deletes	B-TTPs
+Shadow	I-TTPs
+Copies	I-TTPs

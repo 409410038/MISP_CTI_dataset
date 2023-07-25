@@ -1,0 +1,11 @@
+Description	O
+:	O
+Deletes	B-TTPs
+application	I-TTPs
+log	I-TTPs
+","	O
+cmd.exe	B-Indicator
+/c	I-Indicator
+wevtutil	I-Indicator
+cl	I-Indicator
+application	I-Indicator
