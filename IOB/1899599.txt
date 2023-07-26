@@ -1,0 +1,15 @@
+North	O
+Korea	O
+??	O
+s	O
+Lazarus	B-ThreatActor
+APT	I-ThreatActor
+leverages	O
+Windows	B-Application
+Update	I-Application
+client	O
+""","""	O
+GitHub	B-Application
+in	O
+latest	O
+campaign	O

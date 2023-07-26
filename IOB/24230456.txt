@@ -1,3 +1,0 @@
-DFIR	B-Application
-Resources	I-Application
-Whispergate	I-Application

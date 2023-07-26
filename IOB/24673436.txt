@@ -1,8 +1,0 @@
-The	O
-GRU	B-Application
-¡¦	O
-s	O
-galaxy	O
-of	O
-Russian-speaking	B-Application
-websites	B-Application

@@ -1,0 +1,9 @@
+IOCs	O
+related	O
+to	O
+a	O
+malspam	B-Malware
+campaign	O
+distributing	O
+FormBook	B-Malware
+.	O

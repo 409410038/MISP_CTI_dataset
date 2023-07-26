@@ -1,0 +1,11 @@
+IOCs	O
+related	O
+to	O
+a	O
+malspam	B-Malware
+campaign	O
+distributing	O
+he	O
+LokiBot	B-Malware
+infostealer	O
+.	O

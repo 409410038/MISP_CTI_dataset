@@ -1,0 +1,6 @@
+DFIR	B-Application
+Resources	I-Application
+Whispergate	I-Application
+Source	I-Application
+Code	I-Application
+Repository	I-Application

@@ -1,7 +1,0 @@
-Copyright	O
-(	O
-C	O
-)	O
-Microsoft	B-Application
-Corp	I-Application
-.	O

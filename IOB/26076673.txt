@@ -1,9 +1,0 @@
-cmd.exe	B-Indicator
-/c	I-Indicator
-bcdedit	I-Indicator
-/set	I-Indicator
-{	I-Indicator
-default	I-Indicator
-}	I-Indicator
-recoveryenabled	I-Indicator
-No	I-Indicator

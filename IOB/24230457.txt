@@ -1,3 +1,0 @@
-Source	B-Application
-Code	I-Application
-Repository	I-Application
