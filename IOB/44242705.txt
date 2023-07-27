@@ -1,7 +1,7 @@
 IOC	O
 about	O
 a	O
-malspam	B-Malware
+malspam	B-TTPs
 campaign	O
 spreading	O
 Formbook	B-Malware

@@ -1,0 +1,5 @@
+fsutil	B-Indicator
+behavior	I-Indicator
+set	I-Indicator
+SymlinkEvaluation	I-Indicator
+R2R:1	I-Indicator

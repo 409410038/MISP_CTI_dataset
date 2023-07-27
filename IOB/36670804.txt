@@ -2,7 +2,7 @@ IOCs	O
 related	O
 to	O
 a	O
-malspam	B-Malware
+malspam	B-TTPs
 campaign	O
 distributing	O
 Emotet	B-Malware

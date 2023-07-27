@@ -1,0 +1,10 @@
+reg	B-Indicator
+add	I-Indicator
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters	I-Indicator
+/v	I-Indicator
+MaxMpxCt	I-Indicator
+/d	I-Indicator
+65535	I-Indicator
+/t	I-Indicator
+REG_DWORD	I-Indicator
+/f	I-Indicator

@@ -1,0 +1,4 @@
+wmic	B-Indicator
+csproduct	I-Indicator
+get	I-Indicator
+UUID	I-Indicator
