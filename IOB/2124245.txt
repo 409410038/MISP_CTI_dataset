@@ -1,0 +1,10 @@
+Description	O
+:	O
+Deletes	O
+security	O
+log	O
+cmd.exe	B-Indicator
+/c	O
+wevtutil	B-Application
+cl	O
+security	O

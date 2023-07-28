@@ -1,0 +1,11 @@
+Multiple	O
+modules	O
+""","""	O
+web	B-TTPs
+injection	I-TTPs
+capabilities	O
+""","""	O
+connections	O
+to	O
+c2	B-TTPs
+servers	I-TTPs

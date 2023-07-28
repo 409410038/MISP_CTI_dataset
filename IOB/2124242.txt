@@ -1,0 +1,15 @@
+Description	O
+:	O
+Disables	O
+Win	B-Application
+10	I-Application
+recovery	O
+cmd.exe	B-Application
+/c	O
+bcdedit	B-Application
+/set	O
+{	O
+default	O
+}	O
+recoveryenabled	O
+No	O

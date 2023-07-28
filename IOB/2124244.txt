@@ -1,0 +1,16 @@
+Description	O
+:	O
+This	O
+command	O
+has	O
+an	O
+invalid	O
+syntax	O
+and	O
+errors	O
+out	O
+cmd.exe	B-Indicator
+/c	O
+wmic	B-Application
+SHADOWCOPY	O
+/nointeractive	O

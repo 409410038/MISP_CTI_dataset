@@ -1,0 +1,14 @@
+Description	O
+:	O
+Ignore	O
+boot	O
+failures	O
+cmd.exe	B-Indicator
+/c	O
+bcdedit	B-Application
+/set	O
+{	O
+default	O
+}	O
+bootstatuspolicy	O
+ignoreallfailures	O

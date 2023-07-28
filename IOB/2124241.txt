@@ -1,0 +1,12 @@
+Description	O
+:	O
+Deletes	O
+Shadow	O
+Copies	O
+cmd.exe	B-Application
+/c	O
+vssadmin	B-Application
+Delete	O
+Shadows	O
+/All	O
+/Quiet	O

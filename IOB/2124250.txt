@@ -1,0 +1,6 @@
+<	O
+LockBit	B-Malware
+2.0	I-Malware
+Ransomware	B-TTPs
+path	O
+>	O
