@@ -92,7 +92,7 @@ drives	O
 of	O
 your	O
 organization	O
-","	O
+,	O
 You	O
 should	O
 pay	O

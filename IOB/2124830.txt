@@ -15,7 +15,7 @@ https	B-Indicator
 :	I-Indicator
 //www.softether.org	I-Indicator
 )	O
-","	O
+,	O
 advertised	O
 as	O
 ``	O

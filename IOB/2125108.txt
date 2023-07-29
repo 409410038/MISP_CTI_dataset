@@ -20,7 +20,7 @@ hospital	O
 located	O
 in	O
 Gampaha	O
-","	O
+,	O
 Western	O
 Province	O
 Sri	O
