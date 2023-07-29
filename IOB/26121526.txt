@@ -9,13 +9,13 @@ documents	O
 to	O
 deliver	O
 malware	B-TTPs
-""","""	O
+,	O
 such	O
 as	O
 NetWire	B-Malware
-""","""	O
+,	O
 DarkComet	B-Malware
-""","""	O
+,	O
 and	O
 simple	O
 keyloggers	B-TTPs

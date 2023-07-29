@@ -8,13 +8,13 @@ on	O
 human	O
 rights	O
 activists	O
-""","""	O
+,	O
 human	O
 rights	O
 defenders	O
-""","""	O
+,	O
 academics	O
-""","""	O
+,	O
 and	O
 lawyers	O
 across	O

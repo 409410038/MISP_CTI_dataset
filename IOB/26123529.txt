@@ -1,10 +1,10 @@
 Multiple	O
 modules	O
-""","""	O
+,	O
 web	B-TTPs
 injection	I-TTPs
 capabilities	O
-""","""	O
+,	O
 connections	O
 to	O
 c2	B-TTPs
