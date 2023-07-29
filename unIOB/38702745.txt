@@ -1,0 +1,15 @@
+OX
+App
+Suite
+through
+7.10.5
+allows
+XSS
+via
+an
+unknown
+system
+message
+in
+Chat
+.

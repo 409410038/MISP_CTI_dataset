@@ -1,0 +1,16 @@
+This
+sample
+of
+MimiKatz
+was
+compiled
+with
+only
+the
+module
+related
+to
+Kerberos
+tickets
+operations
+.

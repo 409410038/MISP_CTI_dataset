@@ -1,0 +1,7 @@
+NuGet
+Client
+Elevation
+of
+Privilege
+Vulnerability
+.

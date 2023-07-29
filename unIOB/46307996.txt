@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Kesz1
+Technologies
+ipBlockList
+plugin
+<
+=
+1.0
+versions
+.

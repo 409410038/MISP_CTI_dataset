@@ -1,0 +1,14 @@
+Troyanos
+utilizados
+:
+AsyncRAT
+,
+njRAT
+,
+QuasarRAT
+,
+LimeRAT
+,
+RemcosRAT
+,
+ImminentMonitorRAT

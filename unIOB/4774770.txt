@@ -1,0 +1,9 @@
+YARA
+rule
+to
+Identify
+instances
+of
+FRP
+tool
+HACKTOOL_FRPClient

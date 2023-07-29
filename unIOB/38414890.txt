@@ -1,0 +1,13 @@
+Authorization
+Bypass
+Through
+User-Controlled
+Key
+in
+GitHub
+repository
+emicklei/go-restful
+prior
+to
+v3.8.0
+.

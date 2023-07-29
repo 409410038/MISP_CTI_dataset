@@ -1,0 +1,13 @@
+Information
+disclosure
+due
+to
+buffer
+over-read
+in
+modem
+while
+reading
+configuration
+parameters
+.

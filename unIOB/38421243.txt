@@ -1,0 +1,17 @@
+Simple
+Client
+Management
+System
+1.0
+is
+vulnerable
+to
+SQL
+Injection
+via
+/cms/admin/
+?
+page=client/view_client
+&
+id=
+.

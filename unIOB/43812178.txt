@@ -1,0 +1,17 @@
+Memory
+corruption
+in
+Bluetooth
+HOST
+due
+to
+buffer
+overflow
+while
+parsing
+the
+command
+response
+received
+from
+remote

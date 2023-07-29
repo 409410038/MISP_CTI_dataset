@@ -1,0 +1,15 @@
+Cotonti
+Siena
+0.9.20
+allows
+admins
+to
+conduct
+stored
+XSS
+attacks
+via
+a
+forum
+post
+.

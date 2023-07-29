@@ -1,0 +1,7 @@
+Detects
+first
+stage
+payload
+from
+WhisperGate
+all

@@ -1,0 +1,8 @@
+Silverstripe
+silverstripe/framework
+through
+4.10
+allows
+Session
+Fixation
+.

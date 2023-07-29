@@ -1,0 +1,15 @@
+Jeecg-boot
+v3.4.3
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+via
+the
+component
+updateNullByEmptyString
+.

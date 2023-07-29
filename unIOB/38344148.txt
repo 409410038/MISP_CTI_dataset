@@ -1,0 +1,8 @@
+This
+affects
+the
+package
+properties-reader
+before
+2.2.0
+.

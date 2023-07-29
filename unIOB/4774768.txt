@@ -1,0 +1,7 @@
+YARA
+rule
+to
+detect
+JSP
+encryption
+EncryptJSP

@@ -1,0 +1,13 @@
+Checks
+if
+process
+is
+being
+debugged
+by
+a
+debugger
+-
+(
+IsDebuggerPresent
+)

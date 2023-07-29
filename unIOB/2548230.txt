@@ -1,0 +1,7 @@
+Apache
+Struts
+Content-Type
+Remote
+Code
+Execution
+Vulnerability

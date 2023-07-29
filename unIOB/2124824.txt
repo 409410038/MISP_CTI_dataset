@@ -1,0 +1,12 @@
+This
+rule
+detects
+specific
+strings
+send
+through
+ICMP
+by
+the
+malware
+.

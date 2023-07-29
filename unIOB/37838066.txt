@@ -1,0 +1,8 @@
+Microsoft
+SharePoint
+Server
+Remote
+Code
+Execution
+Vulnerability
+.

@@ -1,0 +1,14 @@
+Luadec
+v0.9.9
+was
+discovered
+to
+contain
+a
+heap-buffer
+overflow
+via
+the
+function
+UnsetPending
+.

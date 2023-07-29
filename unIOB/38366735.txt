@@ -1,0 +1,8 @@
+MaxQueryDuration
+not
+honoured
+in
+Samba
+AD
+DC
+LDAP

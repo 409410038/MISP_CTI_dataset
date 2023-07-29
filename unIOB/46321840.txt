@@ -1,0 +1,10 @@
+Microsoft
+PostScript
+and
+PCL6
+Class
+Printer
+Driver
+Information
+Disclosure
+Vulnerability

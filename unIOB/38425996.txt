@@ -1,0 +1,16 @@
+In
+JetBrains
+IntelliJ
+IDEA
+before
+2022.1
+local
+code
+execution
+via
+links
+in
+Quick
+Documentation
+was
+possible

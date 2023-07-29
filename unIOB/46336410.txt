@@ -1,0 +1,13 @@
+Group
+:
+clop
+Victim
+:
+HATCHBANK.COM
+FILES
+PART1
+-
+database
+,
+GoDrive
+PUBLISHED

@@ -1,0 +1,15 @@
+Parsing
+malicious
+or
+large
+YAML
+documents
+can
+consume
+excessive
+amounts
+of
+CPU
+or
+memory
+.

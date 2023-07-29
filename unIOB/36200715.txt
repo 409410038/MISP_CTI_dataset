@@ -1,0 +1,9 @@
+sends
+emails
+using
+the
+address
+format
+InitialFirstname.Surname
+@
+pr-investissements.com

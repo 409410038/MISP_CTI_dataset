@@ -1,0 +1,6 @@
+%
+windir
+%
+\System32\svchost.exe
+-k
+WerSvcGroup

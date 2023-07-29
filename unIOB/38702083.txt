@@ -1,0 +1,17 @@
+RuoYi
+v4.7.2
+contains
+a
+CSV
+injection
+vulnerability
+through
+ruoyi-admin
+when
+a
+victim
+opens
+.xlsx
+log
+file
+.

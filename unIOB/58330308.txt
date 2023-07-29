@@ -1,0 +1,12 @@
+Memory
+corruption
+in
+Automotive
+GPU
+while
+querying
+a
+gsl
+memory
+node
+.

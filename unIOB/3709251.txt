@@ -1,0 +1,6 @@
+Studio-42
+elFinder
+getFullPath
+Directory
+Traversal
+Vulnerability

@@ -1,0 +1,13 @@
+BigFix
+Web
+Reports
+authorized
+users
+may
+see
+SMTP
+credentials
+in
+clear
+text
+.

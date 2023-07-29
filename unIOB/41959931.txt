@@ -1,0 +1,8 @@
+Windows
+Print
+Spooler
+Elevation
+of
+Privilege
+Vulnerability
+.

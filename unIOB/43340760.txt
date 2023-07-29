@@ -1,0 +1,15 @@
+Unauth
+.
+Plugin
+Settings
+Change
+vulnerability
+in
+Modula
+plugin
+<
+=
+2.6.9
+on
+WordPress
+.

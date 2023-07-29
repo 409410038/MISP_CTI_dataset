@@ -1,0 +1,15 @@
+Cross-site
+Scripting
+(
+XSS
+)
+-
+Generic
+in
+GitHub
+repository
+tsolucio/corebos
+prior
+to
+8.0
+.

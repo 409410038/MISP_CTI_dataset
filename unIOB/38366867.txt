@@ -1,0 +1,15 @@
+Authentication
+Bypass
+vulnerability
+in
+miniOrange
+WP
+OAuth
+Server
+plugin
+<
+=
+3.0.4
+at
+WordPress
+.

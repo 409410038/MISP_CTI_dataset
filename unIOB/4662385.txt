@@ -1,0 +1,9 @@
+Malicious
+LNK
+file
+download
+payload
+-
+Remcos
+RAT
+campaign

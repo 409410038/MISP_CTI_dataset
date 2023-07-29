@@ -1,0 +1,12 @@
+%
+WINDIR
+%
+\System32\cmd.exe
+/q
+/c
+``
+System
+Volume
+Information\
+\test2022.ucp
+''

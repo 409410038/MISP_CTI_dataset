@@ -1,0 +1,16 @@
+Improper
+Restriction
+of
+Rendered
+UI
+Layers
+or
+Frames
+in
+GitHub
+repository
+polonel/trudesk
+prior
+to
+1.2.2
+.

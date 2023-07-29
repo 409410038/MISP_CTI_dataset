@@ -1,0 +1,8 @@
+Alist
+v3.4.0
+is
+vulnerable
+to
+Directory
+Traversal
+,

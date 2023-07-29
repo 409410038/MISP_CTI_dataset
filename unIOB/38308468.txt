@@ -1,0 +1,11 @@
+SoftGuard
+Web
+(
+SGW
+)
+before
+5.1.5
+allows
+HTML
+injection
+.

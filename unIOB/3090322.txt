@@ -1,0 +1,11 @@
+cmd.exе
+/c
+ipconfig
+-аll
+Display
+network
+configuration
+on
+all
+network
+interfaces

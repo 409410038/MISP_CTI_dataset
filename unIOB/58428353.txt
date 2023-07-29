@@ -1,0 +1,16 @@
+The
+Danfoss
+AK-EM100
+web
+applications
+allow
+for
+OS
+command
+injection
+through
+the
+web
+application
+parameters
+.

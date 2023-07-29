@@ -1,0 +1,13 @@
+Reverse
+SOCKS5
+tunneler
+with
+TLS
+support
+(
+see
+https
+:
+//github.com/kost/revsocks
+)
+/windows/temp/

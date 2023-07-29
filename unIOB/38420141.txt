@@ -1,0 +1,16 @@
+A
+hardcoded
+cryptographic
+key
+in
+Automation360
+22
+allows
+an
+attacker
+to
+decrypt
+exported
+RPA
+packages
+.

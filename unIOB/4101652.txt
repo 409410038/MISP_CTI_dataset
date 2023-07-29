@@ -1,0 +1,11 @@
+A
+rule
+that
+can
+be
+used
+to
+scan
+for
+QUARTERRIG
+apt29_QUARTERRIG

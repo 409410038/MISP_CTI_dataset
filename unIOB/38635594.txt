@@ -1,0 +1,11 @@
+Windows
+Remote
+Desktop
+Protocol
+(
+RDP
+)
+Information
+Disclosure
+Vulnerability
+.

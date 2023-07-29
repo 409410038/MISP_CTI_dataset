@@ -1,0 +1,7 @@
+dolibarr
+is
+vulnerable
+to
+Business
+Logic
+Errors

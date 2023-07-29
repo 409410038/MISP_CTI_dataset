@@ -1,0 +1,15 @@
+SparrowDoor
+supports
+various
+tasking
+commands
+,
+including
+reading/writing
+files
+and
+opening
+a
+reverse
+shell
+.

@@ -1,0 +1,15 @@
+Exposure
+of
+Sensitive
+Information
+to
+an
+Unauthorized
+Actor
+in
+Packagist
+microweber/microweber
+prior
+to
+1.2.11
+.

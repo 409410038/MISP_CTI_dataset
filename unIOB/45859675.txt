@@ -1,0 +1,17 @@
+Memory
+corruption
+in
+modem
+due
+to
+use
+of
+out
+of
+range
+pointer
+offset
+while
+processing
+qmi
+msg

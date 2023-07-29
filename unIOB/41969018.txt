@@ -1,0 +1,17 @@
+Improper
+protection
+in
+IOMMU
+prior
+to
+SMR
+Oct-2022
+Release
+1
+allows
+unauthorized
+access
+to
+secure
+memory
+.

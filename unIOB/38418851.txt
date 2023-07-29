@@ -1,0 +1,12 @@
+thread_call
+in
+sqbaselib.cpp
+in
+SQUIRREL
+3.2
+lacks
+a
+certain
+sq_reservestack
+call
+.

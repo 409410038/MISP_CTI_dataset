@@ -1,0 +1,11 @@
+Detects
+APT28
+Python
+script
+used
+to
+bypass
+2FA
+on
+UKR.NET
+apt_APT28_UKRNET_2FA_Bypass_Python_Script

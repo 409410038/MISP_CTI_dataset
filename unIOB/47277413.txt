@@ -1,0 +1,14 @@
+NASM
+v2.16
+was
+discovered
+to
+contain
+a
+null
+pointer
+deference
+in
+the
+NASM
+component

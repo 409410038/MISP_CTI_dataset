@@ -1,0 +1,15 @@
+The
+TouchDown
+Timesheet
+tracking
+component
+4.1.4
+for
+Jira
+allows
+XSS
+in
+the
+calendar
+view
+.

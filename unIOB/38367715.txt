@@ -1,0 +1,16 @@
+DoraCMS
+v2.18
+and
+earlier
+allows
+attackers
+to
+bypass
+login
+authentication
+via
+a
+crafted
+HTTP
+request
+.

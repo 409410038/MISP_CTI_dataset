@@ -1,0 +1,6 @@
+Conti
+POC
+(
+.conti
+)
+ransomware

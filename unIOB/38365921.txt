@@ -1,0 +1,8 @@
+SiteServerCMS
+5.X
+has
+a
+Remote-download-Getshell-vulnerability
+via
+/SiteServer/Ajax/ajaxOtherService.aspx
+.

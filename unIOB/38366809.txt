@@ -1,0 +1,12 @@
+Baijicms
+v4
+was
+discovered
+to
+contain
+an
+arbitrary
+file
+upload
+vulnerability
+.

@@ -1,0 +1,7 @@
+Windows
+Kerberos
+Remote
+Code
+Execution
+Vulnerability
+.

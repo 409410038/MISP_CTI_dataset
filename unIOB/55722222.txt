@@ -1,0 +1,13 @@
+Zaver
+through
+2020-12-15
+allows
+directory
+traversal
+via
+the
+GET
+/
+..
+substring
+.

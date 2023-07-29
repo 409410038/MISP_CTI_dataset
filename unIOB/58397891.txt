@@ -1,0 +1,13 @@
+Pega
+Platform
+versions
+7.2
+to
+8.8.1
+are
+affected
+by
+an
+XSS
+issue
+.

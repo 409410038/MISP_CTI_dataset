@@ -1,0 +1,12 @@
+Credential
+dumping
+via
+comsvcs.dll
+:
+rundll32.exe
+%
+WINDIR
+%
+\System32\comsvcs.dll
+,
+MiniDump

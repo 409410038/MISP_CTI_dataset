@@ -1,0 +1,12 @@
+Stored
+Cross
+Site
+Scripting
+in
+GitHub
+repository
+openemr/openemr
+prior
+to
+6.0.0.4
+.

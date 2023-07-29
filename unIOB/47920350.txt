@@ -1,0 +1,13 @@
+AMI
+MegaRAC
+SPx12
+and
+SPx13
+devices
+have
+Insufficient
+Verification
+of
+Data
+Authenticity
+.

@@ -1,0 +1,5 @@
+schtasks
+/query
+/tn
+microsoftwindowswindowsupdatescheduled
+/v

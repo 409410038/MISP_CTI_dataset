@@ -1,0 +1,15 @@
+Unauth
+.
+SQL
+Injection
+vulnerability
+in
+Cryptocurrency
+Widgets
+Pack
+Plugin
+<
+=1.8.1
+on
+WordPress
+.

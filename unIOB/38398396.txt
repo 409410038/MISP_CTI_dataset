@@ -1,0 +1,13 @@
+In
+GraphicsMagick
+,
+a
+heap
+buffer
+overflow
+was
+found
+when
+parsing
+MIFF
+.

@@ -1,0 +1,8 @@
+ROZCOM
+client
+CWE-798
+:
+Use
+of
+Hard-coded
+Credentials

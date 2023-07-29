@@ -1,0 +1,15 @@
+Sigma
+detected
+:
+Dot
+net
+compiler
+compiles
+file
+from
+suspicious
+location
+,
+detection
+:
+malicious

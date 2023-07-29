@@ -1,0 +1,7 @@
+Windows
+Kerberos
+Elevation
+of
+Privilege
+Vulnerability
+.

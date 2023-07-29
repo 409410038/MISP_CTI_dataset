@@ -1,0 +1,13 @@
+May
+disable
+shadow
+drive
+data
+(
+uses
+vssadmin
+)
+,
+detection
+:
+malicious

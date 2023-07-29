@@ -1,0 +1,17 @@
+Checks
+for
+the
+Locally
+Unique
+Identifier
+on
+the
+system
+for
+a
+suspicious
+privilege
+-
+(
+LookupPrivilegeValueW
+)

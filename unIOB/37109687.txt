@@ -1,0 +1,14 @@
+Contains
+functionality
+to
+load
+and
+extract
+PE
+file
+embedded
+resources
+,
+detection
+:
+clean

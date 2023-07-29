@@ -1,0 +1,12 @@
+Windows
+Local
+Security
+Authority
+(
+LSA
+)
+Remote
+Code
+Execution
+Vulnerability
+.

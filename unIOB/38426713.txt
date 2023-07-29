@@ -1,0 +1,17 @@
+MyBatis
+PageHelper
+v1.x.x-v5.x.x
+was
+discovered
+to
+contain
+a
+time-blind
+SQL
+injection
+vulnerability
+via
+the
+orderBy
+parameter
+.

@@ -1,0 +1,7 @@
+cmd.exе
+/c
+nеt
+user
+Display
+local
+users

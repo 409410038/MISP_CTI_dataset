@@ -1,0 +1,11 @@
+Parallels
+H-Sphere
+3.6.2
+allows
+XSS
+via
+the
+index_en.php
+from
+parameter
+.

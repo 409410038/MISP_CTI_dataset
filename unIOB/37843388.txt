@@ -1,0 +1,10 @@
+Local
+Security
+Authority
+Subsystem
+Service
+Elevation
+of
+Privilege
+Vulnerability
+.

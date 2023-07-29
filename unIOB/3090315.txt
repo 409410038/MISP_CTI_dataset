@@ -1,0 +1,13 @@
+cmd.exе
+/c
+аppcmd
+list
+site
+List
+the
+hosted
+websites
+on
+the
+web
+server

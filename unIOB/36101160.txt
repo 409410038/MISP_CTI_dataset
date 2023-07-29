@@ -1,0 +1,17 @@
+net
+group
+/domain
+“
+Domain
+Admins
+”
+Admins
+/add
+net
+group
+/domain
+“
+RDP_Admin
+”
+Admins
+/add

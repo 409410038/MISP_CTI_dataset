@@ -1,0 +1,10 @@
+Prototype
+Pollution
+in
+GitHub
+repository
+mastodon/mastodon
+prior
+to
+3.5.0
+.

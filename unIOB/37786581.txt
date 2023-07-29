@@ -1,0 +1,16 @@
+A
+Cross
+Site
+Scripting
+vulnerability
+exists
+RosarioSIS
+before
+4.3
+via
+the
+SanitizeMarkDown
+function
+in
+ProgramFunctions/MarkDownHTML.fnc.php
+.

@@ -1,0 +1,14 @@
+Detects
+suspicious
+code
+execution
+from
+vulnerable
+PaperCut
+versions
+MF
+and
+NG
+PaperCut
+MF/NG
+Vulnerability

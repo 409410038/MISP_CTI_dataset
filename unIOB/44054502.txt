@@ -1,0 +1,11 @@
+SourceCodester
+Sanitization
+Management
+System
+1.0
+is
+vulnerable
+to
+SQL
+Injection
+.

@@ -1,0 +1,16 @@
+Stormshield
+Network
+Security
+(
+SNS
+)
+3.x
+has
+an
+Integer
+Overflow
+in
+the
+high-availability
+component
+.

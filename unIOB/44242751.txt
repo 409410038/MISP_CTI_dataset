@@ -1,0 +1,11 @@
+IOCs
+related
+to
+a
+malspam
+campaign
+distributing
+he
+FormBook
+infostealer
+.

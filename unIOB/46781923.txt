@@ -1,0 +1,12 @@
+PrestaShop
+jmsblog
+2.5.5
+was
+discovered
+to
+contain
+a
+SQL
+injection
+vulnerability
+.

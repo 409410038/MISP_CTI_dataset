@@ -1,0 +1,7 @@
+Exploitation
+of
+.NET
+deserialization
+in
+Event
+Viewer

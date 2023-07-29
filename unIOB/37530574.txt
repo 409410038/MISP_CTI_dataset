@@ -1,0 +1,15 @@
+Zoho
+ManageEngine
+SharePoint
+Manager
+Plus
+before
+4329
+allows
+account
+takeover
+because
+authorization
+is
+mishandled
+.

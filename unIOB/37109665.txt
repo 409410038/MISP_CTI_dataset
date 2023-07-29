@@ -1,0 +1,12 @@
+Performs
+DNS
+queries
+to
+domains
+with
+low
+reputation
+,
+detection
+:
+malicious

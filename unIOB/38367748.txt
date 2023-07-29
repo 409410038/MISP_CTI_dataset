@@ -1,0 +1,13 @@
+FusionPBX
+5.0.1
+was
+discovered
+to
+contain
+a
+command
+injection
+vulnerability
+via
+/fax/fax_send.php
+.

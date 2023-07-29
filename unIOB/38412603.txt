@@ -1,0 +1,15 @@
+Microsoft
+File
+Server
+Shadow
+Copy
+Agent
+Service
+(
+RVSS
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

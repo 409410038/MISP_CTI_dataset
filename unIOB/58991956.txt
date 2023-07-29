@@ -1,0 +1,13 @@
+In
+JetBrains
+YouTrack
+before
+2023.1.10518
+stored
+XSS
+in
+a
+Markdown-rendering
+engine
+was
+possible

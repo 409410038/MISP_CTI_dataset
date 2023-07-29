@@ -1,0 +1,12 @@
+The
+executable
+uses
+a
+known
+packer
+-
+(
+T1045
+,
+ioc
+)

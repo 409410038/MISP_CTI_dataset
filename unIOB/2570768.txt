@@ -1,0 +1,8 @@
+XMRig
+Miner
+Command
+and
+Control
+Traffic
+Detection
+cryptominer

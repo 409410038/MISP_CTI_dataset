@@ -1,0 +1,6 @@
+net
+user
+/domain
+Admins
+Sb021015
+/add

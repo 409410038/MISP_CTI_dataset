@@ -1,0 +1,12 @@
+Windows
+Advanced
+Local
+Procedure
+Call
+(
+ALPC
+)
+Elevation
+of
+Privilege
+Vulnerability

@@ -1,0 +1,15 @@
+The
+Wiper
+binary
+is
+signed
+using
+a
+code
+signing
+certificate
+issued
+to
+Hermetica
+Digital
+Ltd

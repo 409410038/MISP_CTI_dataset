@@ -1,0 +1,10 @@
+JoeSecurity_Ransomware_Generic
+:
+Process
+Memory
+Space
+:
+winlogon.exe
+PID
+:
+3508

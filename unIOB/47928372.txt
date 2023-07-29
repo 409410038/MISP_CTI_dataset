@@ -1,0 +1,17 @@
+Unprotected
+Alternate
+Channel
+vulnerability
+in
+debug
+console
+of
+GateManager
+allows
+system
+administrator
+to
+obtain
+sensitive
+information
+.

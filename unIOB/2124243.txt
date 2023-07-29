@@ -1,0 +1,14 @@
+Description
+:
+Ignore
+boot
+failures
+cmd.exe
+/c
+bcdedit
+/set
+{
+default
+}
+bootstatuspolicy
+ignoreallfailures

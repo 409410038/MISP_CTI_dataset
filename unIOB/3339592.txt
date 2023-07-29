@@ -1,0 +1,8 @@
+CmD.exe
+/C
+cscript
+%
+tmp
+%
+\Client.vbs
+AC

@@ -1,0 +1,13 @@
+Schema
+in
+lib/schema.js
+in
+Mongoose
+before
+6.4.6
+is
+vulnerable
+to
+prototype
+pollution
+.

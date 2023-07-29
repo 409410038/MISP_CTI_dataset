@@ -1,0 +1,16 @@
+Ethereum
+Solidity
+v0.8.14
+contains
+an
+assertion
+failure
+via
+SMTEncoder
+:
+:indexOrMemberAssignment
+(
+)
+at
+SMTEncoder.cpp
+.

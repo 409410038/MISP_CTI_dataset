@@ -1,0 +1,8 @@
+DirectX
+Graphics
+Kernel
+Elevation
+of
+Privilege
+Vulnerability
+.

@@ -1,0 +1,7 @@
+Apache
+Struts
+2
+Remote
+Code
+Execution
+Vulnerability

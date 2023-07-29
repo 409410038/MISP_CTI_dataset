@@ -1,0 +1,10 @@
+Boa
+0.94.14rc21
+is
+vulnerable
+to
+SQL
+Injection
+via
+username
+.

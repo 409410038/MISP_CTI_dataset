@@ -1,0 +1,14 @@
+wfshbr64.sys
+and
+wfshbr32.sys
+specially
+crafted
+IOCTL
+allows
+arbitrary
+user
+to
+perform
+local
+privilege
+escalation

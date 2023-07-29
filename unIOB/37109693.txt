@@ -1,0 +1,11 @@
+Uses
+reg.exe
+to
+modify
+the
+Windows
+registry
+,
+detection
+:
+suspicious

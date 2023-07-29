@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Nicearma
+DNUI
+plugin
+<
+=
+2.8.1
+versions
+.

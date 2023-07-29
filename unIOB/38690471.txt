@@ -1,0 +1,12 @@
+The
+software
+does
+not
+perform
+any
+authentication
+for
+critical
+system
+functionality
+.

@@ -1,0 +1,10 @@
+Spitfire
+CMS
+1.0.475
+is
+vulnerable
+to
+PHP
+Object
+Injection
+.

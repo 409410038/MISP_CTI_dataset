@@ -1,0 +1,10 @@
+The
+LNK
+file
+would
+execute
+a
+batch
+script
+alsoOne.bat
+.

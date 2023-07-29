@@ -1,0 +1,14 @@
+In
+JetBrains
+TeamCity
+before
+2023.05
+possible
+XSS
+in
+the
+Plugin
+Vendor
+URL
+was
+possible

@@ -1,0 +1,6 @@
+PowerShell
+as
+a
+Service
+in
+Registry

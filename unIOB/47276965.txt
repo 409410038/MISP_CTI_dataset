@@ -1,0 +1,13 @@
+In
+JetBrains
+TeamCity
+before
+2022.10.3
+stored
+XSS
+in
+Perforce
+connection
+settings
+was
+possible

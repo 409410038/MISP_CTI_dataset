@@ -1,0 +1,15 @@
+Found
+dropped
+PE
+file
+which
+has
+not
+been
+started
+or
+loaded
+,
+detection
+:
+suspicious

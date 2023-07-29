@@ -1,0 +1,8 @@
+Silverstripe
+silverstripe/framework
+through
+4.11
+allows
+SQL
+Injection
+.

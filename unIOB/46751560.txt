@@ -1,0 +1,8 @@
+Group
+:
+lockbit3
+Victim
+:
+Zeus
+Energy
+S.A.C

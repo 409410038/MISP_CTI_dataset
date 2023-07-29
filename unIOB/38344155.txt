@@ -1,0 +1,15 @@
+All
+versions
+of
+package
+git-archive
+are
+vulnerable
+to
+Command
+Injection
+via
+the
+exports
+function
+.

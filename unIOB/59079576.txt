@@ -1,0 +1,10 @@
+jfinal
+CMS
+5.1.0
+has
+an
+arbitrary
+file
+read
+vulnerability
+.

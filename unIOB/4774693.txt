@@ -1,0 +1,16 @@
+Looks
+for
+TAR
+archive
+with
+/tmp/
+base64
+encoded
+being
+part
+of
+filename
+of
+enclosed
+files
+M_Hunting_Exploit_Archive_2

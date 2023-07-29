@@ -1,0 +1,10 @@
+Certain
+Lexmark
+devices
+through
+2023-02-19
+have
+an
+Integer
+Overflow
+.

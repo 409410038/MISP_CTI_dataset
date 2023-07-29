@@ -1,0 +1,9 @@
+Windows
+DWM
+Core
+Library
+Elevation
+of
+Privilege
+Vulnerability
+.

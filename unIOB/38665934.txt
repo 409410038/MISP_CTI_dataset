@@ -1,0 +1,7 @@
+Windows
+SMB
+Remote
+Code
+Execution
+Vulnerability
+.

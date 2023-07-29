@@ -1,0 +1,14 @@
+/c
+transitoriness\deferral.cmd
+regs
+{
+cf15fa5c-89d3-4bdf-844b-9fb891604f9a
+}
+{
+ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
+}
+%
+WINDIR
+%
+\System32\cmd.exe
+Minimized

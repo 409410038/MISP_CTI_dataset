@@ -1,0 +1,12 @@
+RenderDoc
+through
+1.26
+allows
+local
+privilege
+escalation
+via
+a
+symlink
+attack
+.

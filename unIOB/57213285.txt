@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+User
+Meta
+Manager
+plugin
+<
+=
+3.4.9
+versions
+.

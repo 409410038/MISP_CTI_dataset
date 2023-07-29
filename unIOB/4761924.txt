@@ -1,0 +1,15 @@
+ET
+TROJAN
+Possible
+PaperCut
+MF/NG
+Post
+Exploitation
+Domain
+in
+DNS
+Lookup
+(
+anydeskupdates
+.com
+)

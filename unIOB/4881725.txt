@@ -1,0 +1,11 @@
+Hunting
+rule
+looking
+for
+strings
+observed
+in
+SKIPJACK
+installation
+script
+M_Hunting_SKIPJACK_1

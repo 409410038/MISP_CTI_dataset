@@ -1,0 +1,10 @@
+Prototype
+Pollution
+in
+GitHub
+repository
+alvarotrigo/fullpage.js
+prior
+to
+4.0.2
+.

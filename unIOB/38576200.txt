@@ -1,0 +1,7 @@
+Windows
+ALPC
+Elevation
+of
+Privilege
+Vulnerability
+.

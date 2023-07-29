@@ -1,0 +1,17 @@
+IOCs
+provided
+by
+the
+CERT.SI
+related
+to
+malicious
+e-mail
+waves
+spreading
+Emotet
+with
+booby-trapped
+Excel
+attachments
+.

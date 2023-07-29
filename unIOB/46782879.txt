@@ -1,0 +1,11 @@
+Scripting
+:
+JS
+,
+VBS
+,
+MHTML
+,
+PowerShell
+,
+Python

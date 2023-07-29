@@ -1,0 +1,14 @@
+phishing
+emails
+to
+deliver
+Microsoft
+Office
+documents
+containing
+remote
+templates
+with
+malicious
+VBScript
+macros

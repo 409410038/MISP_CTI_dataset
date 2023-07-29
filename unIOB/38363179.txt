@@ -1,0 +1,10 @@
+Improper
+Authorization
+in
+GitHub
+repository
+kromitgmbh/titra
+prior
+to
+0.79.1
+.

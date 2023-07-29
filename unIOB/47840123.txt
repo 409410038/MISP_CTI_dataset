@@ -1,0 +1,13 @@
+The
+folder
+/private/var/db/com.apple.xpc.roleaccountd.staging/PlugIns/fud.appex/
+existing
+,
+or
+having
+activity
+detected
+from
+the
+folder
+.

@@ -1,0 +1,17 @@
+Irzip
+v0.640
+was
+discovered
+to
+contain
+a
+heap
+memory
+corruption
+via
+the
+component
+lrzip.c
+:
+initialise_control
+.

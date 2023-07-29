@@ -1,0 +1,8 @@
+IOCs
+related
+to
+a
+malspam
+campaign
+distributing
+LokiBot

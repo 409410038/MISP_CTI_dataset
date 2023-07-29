@@ -1,0 +1,7 @@
+malicious
+LNK
+files
+distributed
+in
+RAR
+archives

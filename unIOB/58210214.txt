@@ -1,0 +1,17 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+uPress
+Enable
+Accessibility
+plugin
+<
+=
+1.4
+versions
+.

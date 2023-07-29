@@ -1,0 +1,10 @@
+Sample
+reads
+its
+own
+file
+content
+,
+detection
+:
+clean

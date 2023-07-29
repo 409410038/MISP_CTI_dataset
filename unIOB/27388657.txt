@@ -1,0 +1,15 @@
+Creates
+a
+shortcut
+to
+an
+executable
+file
+-
+(
+T1023
+,
+T1204
+,
+ioc
+)

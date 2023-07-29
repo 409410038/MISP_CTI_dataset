@@ -1,0 +1,17 @@
+The
+attacker
+used
+a
+Scheduled
+Task
+named
+WindowsSensor15
+as
+a
+persistence
+mechanism
+for
+Cobalt
+Strike
+.
+WindowsSensor15

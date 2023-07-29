@@ -1,0 +1,17 @@
+Drops
+PE
+files
+to
+the
+application
+program
+directory
+(
+%
+ALLUSERSPROFILE
+%
+\
+,
+detection
+:
+suspicious

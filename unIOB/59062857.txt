@@ -1,0 +1,9 @@
+Product
+:
+AndroidVersions
+:
+Android
+SoCAndroid
+ID
+:
+A-278156680

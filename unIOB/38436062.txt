@@ -1,0 +1,16 @@
+CSV-Safe
+gem
+<
+3.0.0
+does
+n't
+filter
+out
+special
+characters
+which
+could
+trigger
+CSV
+Injection
+.

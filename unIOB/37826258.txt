@@ -1,0 +1,10 @@
+NULL
+Pointer
+Dereference
+in
+Homebrew
+mruby
+prior
+to
+3.2
+.

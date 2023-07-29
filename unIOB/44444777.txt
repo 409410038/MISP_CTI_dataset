@@ -1,0 +1,13 @@
+Authentication
+Bypass
+by
+Primary
+Weakness
+in
+GitHub
+repository
+modoboa/modoboa
+prior
+to
+2.0.4
+.

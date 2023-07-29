@@ -1,0 +1,9 @@
+EmpireCMS
+7.5
+has
+a
+SQL
+injection
+vulnerability
+in
+AdClass.php

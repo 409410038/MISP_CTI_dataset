@@ -1,0 +1,10 @@
+PE
+file
+contains
+an
+invalid
+checksum
+,
+detection
+:
+suspicious

@@ -1,0 +1,14 @@
+IOCs
+related
+to
+a
+malspam
+campaign
+distributing
+Emotet
+through
+a
+booby-trapped
+Excel
+attachment
+.

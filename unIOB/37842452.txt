@@ -1,0 +1,11 @@
+Tablet
+Windows
+User
+Interface
+Application
+Core
+Elevation
+of
+Privilege
+Vulnerability
+.

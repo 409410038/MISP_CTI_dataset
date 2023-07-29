@@ -1,0 +1,13 @@
+SolarView
+Compact
+6.00
+was
+discovered
+to
+contain
+a
+command
+injection
+vulnerability
+via
+network_test.php

@@ -1,0 +1,16 @@
+All
+versions
+of
+the
+package
+utilities
+are
+vulnerable
+to
+Prototype
+Pollution
+via
+the
+_mix
+function
+.

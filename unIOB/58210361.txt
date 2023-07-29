@@ -1,0 +1,12 @@
+IceCMS
+v1.0.0
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+.

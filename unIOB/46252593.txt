@@ -1,0 +1,11 @@
+Group
+:
+clop
+Victim
+:
+SOFTEQ.COM
+FILES
+PART14
+-
+VMdisk\
+PUBLISHED

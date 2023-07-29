@@ -1,0 +1,11 @@
+Local
+Security
+Authority
+(
+LSA
+)
+Elevation
+of
+Privilege
+Vulnerability
+.

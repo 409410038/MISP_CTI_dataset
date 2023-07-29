@@ -1,0 +1,15 @@
+A
+File
+Upload
+vulnerability
+exists
+in
+bbs
+v5.3
+via
+QuestionManageAction.java
+in
+a
+getType
+function
+.

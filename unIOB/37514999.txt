@@ -1,0 +1,12 @@
+There
+is
+an
+object
+injection
+vulnerability
+in
+swfupload
+plugin
+for
+wordpress
+.

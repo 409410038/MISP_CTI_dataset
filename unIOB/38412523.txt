@@ -1,0 +1,12 @@
+Windows
+Encrypting
+File
+System
+(
+EFS
+)
+Remote
+Code
+Execution
+Vulnerability
+.

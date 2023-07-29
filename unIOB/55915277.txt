@@ -1,0 +1,14 @@
+UCMS
+v1.6.0
+contains
+an
+authentication
+bypass
+vulnerability
+which
+is
+exploited
+via
+cookie
+poisoning
+.

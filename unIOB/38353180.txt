@@ -1,0 +1,11 @@
+OS
+Command
+Injection
+in
+GitHub
+repository
+hestiacp/hestiacp
+prior
+to
+1.6.5
+.

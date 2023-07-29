@@ -1,0 +1,23 @@
+Auth
+.
+(
+admin+
+)
+Stored
+Cross-Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+Magneticlab
+Sàrl
+Homepage
+Pop-up
+plugin
+<
+=
+1.2.5
+versions
+.

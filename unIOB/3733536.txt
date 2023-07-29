@@ -1,0 +1,13 @@
+Python
+script
+that
+implements
+SRVLOC/SLP
+protocol
+to
+scan
+for
+enabled
+OpenSLP
+services
+.

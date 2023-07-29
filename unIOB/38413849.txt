@@ -1,0 +1,15 @@
+Improper
+buffer
+initialization
+on
+the
+backend
+driver
+can
+lead
+to
+buffer
+overflow
+in
+Snapdragon
+Auto

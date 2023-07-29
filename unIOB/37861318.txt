@@ -1,0 +1,9 @@
+forge
+is
+vulnerable
+to
+URL
+Redirection
+to
+Untrusted
+Site

@@ -1,0 +1,15 @@
+Broken
+Access
+Control
+vulnerability
+in
+Permalink
+Manager
+Lite
+plugin
+<
+=
+2.2.20
+on
+WordPress
+.

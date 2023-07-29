@@ -1,0 +1,15 @@
+Description
+:
+Disables
+Win
+10
+recovery
+cmd.exe
+/c
+bcdedit
+/set
+{
+default
+}
+recoveryenabled
+No

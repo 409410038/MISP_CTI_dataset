@@ -1,0 +1,12 @@
+Memory
+corruption
+in
+Core
+due
+to
+improper
+configuration
+in
+boot
+remapper
+.

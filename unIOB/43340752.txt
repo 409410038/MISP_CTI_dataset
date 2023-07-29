@@ -1,0 +1,14 @@
+Block
+BYPASS
+vulnerability
+in
+iQ
+Block
+Country
+plugin
+<
+=
+1.2.18
+on
+WordPress
+.

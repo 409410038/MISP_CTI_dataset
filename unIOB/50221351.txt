@@ -1,0 +1,12 @@
+Windows
+Lightweight
+Directory
+Access
+Protocol
+(
+LDAP
+)
+Remote
+Code
+Execution
+Vulnerability

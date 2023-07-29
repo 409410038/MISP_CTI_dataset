@@ -1,0 +1,10 @@
+cmd.exе
+/c
+nеt
+use
+Display
+mapped
+drives
+to
+local
+system

@@ -1,0 +1,11 @@
+PE
+file
+contains
+a
+debug
+data
+directory
+,
+detection
+:
+clean

@@ -1,0 +1,16 @@
+nextScaffoldPart
+in
+xmlparse.c
+in
+Expat
+(
+aka
+libexpat
+)
+before
+2.4.3
+has
+an
+integer
+overflow
+.

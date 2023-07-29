@@ -1,0 +1,13 @@
+Found
+graphical
+window
+changes
+(
+likely
+an
+installer
+)
+,
+detection
+:
+clean

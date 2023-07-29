@@ -1,0 +1,7 @@
+Detects
+the
+installer
+for
+melofee
+malware
+UNK_APT_Melofee_Installer

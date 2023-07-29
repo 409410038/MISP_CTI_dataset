@@ -1,0 +1,11 @@
+Business
+Logic
+Errors
+in
+GitHub
+repository
+silverstripe/silverstripe-framework
+prior
+to
+4.10.1
+.

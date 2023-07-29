@@ -1,0 +1,10 @@
+ET
+EXPLOIT
+PaperCut
+MF/NG
+SetupCompleted
+Authentication
+Bypass
+(
+CVE-2023-27350
+)

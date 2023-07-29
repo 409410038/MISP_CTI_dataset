@@ -1,0 +1,17 @@
+The
+secure
+OS
+module
+has
+configuration
+defects
+.
+Successful
+exploitation
+of
+this
+vulnerability
+may
+affect
+availability
+.

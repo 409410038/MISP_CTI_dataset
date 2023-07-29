@@ -1,0 +1,10 @@
+Uncaught
+Exception
+in
+GitHub
+repository
+eemeli/yaml
+prior
+to
+2.2.2
+.

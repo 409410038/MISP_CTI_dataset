@@ -1,0 +1,14 @@
+Identifies
+samples
+of
+Mars
+Stealer
+based
+on
+the
+PE
+section
+name
+LLCPPC
+.
+infostealer_win_mars_stealer_llcppc

@@ -1,0 +1,16 @@
+Online
+Tours
+&
+Travels
+Management
+System
+v1.0
+contains
+an
+arbitrary
+file
+upload
+vulnerability
+via
+/tour/admin/file.php
+.

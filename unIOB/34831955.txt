@@ -1,0 +1,15 @@
+Likely
+BianLian
+(
+ransomware
+)
+C2
+servers
+.
+OSINT
+analysis
+based
+on
+infrastructure
+similarities
+.

@@ -1,0 +1,17 @@
+Using
+Curl
+to
+download
+KNOTWEED
+tooling
+from
+public
+file
+shares
+such
+as
+vultrobjects
+[
+.
+]
+com

@@ -1,0 +1,10 @@
+Hunting
+rule
+looking
+for
+strings
+observed
+in
+WHIRLPOOL
+samples
+M_Hunting_Linux_WHIRLPOOL_1

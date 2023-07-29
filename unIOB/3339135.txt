@@ -1,0 +1,15 @@
+7z
+Setup
+SFX
+19.0
+7-Zip
+Igor
+Pavlov
+Copyright
+(
+c
+)
+1999-2018
+Igor
+Pavlov
+0x1910c

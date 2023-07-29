@@ -1,0 +1,14 @@
+The
+Automox
+Agent
+before
+40
+on
+Windows
+incorrectly
+sets
+permissions
+on
+key
+files
+.

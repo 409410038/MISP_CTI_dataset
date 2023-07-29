@@ -1,0 +1,12 @@
+Detects
+scheduled
+task
+pattern
+found
+in
+Hermetic
+Wiper
+malware
+related
+intrusions
+APT_UA_Hermetic_Wiper_Scheduled_Task_Feb22_1

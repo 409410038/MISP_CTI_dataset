@@ -1,0 +1,14 @@
+Hunting
+rule
+looking
+for
+strings
+observed
+in
+Funchook
+library
+-
+https
+:
+//github.com/kubo/funchook
+FE_Hunting_Linux_Funchook_FEBeta

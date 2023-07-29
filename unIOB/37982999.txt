@@ -1,0 +1,8 @@
+Windows
+Graphics
+Component
+Remote
+Code
+Execution
+Vulnerability
+.

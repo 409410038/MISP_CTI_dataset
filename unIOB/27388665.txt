@@ -1,0 +1,10 @@
+Queries
+for
+the
+computername
+-
+(
+GetComputerNameW
+,
+GetComputerNameA
+)

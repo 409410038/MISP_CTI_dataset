@@ -1,0 +1,11 @@
+D-Link
+DIR-869
+DIR869Ax_FW102B15
+is
+vulnerable
+to
+Authentication
+Bypass
+via
+phpcgi
+.

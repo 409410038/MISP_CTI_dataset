@@ -1,0 +1,17 @@
+PHP-Memcached
+v2.2.0
+and
+below
+contains
+an
+improper
+NULL
+termination
+which
+allows
+attackers
+to
+execute
+CLRF
+injection
+.

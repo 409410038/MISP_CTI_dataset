@@ -1,0 +1,8 @@
+A
+format
+string
+vulnerability
+was
+found
+in
+libinput

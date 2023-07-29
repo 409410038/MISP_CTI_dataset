@@ -1,0 +1,10 @@
+TuziCMS
+2.0.6
+is
+affected
+by
+SQL
+injection
+in
+\App\Manage\Controller\BannerController.class.php
+.

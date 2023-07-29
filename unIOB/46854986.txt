@@ -1,0 +1,14 @@
+The
+initial
+vector
+for
+infection
+is
+typically
+a
+PDF
+attachment
+sent
+by
+email
+.

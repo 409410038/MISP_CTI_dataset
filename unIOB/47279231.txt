@@ -1,0 +1,17 @@
+Unauth
+.
+Reflected
+Cross-Site
+Scripting
+vulnerability
+in
+Daniel
+Powney
+Multi
+Rating
+plugin
+<
+=
+5.0.5
+versions
+.

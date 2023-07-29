@@ -1,0 +1,17 @@
+In
+Zalando
+Skipper
+before
+0.13.218
+,
+a
+query
+predicate
+could
+be
+bypassed
+via
+a
+prepared
+request
+.

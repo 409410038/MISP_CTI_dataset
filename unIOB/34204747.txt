@@ -1,0 +1,16 @@
+IOCs
+provided
+by
+the
+SI-CERT
+(
+Slovenia
+)
+related
+to
+a
+malspam
+campaign
+distributing
+Loader
+.

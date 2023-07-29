@@ -1,0 +1,7 @@
+Apache
+Struts2
+OGNL
+Remote
+Code
+Execution
+Vulnerability

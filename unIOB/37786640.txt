@@ -1,0 +1,15 @@
+Sensitive
+information
+disclosure
+discovered
+in
+wpDiscuz
+WordPress
+plugin
+(
+versions
+<
+=
+7.3.11
+)
+.

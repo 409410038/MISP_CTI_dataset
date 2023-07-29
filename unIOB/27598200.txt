@@ -1,0 +1,17 @@
+The
+attack
+used
+ICS-capable
+malware
+and
+regular
+disk
+wipers
+for
+Windows
+,
+Linux
+and
+Solaris
+operating
+systems

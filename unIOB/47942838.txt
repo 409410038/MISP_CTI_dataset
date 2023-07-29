@@ -1,0 +1,11 @@
+PowerJob
+V4.3.2
+has
+unauthorized
+interface
+that
+causes
+remote
+code
+execution
+.

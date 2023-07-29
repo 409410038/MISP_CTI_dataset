@@ -1,0 +1,17 @@
+BlogEngine.NET
+v3.3.8.0
+allows
+an
+attacker
+to
+create
+any
+folder
+with
+``
+files
+''
+prefix
+under
+~/App_Data/
+.

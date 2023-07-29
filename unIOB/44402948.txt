@@ -1,0 +1,15 @@
+Cross-site
+Scripting
+(
+XSS
+)
+-
+Generic
+in
+GitHub
+repository
+answerdev/answer
+prior
+to
+1.0.4
+.

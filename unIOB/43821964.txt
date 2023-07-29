@@ -1,0 +1,14 @@
+Information
+disclosure
+due
+to
+buffer
+over-read
+in
+WLAN
+while
+parsing
+BTM
+action
+frame
+.

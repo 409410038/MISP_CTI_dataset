@@ -1,0 +1,17 @@
+Information
+disclosure
+due
+to
+buffer
+over-read
+in
+Modem
+while
+using
+static
+array
+to
+process
+IPv4
+packets
+.

@@ -1,0 +1,6 @@
+cmd.exе
+/c
+whoаmi
+Identify
+user
+privileges

@@ -1,0 +1,9 @@
+Detects
+APT28
+phishing
+page
+sending
+to
+Ubiquity
+devices
+apt_APT28_Phishing_webpage_Ubiquity

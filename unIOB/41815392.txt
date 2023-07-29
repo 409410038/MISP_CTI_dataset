@@ -1,0 +1,16 @@
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+vulnerability
+in
+Analytify
+plugin
+<
+=
+4.2.2
+on
+WordPress
+.

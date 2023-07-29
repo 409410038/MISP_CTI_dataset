@@ -1,0 +1,11 @@
+XXL-JOB
+2.2.0
+has
+a
+Command
+execution
+vulnerability
+in
+background
+tasks
+.

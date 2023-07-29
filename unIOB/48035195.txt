@@ -1,0 +1,13 @@
+Nokia
+OneNDS
+17r2
+has
+Insecure
+Permissions
+vulnerability
+that
+allows
+for
+privilege
+escalation
+.

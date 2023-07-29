@@ -1,0 +1,9 @@
+Dreamer
+CMS
+4.0.01
+is
+vulnerable
+to
+SQL
+Injection
+.

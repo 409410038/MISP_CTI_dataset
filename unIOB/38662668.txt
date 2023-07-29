@@ -1,0 +1,15 @@
+This
+vulnerability
+allows
+users
+to
+execute
+a
+clickjacking
+attack
+in
+the
+meeting
+'s
+chat
+.

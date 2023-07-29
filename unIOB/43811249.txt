@@ -1,0 +1,10 @@
+The
+dag-pb
+codec
+can
+panic
+when
+decoding
+invalid
+blocks
+.

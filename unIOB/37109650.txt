@@ -1,0 +1,13 @@
+Malicious
+sample
+detected
+(
+through
+community
+Yara
+rule
+)
+,
+detection
+:
+malicious

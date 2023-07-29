@@ -1,0 +1,10 @@
+Windows
+Portable
+Device
+Enumerator
+Service
+Security
+Feature
+Bypass
+Vulnerability
+.

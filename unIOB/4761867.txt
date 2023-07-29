@@ -1,0 +1,16 @@
+JLORAT
+stores
+a
+copy
+of
+discovered
+documents
+under
+%
+AppData
+%
+/transport
+%
+AppData
+%
+/transport

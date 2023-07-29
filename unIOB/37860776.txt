@@ -1,0 +1,12 @@
+node-fetch
+is
+vulnerable
+to
+Exposure
+of
+Sensitive
+Information
+to
+an
+Unauthorized
+Actor

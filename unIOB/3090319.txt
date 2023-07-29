@@ -1,0 +1,9 @@
+cmd.exе
+/c
+sеt
+Display
+the
+current
+environment
+variable
+settings

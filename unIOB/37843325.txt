@@ -1,0 +1,8 @@
+Microsoft
+Cryptographic
+Services
+Elevation
+of
+Privilege
+Vulnerability
+.

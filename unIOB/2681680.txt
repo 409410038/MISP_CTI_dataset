@@ -1,0 +1,6 @@
+Drupal
+Core
+Remote
+Code
+Execution
+Vulnerability

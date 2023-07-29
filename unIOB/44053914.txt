@@ -1,0 +1,12 @@
+PHP
+Remote
+File
+Inclusion
+in
+GitHub
+repository
+tsolucio/corebos
+prior
+to
+8.0
+.

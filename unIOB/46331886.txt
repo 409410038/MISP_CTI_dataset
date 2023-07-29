@@ -1,0 +1,16 @@
+Stored
+Cross-site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+AFS
+Analytics
+plugin
+<
+=
+4.18
+versions
+.

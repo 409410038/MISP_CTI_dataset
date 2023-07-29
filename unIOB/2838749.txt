@@ -1,0 +1,4 @@
+Joomla
+Privilege
+Escalation
+Vulnerability

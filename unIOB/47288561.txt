@@ -1,0 +1,11 @@
+Improper
+Input
+Validation
+in
+GitHub
+repository
+thorsten/phpmyfaq
+prior
+to
+3.1.12
+.

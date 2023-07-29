@@ -1,0 +1,13 @@
+SparrowDoor
+implements
+multiple
+defence
+evasion
+techniques
+including
+inline
+hooks
+and
+AV
+detection
+.

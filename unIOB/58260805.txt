@@ -1,0 +1,13 @@
+Privilege
+Defined
+With
+Unsafe
+Actions
+in
+GitHub
+repository
+pimcore/pimcore
+prior
+to
+10.5.23
+.

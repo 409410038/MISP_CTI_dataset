@@ -1,0 +1,13 @@
+Malfind
+detects
+one
+or
+more
+injected
+processes
+-
+(
+T1055
+,
+volatility
+)

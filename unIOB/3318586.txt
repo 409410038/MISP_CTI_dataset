@@ -1,0 +1,10 @@
+Linear
+eMerge
+E3
+Unauthenticated
+Command
+Injection
+Remote
+Root
+Exploit
+Vulnerability

@@ -1,0 +1,11 @@
+Incorrect
+Privilege
+Assignment
+in
+GitHub
+repository
+phpipam/phpipam
+prior
+to
+1.4.6
+.

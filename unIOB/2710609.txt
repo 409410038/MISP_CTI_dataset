@@ -1,0 +1,7 @@
+Zend
+Framework
+Zend_XmlRpc
+Class
+Information
+Disclosure
+Vulnerability

@@ -1,0 +1,16 @@
+A
+vulnerability
+in
+SonicOS
+SNMP
+service
+resulting
+exposure
+of
+sensitive
+information
+to
+an
+unauthorized
+user
+.

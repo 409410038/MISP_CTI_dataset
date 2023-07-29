@@ -1,0 +1,10 @@
+DeftTorero
+:
+tactics
+,
+techniques
+and
+procedures
+of
+intrusions
+revealed

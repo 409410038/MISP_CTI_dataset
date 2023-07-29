@@ -1,0 +1,9 @@
+Named
+Pipe
+File
+System
+Elevation
+of
+Privilege
+Vulnerability
+.

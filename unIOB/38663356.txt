@@ -1,0 +1,16 @@
+Misconfigured
+security-related
+HTTP
+headers
+:
+Several
+security-related
+headers
+were
+missing
+or
+mis-configured
+on
+the
+web
+responses

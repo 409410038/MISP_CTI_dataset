@@ -1,0 +1,15 @@
+Unmarshal
+can
+panic
+on
+some
+inputs
+,
+possibly
+allowing
+for
+denial
+of
+service
+attacks
+.

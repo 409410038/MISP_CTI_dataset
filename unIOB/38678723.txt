@@ -1,0 +1,14 @@
+qdPM
+9.2
+allows
+Cross-Site
+Request
+Forgery
+(
+CSRF
+)
+via
+the
+index.php/myAccount/update
+URI
+.

@@ -1,0 +1,14 @@
+Falcon
+Sandbox
+v9.0.0
+Copyright
+2019
+Hybrid
+Analysis
+GmbH
+,
+All
+Rights
+Reserved
+,
+www.payload-security.com

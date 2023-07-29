@@ -1,0 +1,17 @@
+In
+Softing
+uaToolkit
+Embedded
+before
+1.41
+,
+a
+malformed
+CreateMonitoredItems
+request
+may
+cause
+a
+memory
+leak
+.

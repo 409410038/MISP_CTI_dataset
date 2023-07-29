@@ -1,0 +1,13 @@
+HongCMS
+3.0.0
+allows
+arbitrary
+file
+deletion
+via
+the
+component
+/admin/index.php/template/ajax
+?
+action=delete
+.

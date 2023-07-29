@@ -1,0 +1,17 @@
+Contains
+legitimate
+macros
+from
+ExcelVBA.ru
+,
+a
+company
+which
+creates
+benign
+Macros
+for
+Excel
+for
+legitimate
+use

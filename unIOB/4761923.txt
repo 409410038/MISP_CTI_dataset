@@ -1,0 +1,15 @@
+ET
+ATTACK_RESPONSE
+Possible
+PaperCut
+MF/NG
+Post
+Exploitation
+Domain
+in
+DNS
+Lookup
+(
+anydeskupdate
+.com
+)

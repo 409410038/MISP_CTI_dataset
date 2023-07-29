@@ -1,0 +1,9 @@
+Phpok
+6.1
+has
+a
+deserialization
+vulnerability
+via
+framework/phpok_call.php
+.

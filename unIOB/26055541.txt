@@ -1,0 +1,10 @@
+reg
+add
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters
+/v
+MaxMpxCt
+/d
+65535
+/t
+REG_DWORD
+/f

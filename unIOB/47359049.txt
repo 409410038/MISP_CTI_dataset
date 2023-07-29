@@ -1,0 +1,16 @@
+OS
+Command
+Injection
+vulnerability
+in
+quectel
+AG550QCN
+allows
+attackers
+to
+execute
+arbitrary
+commands
+via
+ql_atfwd
+.

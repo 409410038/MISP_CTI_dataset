@@ -1,0 +1,6 @@
+%
+WINDIR
+%
+\system32\config\systemprofile\AppData\Roaming\microsoft\osc.exe
+-i127.0.0.1
+-p8118

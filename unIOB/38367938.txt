@@ -1,0 +1,16 @@
+tifig
+v0.2.2
+was
+discovered
+to
+contain
+a
+segmentation
+violation
+via
+getType
+(
+)
+at
+/common/bbox.cpp
+.

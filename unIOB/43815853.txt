@@ -1,0 +1,13 @@
+This
+vulnerability
+discloses
+build
+and
+services
+versions
+in
+the
+server
+response
+header
+.

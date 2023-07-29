@@ -1,0 +1,12 @@
+jjeecg-boot
+V3.5.0
+has
+an
+unauthorized
+arbitrary
+file
+upload
+in
+/jeecg-boot/jmreport/upload
+interface
+.

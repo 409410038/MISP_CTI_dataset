@@ -1,0 +1,15 @@
+A
+POST
+based
+reflected
+Cross
+Site
+Scripting
+vulnerability
+on
+has
+been
+identified
+in
+Keycloak
+.

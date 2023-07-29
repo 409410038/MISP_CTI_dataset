@@ -1,0 +1,8 @@
+cmd.exе
+/с
+dir
+List
+current
+directories
+and
+files

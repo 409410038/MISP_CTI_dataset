@@ -1,0 +1,9 @@
+AyaCMS
+v3.1.2
+has
+an
+Arbitrary
+File
+Upload
+vulnerability
+.

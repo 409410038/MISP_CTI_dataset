@@ -1,0 +1,15 @@
+Memory
+corruption
+due
+to
+integer
+overflow
+or
+wraparound
+in
+Core
+while
+DDR
+memory
+assignment
+.

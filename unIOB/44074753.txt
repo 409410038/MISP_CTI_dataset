@@ -1,0 +1,13 @@
+Moodle
+Plugin
+-
+SAML
+Auth
+may
+allow
+Open
+Redirect
+through
+unspecified
+vectors
+.

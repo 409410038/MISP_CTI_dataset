@@ -1,0 +1,17 @@
+File
+and
+directory
+permissions
+have
+been
+corrected
+to
+prevent
+unintended
+users
+from
+modifying
+or
+accessing
+resources
+.

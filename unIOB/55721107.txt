@@ -1,0 +1,14 @@
+Insecure
+permissions
+in
+cskefu
+v7.0.1
+allows
+unauthenticated
+attackers
+to
+arbitrarily
+add
+administrator
+accounts
+.

@@ -1,0 +1,10 @@
+Path
+Traversal
+in
+GitHub
+repository
+froxlor/froxlor
+prior
+to
+2.0.20
+.

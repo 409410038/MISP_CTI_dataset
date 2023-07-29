@@ -1,0 +1,6 @@
+Atlassian
+Confluence
+Authentication
+Bypass
+Vulnerability
+insecure-credentials

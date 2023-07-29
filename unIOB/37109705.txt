@@ -1,0 +1,15 @@
+Deletes
+shadow
+drive
+data
+(
+may
+be
+related
+to
+ransomware
+)
+,
+detection
+:
+malicious

@@ -1,0 +1,12 @@
+Contains
+functionality
+to
+register
+its
+own
+exception
+handler
+,
+detection
+:
+clean

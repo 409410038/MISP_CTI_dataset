@@ -1,0 +1,8 @@
+TTP
+:
+T1023
+,
+short
+:
+Shortcut
+Modification

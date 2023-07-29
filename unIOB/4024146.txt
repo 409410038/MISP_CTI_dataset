@@ -1,0 +1,13 @@
+Detects
+an
+unknown
+implant
+from
+AlienManager
+family
+,
+maybe
+related
+to
+melofee
+UNK_APT_Alien_Implant

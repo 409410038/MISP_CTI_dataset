@@ -1,0 +1,12 @@
+Microsoft
+Local
+Security
+Authority
+(
+LSA
+)
+Server
+Information
+Disclosure
+Vulnerability
+.

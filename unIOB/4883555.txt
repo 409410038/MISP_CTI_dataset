@@ -1,0 +1,16 @@
+CISA_10443863_02
+:
+backdoor
+remote_access_trojan
+webshell
+exploitation
+information_gathering
+remote_access
+accesses_remote_machines
+anti_debugging
+captures_system_state_data
+controls_local_machine
+compromises_data_availability
+compromises_data_integrity
+fingerprints_host
+installs_other_components

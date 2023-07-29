@@ -1,0 +1,9 @@
+IOCs
+related
+to
+a
+malspam
+campaign
+distributing
+Emotet
+.

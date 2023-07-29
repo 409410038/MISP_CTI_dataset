@@ -1,0 +1,10 @@
+send
+emails
+with
+the
+address
+format
+:
+firstname.surname
+@
+3investments.fr

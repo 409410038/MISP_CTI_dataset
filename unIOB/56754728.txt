@@ -1,0 +1,10 @@
+SQL
+Injection
+in
+GitHub
+repository
+pimcore/customer-data-framework
+prior
+to
+3.3.10
+.

@@ -1,0 +1,15 @@
+Privilege
+Escalation
+(
+subscriber+
+)
+vulnerability
+in
+Pop-up
+plugin
+<
+=
+1.1.5
+at
+WordPress
+.

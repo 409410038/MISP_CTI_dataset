@@ -1,0 +1,15 @@
+Allocates
+read-write-execute
+memory
+(
+usually
+to
+unpack
+itself
+)
+-
+(
+NtProtectVirtualMemory
+,
+NtAllocateVirtualMemory
+)

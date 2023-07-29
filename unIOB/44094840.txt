@@ -1,0 +1,15 @@
+perfSONAR
+before
+4.4.6
+inadvertently
+supports
+the
+parse
+option
+for
+a
+file
+:
+//
+URL
+.

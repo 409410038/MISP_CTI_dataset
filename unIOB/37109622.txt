@@ -1,0 +1,11 @@
+Queries
+a
+list
+of
+all
+running
+processes
+,
+detection
+:
+clean

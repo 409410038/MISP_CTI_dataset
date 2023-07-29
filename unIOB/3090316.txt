@@ -1,0 +1,11 @@
+cmd.exе
+/c
+nltеst
+/domain_trusts
+List
+domain
+controllers
+and
+enumerate
+domain
+trusts

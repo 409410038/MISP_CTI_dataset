@@ -1,0 +1,7 @@
+Reflected
+cross
+site
+scripting
+(
+XSS
+)

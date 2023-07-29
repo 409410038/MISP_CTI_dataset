@@ -1,0 +1,15 @@
+Running
+PowerShell
+scripts
+directly
+from
+a
+GitHub
+gist
+created
+by
+an
+account
+associated
+with
+DSIRF

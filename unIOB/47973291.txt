@@ -1,0 +1,17 @@
+Reflected
+Cross-Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+VryaSage
+Marketing
+Performance
+plugin
+<
+=
+2.0.0
+versions
+.

@@ -1,0 +1,13 @@
+Authentication
+Bypass
+by
+Primary
+Weakness
+in
+GitHub
+repository
+cockpit-hq/cockpit
+prior
+to
+2.2.2
+.

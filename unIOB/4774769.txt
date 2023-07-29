@@ -1,0 +1,8 @@
+YARA
+rule
+to
+detect
+custom
+FRP
+client
+CustomFRPClient

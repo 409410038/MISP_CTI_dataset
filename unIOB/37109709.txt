@@ -1,0 +1,14 @@
+Uses
+schtasks.exe
+or
+at.exe
+to
+add
+and
+modify
+task
+schedules
+,
+detection
+:
+malicious

@@ -1,0 +1,10 @@
+Improper
+Access
+Control
+in
+Packagist
+microweber/microweber
+prior
+to
+1.2.11
+.

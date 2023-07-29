@@ -1,0 +1,8 @@
+Windows
+Telephony
+Server
+Elevation
+of
+Privilege
+Vulnerability
+.

@@ -1,0 +1,13 @@
+Group
+:
+clop
+Victim
+:
+LOESCHGROUP.DE
+FILES
+PART19
+-
+192.168.101.35\D
+$
+\Alt\
+PUBLISHED

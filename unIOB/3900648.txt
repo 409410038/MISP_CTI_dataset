@@ -1,0 +1,12 @@
+Rule
+to
+detect
+malware
+used
+by
+APT5
+on
+Citrix
+ADC
+rule
+tricklancer_a

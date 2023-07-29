@@ -1,0 +1,16 @@
+Drops
+PE
+files
+to
+the
+windows
+directory
+(
+%
+WINDIR
+%
+\
+,
+detection
+:
+suspicious

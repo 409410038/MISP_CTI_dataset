@@ -1,0 +1,13 @@
+SQL
+Injection
+vulnerability
+in
+VeronaLabs
+WP
+Statistics
+plugin
+<
+=
+13.2.10
+versions
+.

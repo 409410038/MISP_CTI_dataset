@@ -1,0 +1,7 @@
+Windows
+Shell
+Remote
+Code
+Execution
+Vulnerability
+.

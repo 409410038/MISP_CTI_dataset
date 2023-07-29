@@ -1,0 +1,7 @@
+cmd.exе
+/c
+opеnfilеs
+Display
+files
+opened
+remotely

@@ -1,0 +1,4 @@
+schtasks
+/query
+/tn
+microsoftwindowswindowsupdatescheduled

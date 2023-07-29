@@ -1,0 +1,12 @@
+hutool-json
+v5.8.10
+was
+discovered
+to
+contain
+an
+out
+of
+memory
+error
+.

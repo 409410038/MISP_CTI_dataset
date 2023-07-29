@@ -1,0 +1,10 @@
+SQL
+Injection
+in
+GitHub
+repository
+unilogies/bumsys
+prior
+to
+2.2.0
+.

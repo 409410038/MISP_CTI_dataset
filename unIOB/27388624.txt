@@ -1,0 +1,12 @@
+A
+process
+created
+a
+hidden
+window
+-
+(
+T1143
+,
+CreateProcessInternalW
+)

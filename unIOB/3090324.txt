@@ -1,0 +1,8 @@
+cmd.exе
+/c
+nеt
+user
+/domain
+Display
+domain
+users

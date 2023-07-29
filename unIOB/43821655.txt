@@ -1,0 +1,17 @@
+Amasty
+Blog
+2.10.3
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+via
+leave
+comment
+functionality
+.

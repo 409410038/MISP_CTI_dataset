@@ -1,0 +1,9 @@
+cmd.exе
+/c
+systеminfo
+Display
+system
+profile
+and
+installed
+hotfixes

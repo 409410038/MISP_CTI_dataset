@@ -1,0 +1,17 @@
+%
+USERPROFILE
+%
+\downloads\network\5-ns
+new
+zippp\5-ns
+new.exe
+%
+USERPROFILE
+%
+\downloads\network\
+%
+USERPROFILE
+%
+\downloads\network\5-ns
+new
+zippp\

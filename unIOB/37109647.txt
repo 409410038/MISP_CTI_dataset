@@ -1,0 +1,12 @@
+Disables
+the
+windows
+firewall
+(
+over
+ALG
+)
+,
+detection
+:
+malicious

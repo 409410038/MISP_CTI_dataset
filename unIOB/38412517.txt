@@ -1,0 +1,10 @@
+Windows
+Defender
+Remote
+Credential
+Guard
+Elevation
+of
+Privilege
+Vulnerability
+.

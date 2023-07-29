@@ -1,0 +1,14 @@
+SparrowDoor
+communicates
+with
+the
+command
+and
+control
+(
+C2
+)
+server
+over
+HTTPS
+.

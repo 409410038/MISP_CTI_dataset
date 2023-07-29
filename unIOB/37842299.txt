@@ -1,0 +1,11 @@
+Microsoft
+Diagnostics
+Hub
+Standard
+Collector
+Runtime
+Elevation
+of
+Privilege
+Vulnerability
+.

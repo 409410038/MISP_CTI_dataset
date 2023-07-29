@@ -1,0 +1,12 @@
+Limbas
+4.3.36.1319
+is
+vulnerable
+to
+Cross
+Site
+Scripting
+(
+XSS
+)
+.

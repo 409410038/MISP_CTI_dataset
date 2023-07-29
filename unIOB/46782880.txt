@@ -1,0 +1,13 @@
+Formatos
+de
+compresión
+sin
+pérdida
+:
+ZIP
+,
+RAR
+,
+UUE
+,
+BZ2

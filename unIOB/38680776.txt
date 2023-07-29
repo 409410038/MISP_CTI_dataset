@@ -1,0 +1,14 @@
+Host
+Header
+injection
+in
+password
+Reset
+in
+GitHub
+repository
+livehelperchat/livehelperchat
+prior
+to
+3.97
+.

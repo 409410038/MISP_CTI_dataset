@@ -1,0 +1,14 @@
+Transient
+DOS
+due
+to
+buffer
+over-read
+in
+WLAN
+while
+processing
+802.11
+management
+frames
+.

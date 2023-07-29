@@ -1,0 +1,13 @@
+msdcat.exe
+''
+/E
+:
+jscRipt
+``
+%
+APPDATA
+%
+\Redist.txt
+''
+dg
+ThirdPartyNotices.txt

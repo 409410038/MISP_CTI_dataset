@@ -1,0 +1,10 @@
+Execution
+of
+njRAT
+directly
+in
+memory
+using
+.NET
+framework
+functions

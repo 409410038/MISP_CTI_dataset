@@ -1,0 +1,16 @@
+Description
+:
+This
+command
+has
+an
+invalid
+syntax
+and
+errors
+out
+cmd.exe
+/c
+wmic
+SHADOWCOPY
+/nointeractive

@@ -1,0 +1,16 @@
+Access
+of
+Memory
+Location
+Before
+Start
+of
+Buffer
+in
+GitHub
+repository
+vim/vim
+prior
+to
+8.2
+.

@@ -1,0 +1,11 @@
+Contains
+functionality
+to
+enum
+processes
+or
+threads
+,
+detection
+:
+clean

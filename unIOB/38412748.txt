@@ -1,0 +1,11 @@
+Weak
+Password
+Requirements
+in
+GitHub
+repository
+kromitgmbh/titra
+prior
+to
+0.78.1
+.

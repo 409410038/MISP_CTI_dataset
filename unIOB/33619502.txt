@@ -1,0 +1,15 @@
+%
+USERPROFILE
+%
+\Documents\
+”
+6
+random
+characters
+”
+\
+”
+10
+random
+characters
+”

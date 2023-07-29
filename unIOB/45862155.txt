@@ -1,0 +1,10 @@
+SQL
+Injection
+in
+GitHub
+repository
+phpipam/phpipam
+prior
+to
+v1.5.2
+.

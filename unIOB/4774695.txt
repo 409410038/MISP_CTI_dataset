@@ -1,0 +1,17 @@
+Looks
+for
+TAR
+archive
+with
+single
+quote/backtick
+as
+start
+of
+filename
+of
+enclosed
+files
+.
+CVE-2023-2868
+M_Hunting_Exploit_Archive_CVE_2023_2868

@@ -1,0 +1,10 @@
+The
+file
+existing
+,
+or
+process
+activity
+from
+,
+com.apple.avcapture

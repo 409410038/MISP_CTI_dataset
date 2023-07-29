@@ -1,0 +1,17 @@
+Unauth
+.
+Reflected
+Cross-Site
+Scripting
+(
+XSS
+)
+vulnerability
+in
+PropertyHive
+plugin
+<
+=
+1.5.46
+versions
+.

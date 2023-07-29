@@ -1,0 +1,6 @@
+SAP
+NetWeaver
+AS
+JAVA
+Authentication
+Vulnerability

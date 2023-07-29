@@ -1,0 +1,7 @@
+Craft
+CMS
+before
+3.7.29
+allows
+XSS
+.

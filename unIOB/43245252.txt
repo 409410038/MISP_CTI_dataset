@@ -1,0 +1,9 @@
+Hustoj
+22.09.22
+has
+a
+XSS
+Vulnerability
+in
+/admin/problem_judge.php
+.

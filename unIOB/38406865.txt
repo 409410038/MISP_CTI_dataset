@@ -1,0 +1,15 @@
+Strapi
+before
+3.6.10
+and
+4.x
+before
+4.1.10
+mishandles
+hidden
+attributes
+within
+admin
+API
+responses
+.

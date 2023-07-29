@@ -1,0 +1,8 @@
+Windows
+Task
+Scheduler
+Elevation
+of
+Privilege
+Vulnerability
+.

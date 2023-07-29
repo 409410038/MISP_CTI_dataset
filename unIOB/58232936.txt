@@ -1,0 +1,10 @@
+Missing
+Authorization
+in
+GitHub
+repository
+openemr/openemr
+prior
+to
+7.0.1
+.
