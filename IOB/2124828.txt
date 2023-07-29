@@ -11,7 +11,7 @@ the	O
 LogonPasswords	B-Application
 ''	O
 module	O
-""","""	O
+,	O
 used	O
 to	O
 acquire	O

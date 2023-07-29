@@ -12,7 +12,7 @@ command	B-TTPs
 and	I-TTPs
 control	I-TTPs
 servers	I-TTPs
-""","""	O
+,	O
 a	O
 HTTP	B-Application
 PUT	I-Application
@@ -39,7 +39,7 @@ server	I-TTPs
 .	O
 For	O
 example	O
-""","""	O
+,	O
 PUT	B-Application
 /06599379103BD9028AB56AE0EBED457D0	B-Indicator
 HTTP/1.1	B-Application

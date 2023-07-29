@@ -10,7 +10,7 @@ module	O
 ``	O
 minidump	B-Application
 ''	O
-""","""	O
+,	O
 to	O
 dump	O
 the	O

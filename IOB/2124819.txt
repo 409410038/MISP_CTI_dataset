@@ -12,10 +12,10 @@ features	O
 used	O
 in	O
 configuration	O
-""","""	O
+,	O
 log	O
 messages	O
-""","""	O
+,	O
 and	O
 parameters	O
 do	O
@@ -60,7 +60,7 @@ enabled	O
 From	O
 log4j	B-Application
 2.15.0	I-Application
-""","""	O
+,	O
 this	O
 behavior	O
 has	O
@@ -72,7 +72,7 @@ default	O
 From	O
 version	O
 2.16.0	O
-""","""	O
+,	O
 this	O
 functionality	O
 has	O
@@ -93,9 +93,9 @@ does	O
 not	O
 affect	O
 log4net	B-Application
-""","""	O
+,	O
 log4cxx	B-Application
-""","""	O
+,	O
 or	O
 other	O
 Apache	B-Application

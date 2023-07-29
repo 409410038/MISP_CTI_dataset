@@ -42,7 +42,7 @@ into	O
 several	O
 small	O
 files	O
-""","""	O
+,	O
 most	O
 of	O
 which	O
@@ -54,7 +54,7 @@ rates	O
 by	O
 AV	O
 engines	O
-""","""	O
+,	O
 with	O
 the	O
 final	O

@@ -6,9 +6,9 @@ Copyright	O
 Hybrid	B-Application
 Analysis	I-Application
 GmbH	I-Application
-""","""	O
+,	O
 All	O
 Rights	O
 Reserved	O
-""","""	O
+,	O
 www.payload-security.com	B-Indicator

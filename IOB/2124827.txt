@@ -2,7 +2,7 @@ Also	O
 an	O
 IcmpLog.exe	B-Indicator
 sample	O
-""","""	O
+,	O
 configured	O
 with	O
 the	O
@@ -12,7 +12,7 @@ key	O
 (	O
 P29456789A1234sS	B-Indicator
 )	O
-""","""	O
+,	O
 but	O
 with	O
 a	O

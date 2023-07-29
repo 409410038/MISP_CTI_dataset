@@ -8,7 +8,7 @@ leverages	O
 Windows	B-Application
 Update	I-Application
 client	O
-""","""	O
+,	O
 GitHub	B-Application
 in	O
 latest	O

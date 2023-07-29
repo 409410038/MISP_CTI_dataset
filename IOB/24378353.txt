@@ -26,4 +26,4 @@ a	O
 one-way	B-TTPs
 communication	I-TTPs
 channel	I-TTPs
-""","""	O
+,	O

@@ -3,7 +3,7 @@ threat	O
 actors	O
 leveraging	O
 BlackCat	B-Malware
-""","""	O
+,	O
 often	O
 referred	O
 to	O
@@ -12,7 +12,7 @@ the	O
 ``	O
 BlackCat	B-ThreatActor
 gang	I-ThreatActor
-""","""	O
+,	O
 ??	O
 utilize	O
 numerous	O
@@ -28,7 +28,7 @@ ransomware	B-Malware
 space	O
 .	O
 Notably	O
-""","""	O
+,	O
 they	O
 use	O
 multiple	O
@@ -37,7 +37,7 @@ techniques	O
 in	O
 some	O
 cases	O
-""","""	O
+,	O
 including	O
 the	O
 siphoning	B-TTPs
@@ -47,7 +47,7 @@ data	I-TTPs
 before	O
 ransomware	B-Malware
 deployment	O
-""","""	O
+,	O
 threats	O
 to	O
 release	O

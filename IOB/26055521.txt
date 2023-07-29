@@ -1,7 +1,7 @@
 In	O
 some	O
 cases	O
-""","""	O
+,	O
 BlackCat	B-Malware
 operators	O
 use	O
@@ -11,7 +11,7 @@ to	O
 threaten	O
 the	O
 victim	O
-""","""	O
+,	O
 claiming	O
 they	O
 will	O
@@ -43,7 +43,7 @@ of	O
 a	O
 leak	O
 site	O
-""","""	O
+,	O
 this	O
 practice	O
 is	O
@@ -51,7 +51,7 @@ known	O
 as	O
 triple	B-TTPs
 extortion	I-TTPs
-""","""	O
+,	O
 a	O
 tactic	O
 that	O
