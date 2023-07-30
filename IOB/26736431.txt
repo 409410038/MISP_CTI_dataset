@@ -1,0 +1,27 @@
+IOC	O
+published	O
+by	O
+the	O
+CERT.LV	B-Reporter
+","	O
+national	O
+cert	O
+of	O
+the	O
+Republic	O
+of	O
+Latvia	O
+","	O
+regarding	O
+a	O
+scam	O
+campaign	O
+encouraging	O
+victims	O
+to	O
+follow	O
+a	O
+malicious	O
+url	O
+.	O
+	

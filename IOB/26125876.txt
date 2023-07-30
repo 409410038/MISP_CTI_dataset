@@ -1,0 +1,11 @@
+Execution	O
+of	O
+njRAT	B-Malware
+directly	O
+in	O
+memory	O
+using	O
+.NET	B-Application
+framework	I-Application
+functions	O
+	

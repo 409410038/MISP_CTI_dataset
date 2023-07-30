@@ -1,0 +1,27 @@
+schtasks.exe	B-Indicator
+/Create	O
+/TN	O
+``	O
+Updates\BQVIiVtepLtz	O
+''	O
+/XML	O
+%	B-Indicator
+TEMP	I-Indicator
+%	I-Indicator
+\tmp7CF8.tmp	I-Indicator
+schtasks	B-Application
+/create	O
+/sc	O
+minute	O
+/mo	O
+1	O
+/tn	O
+Skype	O
+/tr	O
+``	O
+%	B-Indicator
+APPDATA	I-Indicator
+%	I-Indicator
+\xubntzl.txt	I-Indicator
+''	O
+	

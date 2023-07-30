@@ -4,7 +4,7 @@ Disables	O
 Win	B-Application
 10	I-Application
 recovery	O
-cmd.exe	B-Application
+cmd.exe	B-Indicator
 /c	O
 bcdedit	B-Application
 /set	O
