@@ -1,0 +1,8 @@
+HermeticWiper	B-Malware
+-	O
+broad	O
+hunting	O
+rule	O
+disk	O
+MAL_HERMETIC_WIPER	O
+	

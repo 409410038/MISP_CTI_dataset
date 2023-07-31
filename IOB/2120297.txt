@@ -16,7 +16,7 @@ the	O
 IOS	B-Application
 and	O
 Android	B-Application
-spyware	I-Malware
+spyware	B-Malware
 tools	O
 developed	O
 by	O

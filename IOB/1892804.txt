@@ -2,5 +2,5 @@ From	O
 title	O
 :	O
 The	O
-Bitcoin	B-Application
-Freedom	I-Application
+Bitcoin	O
+Freedom	O

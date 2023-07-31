@@ -3,9 +3,9 @@ title	O
 :	O
 noblokets-seb.com	B-Indicator
 |	O
-521	B-Indicator
-:	I-Indicator
-Web	I-Indicator
-server	I-Indicator
-is	I-Indicator
-down	I-Indicator
+521	O
+:	O
+Web	O
+server	O
+is	O
+down	O

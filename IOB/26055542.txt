@@ -1,4 +1,4 @@
-wmic	B-Indicator
-csproduct	I-Indicator
-get	I-Indicator
-UUID	I-Indicator
+wmic	B-Application
+csproduct	O
+get	O
+UUID	O

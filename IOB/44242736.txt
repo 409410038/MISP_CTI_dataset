@@ -12,8 +12,8 @@ attack	O
 attempt	O
 involves	O
 an	O
-attached	B-TTPs
-malicious	I-TTPs
-.iso	I-TTPs
-file	I-TTPs
+attached	O
+malicious	O
+.iso	B-Application
+file	O
 .	O

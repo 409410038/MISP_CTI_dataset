@@ -1,6 +1,6 @@
 From	O
 title	O
 :	O
-404	B-Indicator
-Not	I-Indicator
-Found	I-Indicator
+404	O
+Not	O
+Found	O

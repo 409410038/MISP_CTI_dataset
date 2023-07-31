@@ -10,8 +10,8 @@ legitimate	O
 software	O
 for	O
 dropping	O
-malicious	B-TTPs
-files	I-TTPs
+malicious	O
+files	O
 .	O
 This	O
 time	O

@@ -19,7 +19,7 @@ linked	O
 to	O
 deployment	O
 of	O
-ransomware	B-TTPs
+ransomware	B-Malware
 ","	O
 making	O
 the	O
