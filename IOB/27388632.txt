@@ -1,0 +1,9 @@
+TTP	O
+:	O
+T1082	B-TTPs
+","	O
+short	O
+:	O
+System	B-TTPs
+Information	I-TTPs
+Discovery	I-TTPs

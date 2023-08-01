@@ -1,0 +1,13 @@
+Malfind	B-Reporter
+detects	O
+one	O
+or	O
+more	O
+injected	B-TTPs
+processes	I-TTPs
+-	O
+(	O
+T1055	B-TTPs
+","	O
+volatility	B-Application
+)	O

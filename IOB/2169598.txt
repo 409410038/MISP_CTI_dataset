@@ -1,0 +1,7 @@
+%	B-Indicator
+WINDIR	I-Indicator
+%	I-Indicator
+\SysWow64\regsvr32.exe	I-Indicator
+/s	O
+..	O
+\xxw1.ocx	B-Indicator

@@ -1,0 +1,13 @@
+IOCs	O
+related	O
+to	O
+a	O
+campaign	O
+distributing	O
+FormBook	B-Malware
+involving	O
+a	O
+crafted	O
+Excel	B-Application
+file	O
+.	O

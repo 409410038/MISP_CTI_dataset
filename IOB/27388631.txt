@@ -1,0 +1,12 @@
+The	O
+executable	O
+uses	O
+a	O
+known	O
+packer	O
+-	O
+(	O
+T1045	B-TTPs
+","	O
+ioc	O
+)	O

@@ -1,0 +1,8 @@
+TTP	O
+:	O
+T1055	B-TTPs
+","	O
+short	O
+:	O
+Process	B-TTPs
+Injection	I-TTPs

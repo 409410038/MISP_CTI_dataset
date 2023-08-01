@@ -1,0 +1,10 @@
+Generic	O
+web	O
+attacks	O
+ranging	O
+from	O
+exploiting	O
+to	O
+brute	B-TTPs
+force	I-TTPs
+attacks	O

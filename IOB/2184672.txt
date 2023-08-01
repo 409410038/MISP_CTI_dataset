@@ -1,0 +1,16 @@
+Kernel	B-Application
+Driver	I-Application
+Utility	I-Application
+1.2.0.2202	I-Application
+KDU	B-Application
+UG	O
+North	O
+Copyright	O
+(	O
+C	O
+)	O
+2020	O
+-	O
+2022	O
+KDU	B-Application
+Project	O
