@@ -1,0 +1,14 @@
+ESET	B-Reporter
+researchers	O
+collaborated	O
+with	O
+CERT-UA	B-Reporter
+to	O
+analyze	O
+the	O
+attack	O
+against	O
+the	O
+Ukrainian	O
+energy	O
+company	O

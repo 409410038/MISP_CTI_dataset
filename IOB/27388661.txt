@@ -1,0 +1,15 @@
+Allocates	O
+read-write-execute	O
+memory	O
+(	O
+usually	O
+to	O
+unpack	O
+itself	O
+)	O
+-	O
+(	O
+NtProtectVirtualMemory	B-Application
+","	O
+NtAllocateVirtualMemory	B-Application
+)	O

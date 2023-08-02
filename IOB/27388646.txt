@@ -1,0 +1,9 @@
+Stopped	O
+Firewall	O
+service	O
+-	O
+(	O
+T1031	B-TTPs
+","	O
+volatility	B-Application
+)	O

@@ -1,0 +1,15 @@
+Creates	O
+a	O
+shortcut	O
+to	O
+an	O
+executable	O
+file	O
+-	O
+(	O
+T1023	B-TTPs
+","	O
+T1204	B-TTPs
+","	O
+ioc	O
+)	O

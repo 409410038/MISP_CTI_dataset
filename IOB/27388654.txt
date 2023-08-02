@@ -1,0 +1,17 @@
+Checks	O
+for	O
+the	O
+Locally	O
+Unique	O
+Identifier	O
+on	O
+the	O
+system	O
+for	O
+a	O
+suspicious	O
+privilege	O
+-	O
+(	O
+LookupPrivilegeValueW	B-Application
+)	O
