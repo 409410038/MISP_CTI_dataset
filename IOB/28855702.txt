@@ -1,0 +1,13 @@
+SparrowDoor	B-Malware
+implements	O
+multiple	O
+defence	B-TTPs
+evasion	I-TTPs
+techniques	O
+including	O
+inline	B-TTPs
+hooks	I-TTPs
+and	O
+AV	B-TTPs
+detection	I-TTPs
+.	O

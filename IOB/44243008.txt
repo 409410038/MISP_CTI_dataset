@@ -1,0 +1,9 @@
+IOC	O
+about	O
+a	O
+malspam	B-TTPs
+campaign	O
+spreading	O
+Agent	B-Malware
+Tesla	I-Malware
+.	O

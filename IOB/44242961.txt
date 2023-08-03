@@ -1,0 +1,11 @@
+IOCs	O
+related	O
+to	O
+a	O
+malspam	B-TTPs
+campaign	O
+distributing	O
+the	O
+FormBook	B-Malware
+infostealer	O
+.	O

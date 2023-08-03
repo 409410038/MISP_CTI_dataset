@@ -1,0 +1,15 @@
+SparrowDoor	B-Malware
+supports	O
+various	O
+tasking	O
+commands	O
+","	O
+including	O
+reading/writing	O
+files	O
+and	O
+opening	O
+a	O
+reverse	O
+shell	O
+.	O

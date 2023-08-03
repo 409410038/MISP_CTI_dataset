@@ -46,8 +46,8 @@ to	O
 encrypt	O
 an	O
 entire	O
-Active	O
-Directory	O
+Active	B-Application
+Directory	I-Application
 domain	O
 through	O
 Windows	B-Application
