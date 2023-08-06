@@ -1,0 +1,6 @@
+LG	B-Application
+NAS	I-Application
+Remote	B-Vulnerability
+Command	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

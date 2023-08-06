@@ -1,0 +1,5 @@
+Generic	O
+Phishing	B-TTPs
+Site	I-TTPs
+Detection	O
+phishing-kit	B-Application

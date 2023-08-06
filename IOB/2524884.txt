@@ -1,0 +1,4 @@
+Apache	B-Application
+OFBiz	I-Application
+Deserialization	B-Vulnerability
+Vulnerability	I-Vulnerability

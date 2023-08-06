@@ -1,0 +1,3 @@
+Palestinian	O
+Territory	O
+Occupied	O

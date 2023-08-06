@@ -1,0 +1,5 @@
+Django	B-Application
+SQL	B-Vulnerability
+Injection	I-Vulnerability
+Vulnerability	I-Vulnerability
+sql-injection	B-TTPs

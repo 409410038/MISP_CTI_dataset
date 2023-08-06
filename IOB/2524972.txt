@@ -1,0 +1,5 @@
+phf	B-Application
+Remote	B-Vulnerability
+Command	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

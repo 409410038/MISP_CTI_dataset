@@ -20,7 +20,7 @@ HTTP	B-Application
 s	I-Application
 )	I-Application
 )	O
-C2s	B-Application
+C2s	B-TTPs
 as	O
 a	O
 one-way	B-TTPs

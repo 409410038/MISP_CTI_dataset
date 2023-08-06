@@ -4,7 +4,7 @@ host	O
 for	O
 which	O
 no	O
-DNS	B-Application
+DNS	O
 query	O
 was	O
 performed	O

@@ -1,0 +1,5 @@
+Dorifel.Gen	B-Malware
+Command	B-TTPs
+And	I-TTPs
+Control	I-TTPs
+Traffic	O

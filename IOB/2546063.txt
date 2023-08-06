@@ -1,0 +1,6 @@
+ZeroAccess.Gen	B-Malware
+Command	B-TTPs
+and	I-TTPs
+Control	I-TTPs
+Traffic	O
+botnet	B-Malware

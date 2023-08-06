@@ -7,7 +7,7 @@ configured	O
 with	O
 the	O
 same	O
-AES	B-Application
+AES	O
 key	O
 (	O
 P29456789A1234sS	B-Indicator
@@ -17,7 +17,7 @@ but	O
 with	O
 a	O
 different	O
-C2	O
+C2	B-TTPs
 (	O
 t1.hinitial	B-Indicator
 [	I-Indicator

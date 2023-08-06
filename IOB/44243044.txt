@@ -1,0 +1,11 @@
+Malspam	B-TTPs
+campaign	O
+that	O
+spreads	O
+the	O
+FormBook	B-Malware
+Loader	I-Malware
+(	I-Malware
+botnet	I-Malware
+)	I-Malware
+.	O

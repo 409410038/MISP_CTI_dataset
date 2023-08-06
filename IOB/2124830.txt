@@ -5,7 +5,7 @@ public	O
 and	O
 open-source	O
 Linux	B-Application
-VPN	B-TTPs
+VPN	O
 software	O
 known	O
 as	O
@@ -32,7 +32,7 @@ powerful	O
 and	O
 easy-to-use	O
 multi-protocol	O
-VPN	B-TTPs
+VPN	O
 software	O
 and	O
 [	O
@@ -47,12 +47,12 @@ OpenVPN	B-Application
 and	O
 Microsoft	B-Application
 's	O
-VPN	B-TTPs
+VPN	O
 servers	O
 ''	O
 .	O
 This	O
-VPN	B-TTPs
+VPN	O
 has	O
 the	O
 capabilities	O
