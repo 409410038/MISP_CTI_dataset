@@ -10,7 +10,7 @@ signing	O
 certificate	O
 issued	O
 to	O
-Hermetica	B-Application
-Digital	I-Application
-Ltd	I-Application
+Hermetica	O
+Digital	O
+Ltd	O
 	

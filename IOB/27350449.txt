@@ -6,5 +6,5 @@ campaign	O
 spreading	O
 the	O
 QBot	B-Malware
-malware	B-TTPs
+malware	O
 .	O

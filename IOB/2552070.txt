@@ -1,0 +1,11 @@
+Mutex	O
+created	O
+by	O
+dropped	O
+executable	O
+according	O
+to	O
+sandbox	O
+run	O
+.	O
+KyUffThOkYwRRtgPP	O
