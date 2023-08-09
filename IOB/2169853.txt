@@ -35,8 +35,8 @@ free	O
 .	O
 ref	O
 :	O
-https	B-Indicator
-:	I-Indicator
-//www.gsocket.io/gsrn/	I-Indicator
+https	O
+:	O
+//www.gsocket.io/gsrn/	O
 Annotation	O
 text	O

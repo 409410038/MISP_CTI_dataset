@@ -2,11 +2,11 @@ primary	O
 delivery	O
 mechanism	O
 is	O
-malicious	O
-Microsoft	B-Application
-Office	I-Application
-document	O
-files	O
+malicious	B-TTPs
+Microsoft	I-TTPs
+Office	I-TTPs
+document	I-TTPs
+files	I-TTPs
 weaponized	O
 to	O
 deliver	O

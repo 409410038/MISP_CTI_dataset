@@ -1,7 +1,7 @@
 ??	O
 Masquerade_PEB	B-TTPs
 ??	O
-,	O
+","	O
 previously	O
 released	O
 as	O
@@ -17,7 +17,7 @@ to	O
 give	O
 a	O
 PowerShell	B-Application
-process	O
+process	I-Application
 the	O
 appearance	O
 of	O
@@ -40,10 +40,10 @@ UAC	I-TTPs
 bypass	I-TTPs
 via	O
 an	O
-elevated	B-TTPs
-COM	I-TTPs
-interface	I-TTPs
-,	O
+elevated	O
+COM	B-Application
+interface	I-Application
+","	O
 in	O
 this	O
 case	O
@@ -56,8 +56,8 @@ Admin	I-Application
 API	I-Application
 Helper	I-Application
 for	O
-Setup	O
-COM	B-TTPs
+Setup	B-TTPs
+COM	I-TTPs
 object	I-TTPs
 (	O
 cmstplua.dll	B-Indicator
@@ -73,7 +73,7 @@ SYSTEM32	I-Indicator
 3E5FC7F9-9A51-4367-9063-A120244FBEC7	B-Indicator
 }	O
 CVE-2016-0099	B-Vulnerability
-,	O
+","	O
 a	O
 Secondary	B-Vulnerability
 Logon	I-Vulnerability

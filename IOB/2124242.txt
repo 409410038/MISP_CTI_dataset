@@ -1,10 +1,10 @@
 Description	O
 :	O
-Disables	O
-Win	B-Application
-10	I-Application
-recovery	O
-cmd.exe	B-Indicator
+Disables	B-TTPs
+Win	I-TTPs
+10	I-TTPs
+recovery	I-TTPs
+cmd.exe	B-Application
 /c	O
 bcdedit	B-Application
 /set	O

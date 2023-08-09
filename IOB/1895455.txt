@@ -1,4 +1,4 @@
 From	O
 title	O
 :	O
-Luminor	B-Application
+Luminor	O

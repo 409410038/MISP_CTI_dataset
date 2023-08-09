@@ -1,9 +1,9 @@
 Targeted	B-TTPs
 email	I-TTPs
-with	O
-aviation	O
-related	O
-content	O
+with	I-TTPs
+aviation	I-TTPs
+related	I-TTPs
+content	I-TTPs
 .	O
 Spoofed	B-TTPs
 sender	O
@@ -15,7 +15,7 @@ is	O
 Aviation	O
 stakeholder	O
 .	O
-Malware	O
+Malware	B-TTPs
 posed	O
 as	O
 an	O

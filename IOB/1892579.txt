@@ -10,8 +10,8 @@ identified	O
 evidence	O
 of	O
 a	O
-destructive	B-Malware
-malware	I-Malware
+destructive	O
+malware	B-TTPs
 operation	O
 targeting	O
 multiple	O
@@ -31,7 +31,7 @@ Ukraine	O
 on	O
 January	O
 13	O
-,	O
+","	O
 2022	O
 .	O
 Microsoft	B-Reporter
@@ -70,7 +70,7 @@ our	O
 investigation	O
 is	O
 continuing	O
-,	O
+","	O
 MSTIC	B-Reporter
 has	O
 not	O
@@ -82,11 +82,11 @@ between	O
 this	O
 observed	O
 activity	O
-,	O
+","	O
 tracked	O
 as	O
 DEV-0586	B-ThreatActor
-,	O
+","	O
 and	O
 other	O
 known	O
@@ -98,7 +98,7 @@ assesses	O
 that	O
 the	O
 malware	O
-,	O
+","	O
 which	O
 is	O
 designed	O
@@ -112,7 +112,7 @@ a	O
 ransom	O
 recovery	O
 mechanism	O
-,	O
+","	O
 is	O
 intended	O
 to	O
@@ -139,7 +139,7 @@ based	O
 on	O
 Microsoft	B-Reporter
 visibility	O
-,	O
+","	O
 our	O
 investigation	O
 teams	O
@@ -167,14 +167,14 @@ systems	O
 span	O
 multiple	O
 government	O
-,	O
+","	O
 non-profit	O
-,	O
+","	O
 and	O
 information	O
 technology	O
 organizations	O
-,	O
+","	O
 all	O
 based	O
 in	O
@@ -210,7 +210,7 @@ geographic	O
 locations	O
 .	O
 However	O
-,	O
+","	O
 it	O
 is	O
 unlikely	O
@@ -236,7 +236,7 @@ of	O
 the	O
 observed	O
 intrusions	O
-,	O
+","	O
 MSTIC	B-Reporter
 is	O
 not	O
@@ -262,7 +262,7 @@ to	O
 any	O
 government	O
 agency	O
-,	O
+","	O
 non-profit	O
 or	O
 enterprise	O
@@ -316,8 +316,8 @@ observed	O
 nation-state	O
 actor	O
 activity	O
-,	O
-Microsoft	O
+","	O
+Microsoft	B-Reporter
 directly	O
 and	O
 proactively	O
@@ -329,7 +329,7 @@ been	O
 targeted	O
 or	O
 compromised	O
-,	O
+","	O
 providing	O
 them	O
 with	O
@@ -342,7 +342,7 @@ guide	O
 their	O
 investigations	O
 .	O
-MSTIC	O
+MSTIC	B-Reporter
 is	O
 also	O
 actively	O
@@ -387,9 +387,9 @@ given	O
 to	O
 an	O
 unknown	O
-,	O
+","	O
 emerging	O
-,	O
+","	O
 or	O
 a	O
 developing	O
@@ -397,7 +397,7 @@ cluster	O
 of	O
 threat	O
 activity	O
-,	O
+","	O
 allowing	O
 MSTIC	B-Reporter
 to	O
@@ -432,7 +432,7 @@ it	O
 meets	O
 the	O
 criteria	O
-,	O
+","	O
 a	O
 DEV	O
 is	O

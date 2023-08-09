@@ -424,9 +424,9 @@ Inaccuracy	O
 Complaint	O
 Form	O
 :	O
-https	B-Indicator
-:	I-Indicator
-//www.icann.org/wicf/	I-Indicator
+https	O
+:	O
+//www.icann.org/wicf/	O
 >	O
 >	O
 >	O

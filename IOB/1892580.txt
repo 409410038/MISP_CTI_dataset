@@ -1,6 +1,6 @@
 The	O
 two-stage	O
-malware	O
+malware	B-TTPs
 overwrites	B-TTPs
 the	I-TTPs
 Master	I-TTPs
@@ -14,8 +14,8 @@ victim	O
 systems	O
 with	O
 a	O
-ransom	B-TTPs
-note	I-TTPs
+ransom	O
+note	O
 (	O
 Stage	O
 1	O
@@ -42,8 +42,8 @@ operating	O
 system	O
 .	O
 The	O
-ransom	B-TTPs
-note	I-TTPs
+ransom	O
+note	O
 contains	O
 a	O
 Bitcoin	B-Application
@@ -92,7 +92,7 @@ drives	O
 of	O
 your	O
 organization	O
-,	O
+","	O
 You	O
 should	O
 pay	O

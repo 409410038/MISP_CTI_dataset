@@ -1,0 +1,5 @@
+Microsoft	B-Application
+Exchange	I-Application
+Server	I-Application
+SSRF	B-Vulnerability
+Vulnerability	I-Vulnerability

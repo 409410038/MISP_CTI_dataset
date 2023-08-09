@@ -1,9 +1,9 @@
 Description	O
 :	O
-Ignore	O
-boot	O
-failures	O
-cmd.exe	B-Indicator
+Ignore	B-TTPs
+boot	I-TTPs
+failures	I-TTPs
+cmd.exe	B-Application
 /c	O
 bcdedit	B-Application
 /set	O

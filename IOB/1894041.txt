@@ -31,7 +31,7 @@ with	O
 Windows	B-Application
 and	O
 Android	B-Application
-malware	O
+malware	B-TTPs
 .	O
 A	O
 recent	O

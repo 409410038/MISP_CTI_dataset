@@ -4,7 +4,7 @@ Command	O
 Force	O
 GPO	O
 Policy	O
-powershell.exe	B-Indicator
+powershell.exe	B-Application
 -Command	O
 ??	O
 Get-ADComputer	O

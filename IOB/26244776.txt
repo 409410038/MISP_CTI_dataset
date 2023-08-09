@@ -1,4 +1,4 @@
-schtasks.exe	B-Indicator
+schtasks.exe	B-Application
 /Create	O
 /TN	O
 ``	O

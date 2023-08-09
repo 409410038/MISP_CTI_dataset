@@ -15,9 +15,9 @@ Group	I-Application
 from	O
 Joeware	B-Application
 (	O
-https	B-Indicator
-:	I-Indicator
-//www.joeware.net/freetools/tools/lg/index.htm	I-Indicator
+https	O
+:	O
+//www.joeware.net/freetools/tools/lg/index.htm	O
 )	O
 .	O
 Add	O

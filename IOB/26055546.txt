@@ -4,7 +4,7 @@ in	O
 `	O
 vim-cmd	B-Application
 vmsvc/getallvms|	O
-awk	O
+awk	B-Application
 '	O
 {	O
 print	O

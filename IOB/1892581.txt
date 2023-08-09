@@ -1,4 +1,4 @@
-cmd.exe	B-Indicator
+cmd.exe	B-Application
 /Q	O
 /c	O
 start	O

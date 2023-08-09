@@ -10,13 +10,13 @@ tokens=	O
 1	O
 in	O
 (	O
-'wevtutil.exe	B-Indicator
-el	O
+'wevtutil.exe	B-Application
+el	I-Application
 '	O
 )	O
 DO	O
-wevtutil.exe	B-Indicator
-cl	O
+wevtutil.exe	B-Application
+cl	I-Application
 \	O
 ''	O
 %	O

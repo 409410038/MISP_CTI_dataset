@@ -5,8 +5,8 @@ POLICY	O
 Pastebin-style	B-Application
 Service	O
 (	O
-paste	B-Indicator
-.ee	I-Indicator
+paste	O
+.ee	O
 )	O
 in	O
 TLS	B-Application
@@ -35,8 +35,8 @@ Downloaded	O
 -	O
 ETPRO	O
 HUNTING	O
-Double	O
-Extension	O
+Double	B-TTPs
+Extension	I-TTPs
 VBS	B-Application
 Download	O
 from	O
@@ -46,8 +46,8 @@ Drive	I-Application
 -	O
 ETPRO	O
 HUNTING	O
-Double	O
-Extension	O
+Double	B-TTPs
+Extension	I-TTPs
 PIF	B-Application
 Download	O
 from	O

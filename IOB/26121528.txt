@@ -1,6 +1,6 @@
 In	O
 mid-2013	O
-,	O
+","	O
 the	O
 actor	O
 used	O
@@ -11,9 +11,9 @@ executable	O
 file	O
 attachments	O
 with	O
-fake	O
-double	O
-extensions	O
+fake	B-TTPs
+double	I-TTPs
+extensions	I-TTPs
 (	O
 filename.pdf.exe	B-Indicator
 )	O

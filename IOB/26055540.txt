@@ -1,4 +1,4 @@
-psexec.exe	B-Indicator
+psexec.exe	B-Application
 -accepteula	O
 \\	O
 <	O

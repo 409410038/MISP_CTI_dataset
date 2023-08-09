@@ -3,7 +3,7 @@ Description	O
 Deletes	O
 system	O
 log	O
-cmd.exe	B-Indicator
+cmd.exe	B-Application
 /c	O
 wevtutil	B-Application
 cl	O

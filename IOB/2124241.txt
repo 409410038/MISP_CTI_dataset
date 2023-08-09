@@ -1,9 +1,9 @@
 Description	O
 :	O
-Deletes	O
-Shadow	O
-Copies	O
-cmd.exe	B-Indicator
+Deletes	B-TTPs
+Shadow	I-TTPs
+Copies	I-TTPs
+cmd.exe	B-Application
 /c	O
 vssadmin	B-Application
 Delete	O

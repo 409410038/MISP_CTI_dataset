@@ -21,7 +21,7 @@ file	O
 path	O
 >	O
 &	O
-Del	O
+Del	B-Application
 /f	O
 /q	O
 <	O

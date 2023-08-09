@@ -1,7 +1,7 @@
-%	B-Indicator
-WINDIR	I-Indicator
-%	I-Indicator
-\System32\cmd.exe	I-Indicator
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\System32\cmd.exe	I-Application
 /c	O
 vssadmin	B-Application
 delete	O

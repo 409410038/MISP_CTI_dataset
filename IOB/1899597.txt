@@ -1,7 +1,7 @@
-Windows	
-Update	
-Agent	
-4.0.1.25	
+Windows	B-Application
+Update	I-Application
+Agent	I-Application
+4.0.1.25	I-Application
 Microsoft	B-Application
 Configuration	I-Application
 Application	I-Application

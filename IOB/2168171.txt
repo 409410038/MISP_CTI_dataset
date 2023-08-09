@@ -1,5 +1,5 @@
 Queried	O
-whois.ripe.net	B-Indicator
+whois.ripe.net	O
 with	O
 ``	O
 -B	O

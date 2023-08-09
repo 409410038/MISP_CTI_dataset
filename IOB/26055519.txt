@@ -1,9 +1,9 @@
 BlackCat	B-Malware
 ransomware	I-Malware
 will	O
-drop	O
-ransom	O
-notes	O
+drop	B-TTPs
+ransom	I-TTPs
+notes	I-TTPs
 on	O
 the	O
 compromised	O

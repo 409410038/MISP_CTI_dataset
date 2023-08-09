@@ -2,7 +2,7 @@ IOCs	O
 related	O
 to	O
 a	O
-malspam	B-Malware
+malspam	B-TTPs
 campaign	P
 distributing	P
 AgentTesla	B-Malware
@@ -14,6 +14,6 @@ involves	O
 an	O
 attached	O
 malicious	O
-Word	O
+Word	B-Application
 document	O
 .	O

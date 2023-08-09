@@ -1,5 +1,5 @@
 Queried	O
-whois.arin.net	B-Indicator
+whois.arin.net	O
 with	O
 ``	O
 n	O
