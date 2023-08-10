@@ -1,13 +1,13 @@
 Potentially	O
-malicious	O
-URLs	B-Application
-were	
+malicious	B-TTPs
+URLs	I-TTPs
+were	O
 found	O
 in	O
 the	O
-process	O
-memory	O
-dump	O
+process	B-Application
+memory	I-Application
+dump	I-Application
 -	O
 (	O
 ioc	O

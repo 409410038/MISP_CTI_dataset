@@ -1,10 +1,10 @@
-Creates	O
-a	O
-shortcut	O
-to	O
-an	O
-executable	O
-file	O
+Creates	B-TTPs
+a	I-TTPs
+shortcut	I-TTPs
+to	I-TTPs
+an	I-TTPs
+executable	I-TTPs
+file	I-TTPs
 -	O
 (	O
 T1023	B-TTPs

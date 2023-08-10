@@ -12,8 +12,8 @@ attack	O
 attempt	O
 involves	O
 a	O
-malicious	O
-attached	O
-Excel	B-Application
-document	O
+malicious	B-TTPs
+attached	I-TTPs
+Excel	I-TTPs
+document	I-TTPs
 .	O

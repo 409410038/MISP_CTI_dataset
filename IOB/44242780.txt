@@ -17,6 +17,6 @@ attached	O
 archive	O
 containing	O
 a	O
-malicious	O
-.exe	B-Application
-file	O
+malicious	B-TTPs
+.exe	I-TTPs
+file	I-TTPs

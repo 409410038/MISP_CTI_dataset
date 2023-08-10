@@ -1,6 +1,6 @@
-Stopped	O
-Firewall	O
-service	O
+Stopped	B-TTPs
+Firewall	I-TTPs
+service	I-TTPs
 -	O
 (	O
 T1031	B-TTPs

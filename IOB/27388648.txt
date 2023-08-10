@@ -1,9 +1,9 @@
-PEB	O
-modified	O
-to	O
-hide	O
-loaded	O
-modules	O
+PEB	B-TTPs
+modified	I-TTPs
+to	I-TTPs
+hide	I-TTPs
+loaded	I-TTPs
+modules	I-TTPs
 .	O
 Dll	B-Application
 very	O

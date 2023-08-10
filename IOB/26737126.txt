@@ -17,8 +17,8 @@ Port	O
 ''	O
 ","	O
 ``	O
-Tor	O
-Port	O
+Tor	B-Application
+Port	I-Application
 ''	O
 :	O
 ``	O
@@ -49,7 +49,7 @@ Password	O
 ''	O
 :	O
 ``	O
-3cd2623273605167e72c665ad9347c60	O
+3cd2623273605167e72c665ad9347c60	B-Indicator
 ''	O
 ","	O
 ``	O
