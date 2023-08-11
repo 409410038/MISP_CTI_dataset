@@ -10,7 +10,7 @@ WINDIR	I-Application
 /q	O
 /c	O
 ping	B-Application
-google.com	B-Indicator
+google.com	O
 &	O
 &	O
 md	B-Application

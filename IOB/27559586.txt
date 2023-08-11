@@ -17,8 +17,8 @@ etc	O
 )	O
 ;	O
 -	O
-steal	O
-credentials	O
+steal	B-TTPs
+credentials	I-TTPs
 from	O
 crypto	O
 plugins	O

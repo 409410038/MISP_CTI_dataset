@@ -20,7 +20,7 @@ archive	O
 containing	O
 a	O
 Windows	B-Application
-installer	O
+installer	I-Application
 (	O
 .msi	B-Application
 )	O

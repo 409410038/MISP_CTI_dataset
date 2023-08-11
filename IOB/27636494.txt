@@ -5,10 +5,10 @@ Lab	I-Reporter
 in	O
 collaboration	O
 with	O
-Catalan	O
-civil	O
-society	O
-groups	O
+Catalan	B-Reporter
+civil	I-Reporter
+society	I-Reporter
+groups	I-Reporter
 ","	O
 has	O
 identified	O

@@ -29,11 +29,11 @@ are	O
 issuing	O
 this	O
 joint	O
-Cybersecurity	B-Application
-Advisory	I-Application
-(	I-Application
-CSA	I-Application
-)	I-Application
+Cybersecurity	O
+Advisory	O
+(	O
+CSA	O
+)	O
 to	O
 highlight	O
 the	O

@@ -19,8 +19,8 @@ details	O
 .	O
 It	O
 involves	O
-malicious	O
-URLs	B-Application
+malicious	B-TTPs
+URLs	I-TTPs
 ","	O
 executable	O
 .exe	B-Application

@@ -1,8 +1,8 @@
 The	O
 attack	O
 used	O
-ICS-capable	O
-malware	B-TTPs
+ICS-capable	B-TTPs
+malware	I-TTPs
 and	O
 regular	O
 disk	B-TTPs

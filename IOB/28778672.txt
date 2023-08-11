@@ -15,22 +15,22 @@ activity	O
 reported	O
 in	O
 CISA	B-Reporter
-joint	
-Cybersecurity	
-Advisory	
-(	O
-CSA	
-)	O
+joint	I-Reporter
+Cybersecurity	I-Reporter
+Advisory	I-Reporter
+(	I-Reporter
+CSA	I-Reporter
+)	I-Reporter
 ","	O
-A22-108A	
-TraderTraitor	
-North	
-Korean	
-State-Sponsored	
-APT	
-Targets	
-Blockchain	
-Companies	
+A22-108A	O
+TraderTraitor	B-Malware
+North	O
+Korean	O
+State-Sponsored	O
+APT	O
+Targets	O
+Blockchain	O
+Companies	O
 .	O
 The	O
 Federal	B-Reporter
@@ -58,22 +58,22 @@ are	O
 issuing	O
 this	O
 joint	O
-Cybersecurity	B-Application
-Advisory	I-Application
-(	I-Application
-CSA	I-Application
-)	I-Application
+Cybersecurity	O
+Advisory	O
+(	O
+CSA	O
+)	O
 to	O
-highlight	
+highlight	O
 the	O
-cyber	
+cyber	O
 threat	O
-associated	
+associated	O
 with	O
-cryptocurrency	
-thefts	
+cryptocurrency	O
+thefts	O
 and	O
-tactics	
+tactics	O
 used	O
 by	O
 a	O

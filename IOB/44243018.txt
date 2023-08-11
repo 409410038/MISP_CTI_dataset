@@ -8,7 +8,7 @@ distributing	O
 LokiBot	B-Malware
 through	O
 a	O
-malicious	O
-.rar	B-Application
-attachment	O
+malicious	B-TTPs
+.rar	I-TTPs
+attachment	I-TTPs
 .	O
