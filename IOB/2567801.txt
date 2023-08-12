@@ -1,0 +1,4 @@
+Deserialization	B-Vulnerability
+of	I-Vulnerability
+Untrusted	I-Vulnerability
+Data	I-Vulnerability
