@@ -5,7 +5,7 @@ ERROR	O
 :	O
 The	O
 requested	O
-URL	B-Application
+URL	O
 could	O
 not	O
 be	O
