@@ -5,6 +5,7 @@ Terminate
 ,
 and
 Backslash
+.
 If
 a
 string

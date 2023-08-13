@@ -5,4 +5,5 @@ detect
 custom
 FRP
 client
+.
 CustomFRPClient

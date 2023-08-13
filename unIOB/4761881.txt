@@ -9,6 +9,7 @@ versions
 MF
 and
 NG
+.
 PaperCut
 MF/NG
 Vulnerability

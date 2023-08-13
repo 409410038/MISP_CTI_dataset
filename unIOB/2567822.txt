@@ -4,6 +4,7 @@ Slashes
 in
 Alternate
 Encoding
+.
 This
 attack
 targets

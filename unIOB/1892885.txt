@@ -2,8 +2,10 @@
 система
 Microsoft®
 Windows®
+.
 Microsoft
 Corporation
+.
 ©
 Корпорация
 Майкрософт

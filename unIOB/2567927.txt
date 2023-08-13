@@ -3,6 +3,7 @@ Scripting
 (
 XSS
 )
+.
 An
 adversary
 embeds

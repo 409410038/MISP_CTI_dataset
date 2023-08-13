@@ -5,6 +5,7 @@ other
 adjacent
 user/sensitive
 data
+.
 An
 attacker
 who

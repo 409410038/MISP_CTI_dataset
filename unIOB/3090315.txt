@@ -3,6 +3,7 @@ cmd.exе
 аppcmd
 list
 site
+.
 List
 the
 hosted

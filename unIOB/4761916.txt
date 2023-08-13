@@ -10,4 +10,5 @@ https
 :
 //github.com/kost/revsocks
 )
+.
 /windows/temp/

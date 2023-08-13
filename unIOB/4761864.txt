@@ -12,6 +12,7 @@ news/lsasss.rar
 F
 :
 \lsasss.rar
+.
 Abuse
 of
 bitsadmin

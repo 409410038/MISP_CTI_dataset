@@ -1,6 +1,7 @@
 Vulnerability
 ID
 Assigned
+.
 FortiOS
 version
 7.2.0

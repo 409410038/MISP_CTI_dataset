@@ -1,6 +1,7 @@
 Revolut
 Bank
 Ltd
+.
 fake
 Bank
 account
@@ -8,6 +9,7 @@ of
 Clifford
 Chance
 LLP
+.
 Clifford
 Chance
 LLP

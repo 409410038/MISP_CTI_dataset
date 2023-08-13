@@ -6,4 +6,5 @@ variant
 through
 internal
 strings
+.
 APT28_Graphite_62333_00028

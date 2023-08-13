@@ -3,6 +3,7 @@ Description
 Deletes
 Shadow
 Copies
+.
 cmd.exe
 /c
 vssadmin

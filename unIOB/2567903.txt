@@ -1,6 +1,7 @@
 Embedding
 NULL
 Bytes
+.
 An
 attacker
 embeds
@@ -68,6 +69,7 @@ handle
 postfix
 NULL
 terminators
+.
 Properly
 handle
 the

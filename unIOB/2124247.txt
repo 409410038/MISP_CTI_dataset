@@ -3,6 +3,7 @@ Description
 Deletes
 application
 log
+.
 cmd.exe
 /c
 wevtutil

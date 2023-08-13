@@ -45,6 +45,7 @@ windows/metеrpreter/reverse_https
 >
 &
 1
+.
 PowerShell
 command
 to

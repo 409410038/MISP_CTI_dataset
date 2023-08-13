@@ -22,5 +22,6 @@ cryptocurrency
 campaigns
 from
 2022-12
+.
 rule
 RichHeaders_Lazarus_NukeSped_IconicPayloads_3CX_Q12023

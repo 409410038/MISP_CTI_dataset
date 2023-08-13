@@ -4,5 +4,6 @@ created
 in
 Tor
 directory
+.
 /windows/system32/config/
 systemprofile/appdata/roaming/tor/

@@ -27,6 +27,7 @@ powershell
 Set-MpPreference
 -SubmitSamplesConsent
 2
+.
 Fetched
 from
 https

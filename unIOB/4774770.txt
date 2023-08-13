@@ -6,4 +6,5 @@ instances
 of
 FRP
 tool
+.
 HACKTOOL_FRPClient

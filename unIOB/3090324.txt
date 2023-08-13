@@ -3,6 +3,7 @@ cmd.exе
 nеt
 user
 /domain
+.
 Display
 domain
 users

@@ -4,6 +4,7 @@ through
 SOAP
 Parameter
 Tampering
+.
 An
 attacker
 modifies
@@ -129,6 +130,7 @@ when
 building
 SQL
 queries
+.
 Properly
 validate
 and

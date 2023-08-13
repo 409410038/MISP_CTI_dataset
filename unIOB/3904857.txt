@@ -22,9 +22,13 @@ tmp.log
 >
 &
 1
+.
 cmd.exe
+.
 920
+.
 3396
+.
 %
 WINDIR
 %

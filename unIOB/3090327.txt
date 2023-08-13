@@ -24,6 +24,7 @@ privilеge
 Invoke-Mimikаtz
 -DumpCrеds
 ;
+.
 Decoded
 base64
 command

@@ -2,6 +2,7 @@ cmd.exе
 /c
 nltеst
 /domain_trusts
+.
 List
 domain
 controllers

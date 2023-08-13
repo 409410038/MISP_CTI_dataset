@@ -7,4 +7,5 @@ a.k.a
 .
 rootkits
 )
+.
 CopperStealerDriverx8664

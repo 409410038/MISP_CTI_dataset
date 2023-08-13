@@ -11,8 +11,11 @@ WINDIR
 %
 \path.txt
 )
+.
 powershell.exe
+.
 4796
+.
 %
 WINDIR
 %

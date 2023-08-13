@@ -28,6 +28,7 @@ multithreaded
 PUBLIC
 %
 \Music\GRB_NET.exe
+.
 %
 PUBLIC
 %

@@ -1,6 +1,7 @@
 Leverage
 Alternate
 Encoding
+.
 An
 adversary
 leverages

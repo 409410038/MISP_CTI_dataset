@@ -1,6 +1,7 @@
 Blind
 SQL
 Injection
+.
 Blind
 SQL
 Injection

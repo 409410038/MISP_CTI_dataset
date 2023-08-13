@@ -1,6 +1,7 @@
 Accessing/Intercepting/Modifying
 HTTP
 Cookies
+.
 This
 attack
 relies

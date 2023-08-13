@@ -8,5 +8,6 @@ APT5
 on
 Citrix
 ADC
+.
 rule
 tricklancer_a

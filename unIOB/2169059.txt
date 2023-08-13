@@ -7,4 +7,5 @@ Wiper
 malware
 related
 intrusions
+.
 APT_UA_Hermetic_Wiper_Artefacts_Feb22_1

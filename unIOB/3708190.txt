@@ -5,10 +5,12 @@ USERPROFILE
 new
 zippp\5-ns
 new.exe
+.
 %
 USERPROFILE
 %
 \downloads\network\
+.
 %
 USERPROFILE
 %

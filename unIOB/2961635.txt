@@ -4,6 +4,7 @@ WINDIR
 \system32\wbem\wmiprvse.exe
 -secured
 -Embedding
+.
 wscript.exe
 //e
 :

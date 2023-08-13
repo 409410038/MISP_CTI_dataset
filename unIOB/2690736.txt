@@ -15,8 +15,10 @@ WINDIR
 \System32\Tasks\Local
 Session
 Update
+.
 Local
 Session
 Update
+.
 Repeat
 hourly

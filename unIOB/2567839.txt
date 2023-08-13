@@ -1,6 +1,7 @@
 Cross
 Zone
 Scripting
+.
 An
 attacker
 is

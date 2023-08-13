@@ -19,6 +19,7 @@ scrobj.dll
 >
 &
 1
+.
 cmd.exе
 /c
 “
@@ -44,6 +45,7 @@ scrobj.dll
 >
 &
 1
+.
 cmd.exе
 /c
 “
@@ -78,6 +80,7 @@ made.ps1
 >
 &
 1
+.
 cmd.exе
 /c
 “
@@ -127,6 +130,7 @@ temp\av.vbs\
 >
 &
 1
+.
 cmd.exe
 /c
 “
@@ -160,6 +164,7 @@ made.ps1″
 >
 &
 1
+.
 cmd.exe
 /c
 “
@@ -177,6 +182,7 @@ http
 >
 &
 1
+.
 cmd.exe
 /c
 “
@@ -340,6 +346,7 @@ client.Close
 >
 &
 1
+.
 Alternative
 methods
 to

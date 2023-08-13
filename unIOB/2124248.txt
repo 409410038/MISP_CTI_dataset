@@ -4,6 +4,7 @@ Wipes
 and
 deletes
 itself
+.
 cmd.exe
 ``
 %

@@ -5,6 +5,7 @@ create
 shadow
 /for=E
 :
+.
 Create
 a
 volume

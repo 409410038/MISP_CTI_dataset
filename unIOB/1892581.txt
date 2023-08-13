@@ -17,6 +17,7 @@ TIMESTAMP
 >
 &
 1
+.
 Example
 Impacket
 command

@@ -116,6 +116,7 @@ database
 elements
 .
 Reported
+.
 vulnerability
 in
 MOVEit

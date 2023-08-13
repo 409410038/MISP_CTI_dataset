@@ -3,5 +3,7 @@ HermeticWiper
 broad
 hunting
 rule
+.
 disk
+.
 MAL_HERMETIC_WIPER

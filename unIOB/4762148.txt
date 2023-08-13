@@ -3,4 +3,5 @@ webhook
 APT28
 phishing
 page
+.
 apt_APT28_Phishing_webpage_webhook

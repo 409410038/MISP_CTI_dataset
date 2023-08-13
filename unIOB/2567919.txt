@@ -5,6 +5,7 @@ Include
 SSI
 )
 Injection
+.
 An
 attacker
 can
@@ -123,6 +124,7 @@ to
 the
 web
 server
+.
 Set
 the
 OPTIONS

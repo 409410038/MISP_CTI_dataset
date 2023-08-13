@@ -5,4 +5,5 @@ to
 a
 user
 alexandros
+.
 ./vacuumdb/./rc/cfg.sh

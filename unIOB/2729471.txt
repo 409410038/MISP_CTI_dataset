@@ -1,6 +1,7 @@
 DAH
 SING
 BANK
+.
 fake
 Bank
 account
@@ -13,8 +14,10 @@ of
 Herbert
 Smith
 Freehills
+.
 SIGMALIUM
 LIMITED
+.
 DAH
 SING
 FINANCIAL

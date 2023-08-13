@@ -2,6 +2,7 @@ Collect
 Data
 from
 Registries
+.
 An
 adversary
 exploits

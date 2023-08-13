@@ -4,6 +4,7 @@ Execution
 through
 SQL
 Injection
+.
 An
 attacker
 uses
@@ -143,6 +144,7 @@ a
 command
 line
 argument
+.
 Disable
 MSSQL
 xp_cmdshell

@@ -1,6 +1,7 @@
 A
 -
 Active
+.
 STR
 Suspicious
 Transaction

@@ -2,4 +2,5 @@ Metabase
 Information
 Disclosure
 Vulnerability
+.
 info-leak

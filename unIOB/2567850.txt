@@ -6,6 +6,7 @@ aka
 Session
 Replay
 )
+.
 This
 attack
 targets

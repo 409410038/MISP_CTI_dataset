@@ -1,9 +1,11 @@
 Lockbit
 3.0
 ransomware
+.
 C
 :
 \ProgramData
+.
 C
 :
 \Windows

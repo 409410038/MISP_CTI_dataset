@@ -2,6 +2,7 @@ cmd.exе
 /c
 ipconfig
 -аll
+.
 Display
 network
 configuration

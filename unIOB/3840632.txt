@@ -12,6 +12,7 @@ exploits
 such
 as
 CVE-2017-11882
+.
 Microsoft
 Office
 2007

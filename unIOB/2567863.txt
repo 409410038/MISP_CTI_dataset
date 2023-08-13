@@ -4,6 +4,7 @@ in
 Local
 Command-Line
 Utilities
+.
 This
 attack
 targets

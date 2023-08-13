@@ -9,6 +9,7 @@ to
 Obtain
 Sensitive
 Data
+.
 This
 attack
 utilizes

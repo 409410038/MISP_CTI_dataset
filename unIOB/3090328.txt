@@ -15,6 +15,7 @@ mimikittеnz.ps1
 )
 ;
 Invoke-mimikittеnz
+.
 Decoded
 base64
 command

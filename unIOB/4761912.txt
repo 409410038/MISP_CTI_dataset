@@ -5,6 +5,7 @@ powershell.exe
 -nop
 -w
 hidden
+.
 Launches
 powershell.exe
 in

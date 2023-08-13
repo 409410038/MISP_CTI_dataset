@@ -7,6 +7,7 @@ used
 for
 exfiltration
 purposes
+.
 %
 USERPROFILE
 %

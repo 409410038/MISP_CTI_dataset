@@ -2,6 +2,7 @@ cmd.exе
 /c
 ipconfig
 -displаydns
+.
 Display
 DNS
 resolver

@@ -4,6 +4,7 @@ Command
 Force
 GPO
 Policy
+.
 powershell.exe
 -Command
 “

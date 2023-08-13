@@ -1,4 +1,5 @@
 STIX
 v1
 file
+.
 stix.xml

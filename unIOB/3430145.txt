@@ -8,6 +8,7 @@ include
 spf.web-hosting.com
 ~all
 ''
+.
 v=spf1
 include
 :

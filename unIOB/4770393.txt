@@ -1,8 +1,10 @@
 Forensic
 -
 Preparation
+.
 Forensic
 Acquisition
+.
 All
 potential
 target
@@ -106,4 +108,5 @@ in
 it
 .
 Response
+.
 Medium

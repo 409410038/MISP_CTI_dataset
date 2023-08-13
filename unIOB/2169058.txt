@@ -2,4 +2,5 @@ Detects
 Hermetic
 Wiper
 malware
+.
 APT_UA_Hermetic_Wiper_Feb22_1

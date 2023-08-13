@@ -2,4 +2,5 @@ Generic
 Phishing
 Site
 Detection
+.
 phishing-kit

@@ -3,6 +3,7 @@ Opaque
 Client-based
 Data
 Tokens
+.
 In
 circumstances
 where

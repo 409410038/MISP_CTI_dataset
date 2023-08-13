@@ -10,6 +10,7 @@ APPDATA\Microsoft\Windows\PowerShell\PSReadline\
 ''
 -Force
 –Recurse
+.
 It
 first
 checks

@@ -12,6 +12,7 @@ to
 prevent
 data
 recovery
+.
 cmd.exe
 ``
 %

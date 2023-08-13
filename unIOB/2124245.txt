@@ -3,6 +3,7 @@ Description
 Deletes
 security
 log
+.
 cmd.exe
 /c
 wevtutil

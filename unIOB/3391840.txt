@@ -399,4 +399,5 @@ nul
 exit
 :
 EXITF
+.
 CMD

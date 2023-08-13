@@ -5,6 +5,7 @@ to
 File
 System
 Calls
+.
 An
 attacker
 manipulates
@@ -68,6 +69,7 @@ directly
 to
 the
 filesystem
+.
 Design
 :
 Enforce

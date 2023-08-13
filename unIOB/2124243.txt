@@ -3,6 +3,7 @@ Description
 Ignore
 boot
 failures
+.
 cmd.exe
 /c
 bcdedit
