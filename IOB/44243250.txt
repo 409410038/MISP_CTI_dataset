@@ -5,8 +5,7 @@ a	O
 malspam	B-TTPs
 campaign	O
 distributing	O
-NanoCore	B-Malware
-RAT	I-Malware
+AgentTesla	B-Malware
 .	O
 The	O
 attack	O
@@ -14,11 +13,7 @@ attempt	O
 involves	B-TTPs
 an	I-TTPs
 attached	I-TTPs
-.rar	I-TTPs
-archive	I-TTPs
-containing	I-TTPs
-a	I-TTPs
-malicious	I-TTPs
-.exe	I-TTPs
+crafted	I-TTPs
+7z	I-TTPs
 file	I-TTPs
 .	O

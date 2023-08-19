@@ -1,0 +1,8 @@
+XMRig	B-Malware
+Miner	I-Malware
+Command	B-TTPs
+and	I-TTPs
+Control	I-TTPs
+Traffic	O
+Detection	O
+cryptominer	B-Malware

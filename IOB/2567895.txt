@@ -1,0 +1,3 @@
+Improper	B-Vulnerability
+Input	I-Vulnerability
+Validation	I-Vulnerability

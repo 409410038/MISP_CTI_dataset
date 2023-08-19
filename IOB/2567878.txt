@@ -73,8 +73,8 @@ HTTP	B-Protocol
 response	I-Protocol
 with	O
 an	O
-XML	B-Application
-document	I-Application
+XML	O
+document	O
 .	O
 These	O
 Rest	O
