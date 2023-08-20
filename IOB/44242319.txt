@@ -1,0 +1,12 @@
+IOC	O
+relating	O
+to	O
+a	O
+phishing	B-TTPs
+campaign	O
+leading	O
+to	O
+the	O
+loading	O
+of	O
+Qbot	B-Malware
