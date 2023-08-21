@@ -1,0 +1,4 @@
+Maui	B-Malware
+ransomware	I-Malware
+THREAT	O
+REPORT	O
