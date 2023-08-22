@@ -1,0 +1,7 @@
+Adobe	B-Application
+ColdFusion	I-Application
+CKeditor	I-Application
+Unrestricted	B-Vulnerability
+File	I-Vulnerability
+Upload	I-Vulnerability
+Vulnerability	I-Vulnerability

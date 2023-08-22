@@ -1,0 +1,14 @@
+Knowledge	O
+of	O
+Delphi	O
+programming	O
+language	O
+","	O
+JavaScript	O
+","	O
+AutoHotKey	O
+scripting	O
+and	O
+Power	O
+Shell	O
+Scripting	O
