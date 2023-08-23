@@ -1,0 +1,5 @@
+PHPCMS2008	B-Application
+type.php	I-Application
+Code	B-Vulnerability
+Injection	I-Vulnerability
+Vulnerability	I-Vulnerability

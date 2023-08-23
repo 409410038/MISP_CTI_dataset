@@ -1,0 +1,5 @@
+JSSLoader	B-Malware
+:	O
+the	O
+shellcode	O
+edition	O
