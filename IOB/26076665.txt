@@ -14,9 +14,9 @@ control	I-TTPs
 servers	I-TTPs
 ,	O
 a	O
-HTTP	B-Application
-PUT	I-Application
-request	I-Application
+HTTP	B-Protocol
+PUT	I-Protocol
+request	I-Protocol
 with	O
 hexadecimal	O
 value	O
@@ -40,6 +40,6 @@ server	I-TTPs
 For	O
 example	O
 ,	O
-PUT	B-Application
+PUT	B-Protocol
 /06599379103BD9028AB56AE0EBED457D0	B-Indicator
-HTTP/1.1	B-Application
+HTTP/1.1	B-Protocol

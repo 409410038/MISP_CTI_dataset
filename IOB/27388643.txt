@@ -1,8 +1,8 @@
 Connects	O
 to	O
 an	O
-IP	B-Application
-address	O
+IP	B-Protocol
+address	I-Protocol
 that	O
 is	O
 no	O

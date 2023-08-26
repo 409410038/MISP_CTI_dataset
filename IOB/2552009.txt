@@ -2,9 +2,9 @@ Wavelink	B-Application
 Emulation	I-Application
 License	I-Application
 Server	I-Application
-HTTP	I-Application
-Header	I-Application
-Processing	I-Application
+HTTP	B-Protocol
+Header	I-Protocol
+Processing	I-Protocol
 Heap	B-Vulnerability
 Buffer	I-Vulnerability
 Overflow	I-Vulnerability

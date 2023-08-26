@@ -32,8 +32,8 @@ registers	O
 itself	O
 as	O
 ``	O
-IP	B-Application
-He1per	I-Application
+IP	B-Protocol
+He1per	I-Protocol
 ''	O
 service	O
 .	O

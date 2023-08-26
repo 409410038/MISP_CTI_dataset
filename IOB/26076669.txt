@@ -253,7 +253,7 @@ an	O
 attacker-controlled	O
 server	O
 using	O
-http	B-Application
+http	B-Protocol
 .	O
 Due	O
 to	O
@@ -275,7 +275,7 @@ such	O
 as	O
 rclone	B-Application
 and	O
-MEGAsync	I-Application
+MEGAsync	B-Application
 to	O
 achieve	O
 the	O

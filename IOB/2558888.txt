@@ -3,4 +3,4 @@ archive	O
 retrieved	O
 from	O
 TransferXL	B-Application
-URL	I-Application
+URL	O
