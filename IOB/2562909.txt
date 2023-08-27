@@ -1,0 +1,9 @@
+Citrix	B-Application
+Application	I-Application
+Delivery	I-Application
+Controller	I-Application
+And	I-Application
+Gateway	I-Application
+Directory	B-Vulnerability
+Traversal	I-Vulnerability
+Vulnerability	I-Vulnerability
