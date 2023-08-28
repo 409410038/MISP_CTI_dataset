@@ -1,0 +1,8 @@
+VMware	B-Application
+Server-Side	B-TTPs
+Template	I-TTPs
+Injection	I-TTPs
+Remote	B-Vulnerability
+Code	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

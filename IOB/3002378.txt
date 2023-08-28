@@ -1,0 +1,7 @@
+Spring	B-Application
+Data	I-Application
+Commons	I-Application
+Remote	B-Vulnerability
+Code	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability
