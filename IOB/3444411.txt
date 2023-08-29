@@ -1,0 +1,7 @@
+Oracle	B-Application
+WebLogic	I-Application
+Server	I-Application
+Remote	B-Vulnerability
+Code	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

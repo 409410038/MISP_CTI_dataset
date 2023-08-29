@@ -1,0 +1,5 @@
+Alibaba	B-Application
+Nacos	I-Application
+Authentication	B-Vulnerability
+Bypass	I-Vulnerability
+Vulnerability	I-Vulnerability

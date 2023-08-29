@@ -1,0 +1,5 @@
+WordPress	B-Application
+Workreap	I-Application
+File	B-Vulnerability
+Upload	I-Vulnerability
+Vulnerability	I-Vulnerability
