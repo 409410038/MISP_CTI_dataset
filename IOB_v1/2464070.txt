@@ -1,0 +1,3 @@
+dropper	B-Malware
+peexe	B-Application
+nsis	B-Application

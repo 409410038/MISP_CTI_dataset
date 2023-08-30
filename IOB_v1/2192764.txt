@@ -1,0 +1,6 @@
+Ransomware	B-Malware
+payment	O
+demand	O
+asked	O
+in	O
+Monero	B-Application

@@ -1,0 +1,15 @@
+SparrowDoor	B-Malware
+supports	O
+various	O
+tasking	O
+commands	O
+","	O
+including	O
+reading/writing	B-TTPs
+files	I-TTPs
+and	I-TTPs
+opening	I-TTPs
+a	I-TTPs
+reverse	I-TTPs
+shell	I-TTPs
+.	O

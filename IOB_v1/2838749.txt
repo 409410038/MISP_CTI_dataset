@@ -1,0 +1,4 @@
+Joomla	B-Application
+Privilege	B-Vulnerability
+Escalation	I-Vulnerability
+Vulnerability	I-Vulnerability

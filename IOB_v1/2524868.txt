@@ -1,0 +1,6 @@
+Dragonfly	B-Application
+Ruby	I-Application
+Gem	I-Application
+Argument	B-Vulnerability
+Injection	I-Vulnerability
+Vulnerability	I-Vulnerability

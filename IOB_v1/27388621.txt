@@ -1,0 +1,13 @@
+Uses	O
+Windows	B-Application
+utilities	O
+for	O
+basic	O
+Windows	B-Application
+functionality	O
+-	O
+(	O
+T1053	B-TTPs
+","	O
+ioc	O
+)	O

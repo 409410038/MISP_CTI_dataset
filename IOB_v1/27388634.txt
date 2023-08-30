@@ -1,0 +1,10 @@
+Command	O
+line	O
+console	O
+output	O
+was	O
+observed	O
+-	O
+(	O
+WriteConsoleW	B-Application
+)	O

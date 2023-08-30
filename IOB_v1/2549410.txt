@@ -1,0 +1,8 @@
+D-Link	B-Application
+DSL	I-Application
+Soap	I-Application
+Authorization	I-Application
+Remote	B-Vulnerability
+Command	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

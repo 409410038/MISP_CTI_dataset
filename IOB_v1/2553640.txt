@@ -1,0 +1,5 @@
+Smallshell	O
+ASP	B-Application
+Webshell	B-Malware
+Upload	O
+Detection	O

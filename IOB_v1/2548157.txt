@@ -1,0 +1,6 @@
+Axis	B-Application
+SSI	I-Application
+Remote	B-Vulnerability
+Command	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

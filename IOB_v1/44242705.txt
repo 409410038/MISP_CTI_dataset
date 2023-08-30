@@ -1,0 +1,11 @@
+IOC	O
+about	O
+a	O
+malspam	B-TTPs
+campaign	O
+spreading	O
+Formbook	B-Malware
+and	O
+XLoader	B-Malware
+malware	O
+.	O

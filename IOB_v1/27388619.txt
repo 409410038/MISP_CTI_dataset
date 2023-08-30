@@ -1,0 +1,14 @@
+One	O
+or	O
+more	O
+thread	O
+handles	O
+in	O
+other	O
+processes	O
+-	O
+(	O
+T1055	B-TTPs
+","	O
+volatility	B-Application
+)	O

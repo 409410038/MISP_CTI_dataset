@@ -1,0 +1,6 @@
+ProFTPD	B-Application
+Unauthorized	B-Vulnerability
+Remote	I-Vulnerability
+File	I-Vulnerability
+Upload	I-Vulnerability
+Vulnerability	I-Vulnerability

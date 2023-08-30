@@ -1,0 +1,16 @@
+The	O
+Wiper	B-Malware
+binary	O
+is	O
+signed	O
+using	O
+a	O
+code	O
+signing	O
+certificate	O
+issued	O
+to	O
+Hermetica	O
+Digital	O
+Ltd	O
+	

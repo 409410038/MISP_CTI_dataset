@@ -1,0 +1,15 @@
+ctx	B-Application
+Python	I-Application
+Library	I-Application
+Updated	O
+with	O
+``	O
+Extra	O
+''	O
+Features	O
+Published	O
+:	O
+2022-05-24	O
+https	B-Indicator
+:	I-Indicator
+//isc.sans.edu/diary/28678	I-Indicator

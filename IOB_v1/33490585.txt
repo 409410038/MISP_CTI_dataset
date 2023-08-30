@@ -1,0 +1,11 @@
+THREAT	O
+ANALYSIS	O
+REPORT	O
+:	O
+Ragnar	B-Malware
+Locker	I-Malware
+Ransomware	I-Malware
+Targeting	O
+the	O
+Energy	O
+Sector	O

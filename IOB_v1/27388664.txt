@@ -1,0 +1,13 @@
+Checks	O
+if	O
+process	O
+is	O
+being	O
+debugged	O
+by	O
+a	O
+debugger	O
+-	O
+(	O
+IsDebuggerPresent	B-Application
+)	O

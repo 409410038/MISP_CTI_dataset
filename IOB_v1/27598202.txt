@@ -1,0 +1,16 @@
+We	O
+assess	O
+with	O
+high	O
+confidence	O
+that	O
+the	O
+APT	O
+group	O
+Sandworm	B-ThreatActor
+is	O
+responsible	O
+for	O
+this	O
+new	O
+attack	O

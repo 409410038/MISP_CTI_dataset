@@ -1,0 +1,10 @@
+reg	B-Application
+add	I-Application
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters	B-Indicator
+/v	O
+MaxMpxCt	O
+/d	O
+65535	O
+/t	O
+REG_DWORD	O
+/f	O

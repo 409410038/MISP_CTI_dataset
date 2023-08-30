@@ -1,0 +1,16 @@
+Windows	B-Application
+Update	I-Application
+Agent	I-Application
+4.0.1.25	I-Application
+Microsoft	B-Application
+Configuration	I-Application
+Application	I-Application
+Microsoft	B-Application
+Corp	I-Application
+Copyright	O
+(	O
+C	O
+)	O
+Microsoft	B-Application
+Corp	I-Application
+.	O

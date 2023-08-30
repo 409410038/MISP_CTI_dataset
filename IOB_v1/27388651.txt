@@ -1,0 +1,14 @@
+Communicates	O
+with	O
+host	O
+for	O
+which	O
+no	O
+DNS	B-Application
+query	I-Application
+was	O
+performed	O
+-	O
+(	O
+192.3.146.155	B-Indicator
+)	O

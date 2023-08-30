@@ -1,0 +1,6 @@
+Detects	O
+Hermetic	B-Malware
+Wiper	I-Malware
+malware	O
+APT_UA_Hermetic_Wiper_Feb22_1	O
+	

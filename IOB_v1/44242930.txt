@@ -1,0 +1,8 @@
+IOC	O
+about	O
+a	O
+malspam	B-TTPs
+campaign	O
+spreading	O
+QBot	B-Malware
+.	O

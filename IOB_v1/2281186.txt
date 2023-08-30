@@ -1,0 +1,14 @@
+Identifies	O
+samples	O
+of	O
+Mars	B-Malware
+Stealer	I-Malware
+based	O
+on	O
+the	O
+PE	B-Application
+section	I-Application
+name	O
+LLCPPC	B-Indicator
+.	O
+infostealer_win_mars_stealer_llcppc	O

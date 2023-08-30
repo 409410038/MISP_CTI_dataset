@@ -1,0 +1,12 @@
+The	B-TTPs
+executable	I-TTPs
+uses	I-TTPs
+a	I-TTPs
+known	I-TTPs
+packer	I-TTPs
+-	O
+(	O
+T1045	B-TTPs
+","	O
+ioc	O
+)	O

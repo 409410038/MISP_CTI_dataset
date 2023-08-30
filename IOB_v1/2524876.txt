@@ -1,0 +1,8 @@
+OEM	B-Application
+Presentation	I-Application
+Platform	I-Application
+Unauthenticated	B-Vulnerability
+Remote	I-Vulnerability
+Command	I-Vulnerability
+Injection	I-Vulnerability
+Vulnerability	I-Vulnerability

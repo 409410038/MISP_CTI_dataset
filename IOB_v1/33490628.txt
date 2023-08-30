@@ -1,0 +1,12 @@
+Azerbaijan	O
+Armenia	O
+Belarus	O
+Kazakhstan	O
+Kyrgyzstan	O
+Moldova	O
+Tajikistan	O
+Russia	O
+Turkmenistan	O
+Uzbekistan	O
+Ukraine	O
+Georgia	O

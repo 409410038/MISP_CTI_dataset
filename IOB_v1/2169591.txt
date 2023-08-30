@@ -1,0 +1,9 @@
+%	B-Indicator
+USERPROFILE	I-Indicator
+%	I-Indicator
+\desktop\payment	I-Indicator
+with	O
+a	O
+new	O
+address.xlsm	B-Indicator
+	

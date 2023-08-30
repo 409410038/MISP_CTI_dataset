@@ -1,0 +1,14 @@
+IOCs	O
+related	O
+to	O
+a	O
+malspam	B-TTPs
+campaign	O
+distributing	O
+LokiBot	B-Malware
+through	O
+a	O
+malicious	B-TTPs
+.rar	I-TTPs
+attachment	I-TTPs
+.	O

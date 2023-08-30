@@ -1,0 +1,7 @@
+Support	O
+script	O
+for	O
+extracting	O
+the	O
+hosts	O
+Trusted	O

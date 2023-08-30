@@ -1,0 +1,15 @@
+Description	O
+:	O
+Disables	B-TTPs
+Win	I-TTPs
+10	I-TTPs
+recovery	I-TTPs
+cmd.exe	B-Application
+/c	O
+bcdedit	B-Application
+/set	O
+{	O
+default	O
+}	O
+recoveryenabled	O
+No	O

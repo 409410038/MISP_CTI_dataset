@@ -1,0 +1,8 @@
+DNS	O
+Lookup	O
+Github	B-Application
+Repo	O
+Compromise	O
+Domain	O
+MyJino	O
+RU	O

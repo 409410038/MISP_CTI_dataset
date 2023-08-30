@@ -1,0 +1,5 @@
+Metabase	B-Application
+Information	B-Vulnerability
+Disclosure	I-Vulnerability
+Vulnerability	I-Vulnerability
+info-leak	O

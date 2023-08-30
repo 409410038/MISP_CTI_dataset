@@ -1,0 +1,5 @@
+Monitorr	B-Application
+Insecure	O
+File	B-Vulnerability
+Upload	I-Vulnerability
+Vulnerability	I-Vulnerability

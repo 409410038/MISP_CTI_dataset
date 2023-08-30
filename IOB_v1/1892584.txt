@@ -1,0 +1,3 @@
+Microsoft	B-Application
+365	I-Application
+Defender	I-Application

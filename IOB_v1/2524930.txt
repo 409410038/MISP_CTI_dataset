@@ -1,0 +1,9 @@
+Generic	O
+Webshell	B-Malware
+Command	B-TTPs
+and	I-TTPs
+Control	I-TTPs
+Traffic	O
+Detection	O
+webshell	B-Malware
+spyware	B-Malware

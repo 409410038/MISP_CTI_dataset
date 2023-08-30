@@ -1,0 +1,5 @@
+DLink	B-Application
+DSL	I-Application
+Information	B-Vulnerability
+Disclosure	I-Vulnerability
+Vulnerability	I-Vulnerability

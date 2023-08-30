@@ -1,0 +1,8 @@
+TTP	O
+:	O
+T1023	B-TTPs
+","	O
+short	O
+:	O
+Shortcut	B-TTPs
+Modification	I-TTPs

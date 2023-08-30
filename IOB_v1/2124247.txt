@@ -1,0 +1,10 @@
+Description	O
+:	O
+Deletes	O
+application	O
+log	O
+cmd.exe	B-Application
+/c	O
+wevtutil	B-Application
+cl	O
+application	O

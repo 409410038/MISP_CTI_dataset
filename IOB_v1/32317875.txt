@@ -1,0 +1,4 @@
+schtasks	B-Application
+/query	O
+/tn	O
+microsoftwindowswindowsupdatescheduled	O
