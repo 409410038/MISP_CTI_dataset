@@ -9,7 +9,7 @@ execution	O
 of	O
 the	O
 ransomware	B-Malware
-","	O
+,	O
 including	O
 from	O
 cloud	O

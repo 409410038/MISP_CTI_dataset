@@ -12,7 +12,7 @@ subset	O
 of	O
 this	O
 activity	O
-","	O
+,	O
 the	O
 attacker	O
 also	O
@@ -27,7 +27,7 @@ up	I-TTPs
 to	I-TTPs
 300MB	I-TTPs
 )	I-TTPs
-","	O
+,	O
 potentially	O
 in	O
 an	O
@@ -36,4 +36,3 @@ to	O
 bypass	B-TTPs
 detection	I-TTPs
 .	O
-	

@@ -13,7 +13,7 @@ the	O
 BlackCat	B-ThreatActor
 gang	I-ThreatActor
 ,	O
-??	O
+”	O
 utilize	O
 numerous	O
 tactics	O

@@ -20,7 +20,7 @@ everyone	O
 to	O
 earn	O
 $	O
-"171,000"	O
+171,000	O
 a	O
 month	O
 by	O

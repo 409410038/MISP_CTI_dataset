@@ -2,6 +2,7 @@ Bypassing	B-TTPs
 ATA	I-TTPs
 Password	I-TTPs
 Security	I-TTPs
+.	O
 An	O
 attacker	O
 exploits	B-TTPs
@@ -115,7 +116,7 @@ for	O
 exploiting	O
 this	O
 flaw	O
-","	O
+,	O
 the	O
 most	O
 common	O

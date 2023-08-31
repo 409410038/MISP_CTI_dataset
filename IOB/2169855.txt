@@ -4,4 +4,5 @@ for	O
 extracting	O
 the	O
 hosts	O
+.	O
 Trusted	O

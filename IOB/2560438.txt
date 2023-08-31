@@ -8,7 +8,7 @@ ways	O
 in	O
 which	O
 People	B-ThreatActor
-??	I-ThreatActor
+â€™	I-ThreatActor
 s	I-ThreatActor
 Republic	I-ThreatActor
 of	I-ThreatActor
@@ -49,7 +49,7 @@ variety	O
 of	O
 targets	O
 worldwide	O
-","	O
+,	O
 including	O
 public	O
 and	O
@@ -75,7 +75,7 @@ providers	O
 and	O
 the	O
 top	O
-vulnerabilities?”primarily	O
+vulnerabilitiesâ€”primarily	O
 Common	O
 Vulnerabilities	O
 and	O
@@ -83,7 +83,7 @@ Exposures	O
 (	O
 CVEs	O
 )	O
-?”associated	O
+â€”associated	O
 with	O
 network	O
 devices	O

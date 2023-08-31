@@ -6,6 +6,7 @@ aka	O
 Session	B-TTPs
 Replay	I-TTPs
 )	O
+.	O
 This	O
 attack	O
 targets	O
@@ -152,7 +153,7 @@ ID	O
 with	O
 GET	B-Protocol
 method	I-Protocol
-","	O
+,	O
 otherwise	O
 the	O
 session	O
@@ -181,7 +182,7 @@ logged	O
 in	O
 log	O
 files	O
-","	O
+,	O
 which	O
 are	O
 vulnerable	O

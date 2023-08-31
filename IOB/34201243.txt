@@ -107,7 +107,7 @@ executable	O
 to	O
 hide	B-TTPs
 ArguePatch	I-TTPs
-","	I-TTPs
+,	I-TTPs
 with	I-TTPs
 the	I-TTPs
 digital	I-TTPs

@@ -3,9 +3,9 @@ have	O
 been	O
 notified	O
 by	O
-","	O
+,	O
 currently	O
-","	O
+,	O
 two	O
 employees	O
 that	O
@@ -27,7 +27,7 @@ to	O
 impersonate	O
 our	O
 CEO	O
-","	O
+,	O
 Laust	O
 Bertelsen	O
 .	O

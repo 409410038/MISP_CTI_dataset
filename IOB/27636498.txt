@@ -11,7 +11,7 @@ to	O
 a	O
 specific	O
 entity	O
-","	O
+,	O
 but	O
 strong	O
 circumstantial	O

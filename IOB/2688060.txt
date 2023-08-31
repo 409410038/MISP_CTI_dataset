@@ -1,5 +1,5 @@
-JJ	vBulletin	B-Application
-NNP	Remote	B-Vulnerability
-NNP	Code	I-Vulnerability
-NNP	Execution	I-Vulnerability
-NNP	Vulnerability	I-Vulnerability
+vBulletin	B-Application
+Remote	B-Vulnerability
+Code	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

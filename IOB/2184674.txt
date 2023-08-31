@@ -15,4 +15,5 @@ KDU	B-Application
 https	B-Indicator
 :	I-Indicator
 //virustotal.com/gui/file/0e1638b37df11845253ee8b2188fdb199abe06bb768220c25c30e6a8ef4f9dee/details	I-Indicator
+.	O
 Informative	O

@@ -9,6 +9,7 @@ syntax	O
 and	O
 errors	O
 out	O
+.	O
 cmd.exe	B-Application
 /c	O
 wmic	B-Application

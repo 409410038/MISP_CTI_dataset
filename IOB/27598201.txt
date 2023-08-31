@@ -14,7 +14,7 @@ of	O
 the	O
 Industroyer	B-Malware
 malware	O
-","	O
+,	O
 which	O
 was	O
 used	O

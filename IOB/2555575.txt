@@ -2,7 +2,7 @@ For	O
 a	O
 few	O
 days	O
-","	O
+,	O
 ``	O
 Follina	B-Vulnerability
 ''	O
@@ -15,7 +15,7 @@ noise	O
 on	O
 the	O
 Internet	O
-","	O
+,	O
 check	O
 our	O
 yesterday	O
@@ -45,7 +45,7 @@ samples	O
 For	O
 this	O
 purpose	O
-","	O
+,	O
 I	O
 created	O
 a	O

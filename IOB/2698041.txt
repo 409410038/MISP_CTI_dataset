@@ -2,7 +2,7 @@ Full	O
 time	O
 malware	B-TTPs
 dev	O
-","	O
+,	O
 also	O
 available	O
 for	O
@@ -16,12 +16,15 @@ freakanon	B-Indicator
 @	I-Indicator
 riseup.net	I-Indicator
 )	O
+.	O
 YOUR	O
 LIMITED	O
 CMOS	O
 MEMORY	O
+.	O
 Kek	B-ThreatActor
 Security	I-ThreatActor
+.	O
 http	B-Indicator
 :	I-Indicator
 //pastbin.com/u/KekSec	I-Indicator

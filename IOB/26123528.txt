@@ -1,14 +1,13 @@
 Trickbot	B-Malware
-¡¦	O
+â€™	O
 s	O
 top	O
 industry	O
 targets	O
 are	O
 government	O
-","	O
+,	O
 finance	O
 and	O
 then	O
 manufacturing	O
-	

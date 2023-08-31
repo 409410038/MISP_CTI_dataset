@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1031	B-TTPs
-","	O
+,	O
 short	O
 :	O
 Modify	B-TTPs

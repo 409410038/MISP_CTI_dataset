@@ -46,7 +46,7 @@ together	I-TTPs
 with	I-TTPs
 dot-dot-slash	I-TTPs
 characters	I-TTPs
-","	O
+,	O
 resulting	O
 in	O
 the	O
@@ -156,6 +156,7 @@ adequately	O
 sanitize	O
 incoming	O
 paths	O
+.	O
 Design	O
 :	O
 Configure	O
@@ -179,7 +180,7 @@ programs	O
 with	O
 constrained	O
 privileges	O
-","	O
+,	O
 so	O
 parent	O
 process	O
@@ -194,12 +195,12 @@ Ensure	O
 that	O
 all	O
 directories	O
-","	O
+,	O
 temporary	O
 directories	O
 and	O
 files	O
-","	O
+,	O
 and	O
 memory	O
 are	O
@@ -228,9 +229,9 @@ malicious	O
 Utilize	O
 strict	O
 type	O
-","	O
+,	O
 character	O
-","	O
+,	O
 and	O
 encoding	O
 enforcement	O
@@ -241,7 +242,7 @@ Proxy	O
 communication	O
 to	O
 host	O
-","	O
+,	O
 so	O
 that	O
 communications	O
@@ -250,7 +251,7 @@ terminated	O
 at	O
 the	O
 proxy	O
-","	O
+,	O
 sanitizing	O
 the	O
 requests	O
@@ -298,9 +299,9 @@ monitoring	O
 for	O
 critical	O
 files	O
-","	O
+,	O
 directories	O
-","	O
+,	O
 and	O
 processes	O
 .	O
@@ -340,7 +341,7 @@ for	O
 all	O
 remote	O
 content	O
-","	O
+,	O
 including	O
 remote	O
 and	O
@@ -360,9 +361,9 @@ scanning	O
 to	O
 identify	O
 directories	O
-","	O
+,	O
 programs	O
-","	O
+,	O
 and	O
 interfaces	O
 that	O

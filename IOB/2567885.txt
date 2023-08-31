@@ -2,6 +2,7 @@ Exploiting	B-TTPs
 Trust	I-TTPs
 in	I-TTPs
 Client	I-TTPs
+.	O
 An	O
 attack	O
 of	O
@@ -29,11 +30,11 @@ places	I-TTPs
 in	I-TTPs
 the	I-TTPs
 client	I-TTPs
-","	O
+,	O
 or	O
 more	O
 importantly	O
-","	O
+,	O
 that	O
 which	O
 the	O
@@ -90,7 +91,7 @@ formatted	O
 and	O
 validated	O
 values	O
-","	O
+,	O
 and	O
 not	O
 reinforce	O

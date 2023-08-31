@@ -1,18 +1,18 @@
-PRP	We	O
-VBP	secure	O
-PRP$	our	O
-NN	email	O
-NNS	attachments	O
-IN	with	O
-NN	password	O
-IN	for	O
-NN	security	O
-NNS	reasons	O
-.	.	O
-PRP$	Your	O
-NN	password	O
-VBZ	is	O
-NNP	PQbhu8bgt5	O
-.	!	O
-$	@	O
-CD	3	O
+We	O
+secure	O
+our	O
+email	O
+attachments	O
+with	O
+password	O
+for	O
+security	O
+reasons	O
+.	O
+Your	O
+password	O
+is	O
+PQbhu8bgt5	O
+!	O
+@	O
+3	O

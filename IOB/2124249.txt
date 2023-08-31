@@ -12,6 +12,7 @@ to	I-TTPs
 prevent	I-TTPs
 data	I-TTPs
 recovery	I-TTPs
+.	O
 cmd.exe	B-Application
 ``	O
 %	B-Application

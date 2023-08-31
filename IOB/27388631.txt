@@ -7,6 +7,6 @@ packer	I-TTPs
 -	O
 (	O
 T1045	B-TTPs
-","	O
+,	O
 ioc	O
 )	O

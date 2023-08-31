@@ -6,11 +6,12 @@ to	I-TTPs
 a	I-TTPs
 Web	I-TTPs
 Server	I-TTPs
+.	O
 By	O
 exploiting	O
 insufficient	O
 permissions	O
-","	O
+,	O
 it	O
 is	O
 possible	O
@@ -40,7 +41,7 @@ can	O
 have	O
 various	O
 capabilities	O
-","	O
+,	O
 thereby	O
 acting	O
 as	O
@@ -67,7 +68,7 @@ of	O
 the	O
 web	O
 server	O
-","	O
+,	O
 providing	O
 the	O
 ability	O
@@ -126,7 +127,7 @@ least	O
 privilege	O
 ''	O
 settings	O
-","	O
+,	O
 and	O
 that	O
 those	O

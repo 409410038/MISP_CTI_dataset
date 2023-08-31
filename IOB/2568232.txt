@@ -30,12 +30,12 @@ Unlike	O
 other	O
 ransomware	B-Malware
 groups	O
-","	O
+,	O
 this	O
 ransomware	B-Malware
 family	O
 doesn	O
-??	O
+’	O
 t	O
 have	O
 an	O

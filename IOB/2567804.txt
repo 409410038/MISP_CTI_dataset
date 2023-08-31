@@ -21,7 +21,7 @@ could	O
 allow	O
 an	O
 authenticated	O
-","	O
+,	O
 remote	O
 attacker	O
 with	O

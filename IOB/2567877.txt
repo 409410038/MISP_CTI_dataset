@@ -3,6 +3,7 @@ in	I-TTPs
 the	I-TTPs
 Middle	I-TTPs
 Attack	I-TTPs
+.	O
 This	O
 type	O
 of	O
@@ -45,14 +46,14 @@ other	O
 (	O
 data	O
 flow	O
-","	O
+,	O
 authentication	O
 challenges	O
-","	O
+,	O
 etc	O
 .	O
 )	O
-","	O
+,	O
 the	O
 data	O
 first	O
@@ -60,7 +61,7 @@ goes	O
 to	O
 the	O
 attacker	O
-","	O
+,	O
 who	O
 has	O
 the	O
@@ -70,7 +71,7 @@ observe	O
 or	O
 alter	O
 it	O
-","	O
+,	O
 and	O
 it	O
 is	O
@@ -165,11 +166,11 @@ sender	I-TTPs
 original	I-TTPs
 unmodified	I-TTPs
 data	I-TTPs
-","	I-TTPs
+,	I-TTPs
 after	I-TTPs
 copying	I-TTPs
 it	I-TTPs
-","	O
+,	O
 instead	O
 of	O
 keeping	O
@@ -265,7 +266,7 @@ using	O
 cryptography	O
 (	O
 SSL	B-Protocol
-","	O
+,	O
 ...	O
 )	O
 Use	O

@@ -7,6 +7,7 @@ to	O
 Bypass	B-TTPs
 Input	I-TTPs
 Filters	I-TTPs
+.	O
 Some	O
 APIs	O
 will	O
@@ -85,7 +86,7 @@ the	O
 equivalent	O
 semantic	O
 way	O
-","	O
+,	O
 while	O
 the	O
 filter	O

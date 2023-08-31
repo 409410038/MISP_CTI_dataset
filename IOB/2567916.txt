@@ -1,6 +1,7 @@
 File	B-TTPs
 Content	I-TTPs
 Injection	I-TTPs
+.	O
 An	O
 attack	O
 of	O
@@ -15,7 +16,7 @@ in	I-TTPs
 executing	I-TTPs
 remote	I-TTPs
 content	I-TTPs
-","	I-TTPs
+,	I-TTPs
 including	I-TTPs
 binary	I-TTPs
 files	I-TTPs
@@ -53,7 +54,7 @@ such	O
 as	O
 via	O
 email	O
-","	O
+,	O
 and	O
 standard	O
 web	O
@@ -118,7 +119,7 @@ vulnerabilities	I-TTPs
 and	I-TTPs
 entry	I-TTPs
 points	I-TTPs
-","	O
+,	O
 they	O
 can	O
 be	O
@@ -134,7 +135,7 @@ the	O
 attack	O
 is	O
 executed	O
-","	O
+,	O
 the	O
 adversary	O
 's	O
@@ -163,7 +164,7 @@ a	O
 worst	O
 case	O
 scenario	O
-","	O
+,	O
 these	B-TTPs
 programs	I-TTPs
 are	I-TTPs
@@ -230,7 +231,7 @@ accepted	O
 that	O
 once	O
 accepted	O
-","	O
+,	O
 they	O
 are	O
 placed	O
@@ -267,7 +268,7 @@ programs	O
 with	O
 constrained	O
 privileges	O
-","	O
+,	O
 so	O
 parent	O
 process	O
@@ -282,12 +283,12 @@ Ensure	O
 that	O
 all	O
 directories	O
-","	O
+,	O
 temporary	O
 directories	O
 and	O
 files	O
-","	O
+,	O
 and	O
 memory	O
 are	O
@@ -307,7 +308,7 @@ Proxy	O
 communication	O
 to	O
 host	O
-","	O
+,	O
 so	O
 that	O
 communications	O
@@ -316,7 +317,7 @@ terminated	O
 at	O
 the	O
 proxy	O
-","	O
+,	O
 sanitizing	O
 the	O
 requests	O
@@ -340,9 +341,9 @@ monitoring	O
 for	O
 critical	O
 files	O
-","	O
+,	O
 directories	O
-","	O
+,	O
 and	O
 processes	O
 .	O

@@ -1,6 +1,6 @@
 Cisco	O
 Systems	O
-","	O
+,	O
 Inc	O
 .	O
 A	O
@@ -23,7 +23,7 @@ could	O
 allow	O
 an	O
 unauthenticated	O
-","	O
+,	O
 remote	O
 attacker	O
 to	O
@@ -34,7 +34,7 @@ of	O
 an	O
 affected	O
 device	O
-","	O
+,	O
 resulting	O
 in	O
 a	O
@@ -45,7 +45,7 @@ service	I-TTPs
 DoS	I-TTPs
 )	I-TTPs
 condition	O
-","	O
+,	O
 or	O
 to	O
 execute	B-TTPs
@@ -105,7 +105,7 @@ on	O
 the	O
 affected	O
 device	O
-","	O
+,	O
 which	O
 could	O
 have	O
@@ -119,7 +119,7 @@ reload	O
 of	O
 the	O
 device	O
-","	O
+,	O
 Allowing	O
 the	O
 attacker	O
@@ -130,7 +130,7 @@ code	O
 on	O
 the	O
 device	O
-","	O
+,	O
 Causing	O
 an	O
 indefinite	O

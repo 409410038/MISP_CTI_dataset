@@ -3,6 +3,7 @@ Description	O
 Deletes	B-TTPs
 Shadow	I-TTPs
 Copies	I-TTPs
+.	O
 cmd.exe	B-Application
 /c	O
 vssadmin	B-Application

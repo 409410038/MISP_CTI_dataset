@@ -42,7 +42,7 @@ Date	O
 Registrar	O
 :	O
 OVH	O
-","	O
+,	O
 SAS	O
 Registrar	O
 IANA	O

@@ -54,7 +54,7 @@ this	O
 type	O
 of	O
 attack	O
-","	O
+,	O
 many	O
 companies	O
 are	O
@@ -123,7 +123,7 @@ applications	O
 like	O
 web	O
 applications	O
-","	O
+,	O
 there	O
 are	O
 historical	O

@@ -41,7 +41,7 @@ to	O
 the	O
 XML	O
 database	O
-","	O
+,	O
 thus	O
 bypassing	O
 the	O
@@ -98,6 +98,7 @@ part	O
 of	O
 XPath	O
 queries	O
+.	O
 Strong	O
 input	O
 validation	O
@@ -145,7 +146,7 @@ or	O
 (	O
 |	O
 )	O
-","	O
+,	O
 and	O
 (	O
 &	O
@@ -177,7 +178,7 @@ can	O
 not	O
 be	O
 filtered	O
-","	O
+,	O
 it	O
 must	O
 at	O
@@ -212,13 +213,13 @@ restricted	O
 to	O
 certain	O
 domains	O
-","	O
+,	O
 such	O
 as	O
 strings	O
 or	O
 integers	O
-","	O
+,	O
 and	O
 any	O
 input	O

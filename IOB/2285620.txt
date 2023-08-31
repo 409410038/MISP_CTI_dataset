@@ -5,7 +5,7 @@ Energy	I-Reporter
 (	I-Reporter
 DOE	I-Reporter
 )	I-Reporter
-","	O
+,	O
 the	O
 Cybersecurity	B-Reporter
 and	I-Reporter
@@ -15,7 +15,7 @@ Agency	I-Reporter
 (	I-Reporter
 CISA	I-Reporter
 )	I-Reporter
-","	O
+,	O
 the	O
 National	B-Reporter
 Security	I-Reporter
@@ -23,7 +23,7 @@ Agency	I-Reporter
 (	I-Reporter
 NSA	I-Reporter
 )	I-Reporter
-","	O
+,	O
 and	O
 the	O
 Federal	B-Reporter
@@ -79,4 +79,5 @@ acquisition	O
 SCADA	O
 )	O
 devices	O
+.	O
 Alert	O

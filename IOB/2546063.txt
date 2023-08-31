@@ -3,4 +3,5 @@ Command	B-TTPs
 and	I-TTPs
 Control	I-TTPs
 Traffic	O
+.	O
 botnet	B-Malware

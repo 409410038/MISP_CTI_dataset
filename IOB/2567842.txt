@@ -2,6 +2,7 @@ Collect	B-TTPs
 Data	I-TTPs
 from	I-TTPs
 Registries	I-TTPs
+.	O
 An	O
 adversary	O
 exploits	B-TTPs
@@ -21,10 +22,10 @@ a	I-TTPs
 registry	I-TTPs
 (	I-TTPs
 e.g.	I-TTPs
-","	I-TTPs
+,	I-TTPs
 Windows	I-TTPs
 Registry	I-TTPs
-","	I-TTPs
+,	I-TTPs
 Mac	I-TTPs
 plist	I-TTPs
 )	I-TTPs
@@ -36,12 +37,12 @@ about	O
 the	O
 system	O
 configuration	O
-","	O
+,	O
 software	O
-","	O
+,	O
 operating	O
 system	O
-","	O
+,	O
 and	O
 security	O
 .	O
@@ -74,7 +75,7 @@ some	O
 means	O
 (	O
 e.g.	O
-","	O
+,	O
 via	B-TTPs
 obtained	I-TTPs
 credentials	I-TTPs
@@ -133,9 +134,9 @@ system	O
 .	O
 Unnecessary	O
 applications	O
-","	O
+,	O
 utilities	O
-","	O
+,	O
 and	O
 configurations	O
 will	O

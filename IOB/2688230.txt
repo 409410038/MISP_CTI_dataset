@@ -6,7 +6,7 @@ Investigation	I-Reporter
 (	I-Reporter
 FBI	I-Reporter
 )	I-Reporter
-","	O
+,	O
 the	O
 Cybersecurity	B-Reporter
 and	I-Reporter
@@ -16,13 +16,13 @@ Agency	I-Reporter
 (	I-Reporter
 CISA	I-Reporter
 )	I-Reporter
-","	O
+,	O
 the	O
 Department	B-Reporter
 of	I-Reporter
 the	I-Reporter
 Treasury	I-Reporter
-","	O
+,	O
 and	O
 the	B-Reporter
 Financial	I-Reporter
@@ -49,7 +49,7 @@ recently	O
 as	O
 May	O
 2022	O
-","	O
+,	O
 MedusaLocker	B-Malware
 actors	O
 predominantly	O
@@ -66,7 +66,7 @@ RDP	I-Vulnerability
 to	O
 access	B-TTPs
 victims	I-TTPs
-??	I-TTPs
+’	I-TTPs
 networks	I-TTPs
 .	O
 The	O
@@ -157,7 +157,7 @@ split	O
 between	O
 the	O
 affiliate	O
-","	O
+,	O
 who	O
 receives	O
 55	O
@@ -171,7 +171,7 @@ ransom	O
 and	O
 the	O
 developer	O
-","	O
+,	O
 who	O
 receives	O
 the	O

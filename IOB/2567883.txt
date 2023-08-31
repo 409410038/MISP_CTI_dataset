@@ -19,7 +19,7 @@ impersonates	B-TTPs
 a	I-TTPs
 different	I-TTPs
 entity	I-TTPs
-","	O
+,	O
 and	O
 then	O
 associates	B-TTPs
@@ -51,7 +51,7 @@ on	O
 the	O
 assumed	O
 identity	O
-","	O
+,	O
 and	O
 not	O
 the	O
@@ -77,7 +77,7 @@ tokens	O
 to	O
 verify	O
 identity	O
-","	O
+,	O
 and	O
 then	O
 takes	O

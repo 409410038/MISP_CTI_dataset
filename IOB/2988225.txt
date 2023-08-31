@@ -12,9 +12,9 @@ these	O
 attacks	O
 through	O
 its	O
-??	B-Malware
+”	B-Malware
 TeslaGun	I-Malware
-??	I-Malware
+”	I-Malware
 control	I-Malware
 panel	I-Malware
 .	O
@@ -29,7 +29,7 @@ team	O
 identified	O
 the	O
 group	O
-??	O
+’	O
 s	O
 control	O
 panel	O

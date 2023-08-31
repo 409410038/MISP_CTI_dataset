@@ -1,6 +1,6 @@
 After	O
 2015	O
-","	O
+,	O
 the	O
 actor	O
 moved	O
@@ -13,17 +13,17 @@ containing	O
 publicly	O
 available	O
 exploits	O
-","	O
+,	O
 such	O
 as	O
 .doc	B-Application
-","	O
+,	O
 .pps	B-Application
-","	O
+,	O
 .docx	B-Application
-","	O
+,	O
 .rar	B-Application
-","	O
+,	O
 and	O
 password	O
 protected	O
@@ -38,9 +38,9 @@ lure	O
 documents	O
 in	O
 .pdf	B-Application
-","	O
+,	O
 .docx	B-Application
-","	O
+,	O
 and	O
 .mht	B-Application
 formats	O
@@ -48,7 +48,7 @@ to	O
 captivate	O
 the	O
 target	O
-??	O
+’	O
 s	O
 attention	O
 while	O
@@ -56,4 +56,3 @@ also	O
 executing	O
 malware	B-TTPs
 .	O
-	

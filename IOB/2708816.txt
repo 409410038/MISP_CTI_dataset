@@ -1,10 +1,10 @@
-IN	From	O
-NN	title	O
-:	:	O
-NN	Page	O
-RB	not	O
-VBN	found	O
-NNP	|	O
-NNP	Agencija	O
-NNP	Nikona	O
-NNP	Zemun	O
+From	O
+title	O
+:	O
+Page	O
+not	O
+found	O
+|	O
+Agencija	O
+Nikona	O
+Zemun	O

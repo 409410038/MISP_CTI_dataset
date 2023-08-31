@@ -32,14 +32,14 @@ format	I-TTPs
 secure	I-TTPs
 @	I-TTPs
 cssf.services	I-TTPs
-","	O
+,	O
 presenting	B-TTPs
 themselves	I-TTPs
 as	I-TTPs
 a	I-TTPs
 CSSF	I-TTPs
 agent	I-TTPs
-","	O
+,	O
 and	O
 ask	B-TTPs
 the	I-TTPs

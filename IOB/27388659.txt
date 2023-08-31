@@ -15,7 +15,7 @@ to	O
 sleep	O
 180	O
 seconds	O
-","	O
+,	O
 actually	O
 delayed	O
 analysis	O

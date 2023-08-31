@@ -4,6 +4,7 @@ Wipes	B-TTPs
 and	I-TTPs
 deletes	I-TTPs
 itself	I-TTPs
+.	O
 cmd.exe	B-Application
 ``	O
 %	B-Application

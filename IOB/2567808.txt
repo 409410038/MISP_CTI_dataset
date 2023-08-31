@@ -47,7 +47,7 @@ a	O
 blacklist	O
 input	O
 validation	O
-","	O
+,	O
 as	O
 opposed	O
 to	O
@@ -80,7 +80,7 @@ with	O
 other	O
 injection	B-TTPs
 attacks	O
-","	O
+,	O
 the	O
 attacker	O
 uses	B-TTPs
@@ -104,13 +104,13 @@ attacks	O
 through	O
 SQL	B-TTPs
 queries	I-TTPs
-","	O
+,	O
 shell	B-TTPs
 commands	I-TTPs
-","	O
+,	O
 network	B-TTPs
 scanning	I-TTPs
-","	O
+,	O
 and	O
 so	O
 on	O
@@ -143,9 +143,9 @@ specification	O
 for	O
 command	O
 length	O
-","	O
+,	O
 type	O
-","	O
+,	O
 and	O
 parameters	O
 .	O
@@ -154,7 +154,7 @@ Design	O
 Limit	O
 program	O
 privileges	O
-","	O
+,	O
 so	O
 if	O
 commands	O

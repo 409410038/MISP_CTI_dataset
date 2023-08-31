@@ -7,15 +7,14 @@ free	O
 email	O
 service	O
 providers	O
-","	O
+,	O
 like	O
 Gmail	B-Application
 and	O
 Yahoo	B-Application
-","	O
+,	O
 to	O
 conduct	O
 their	O
 campaigns	O
 .	O
-	

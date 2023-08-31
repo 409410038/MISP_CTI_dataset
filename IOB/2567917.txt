@@ -2,7 +2,7 @@ In	O
 this	O
 attack	O
 pattern	O
-","	O
+,	O
 the	O
 adversary	O
 leverages	O
@@ -179,7 +179,7 @@ to	O
 uncover	O
 any	O
 surprises	O
-","	O
+,	O
 uncover	O
 any	O
 assumptions	O

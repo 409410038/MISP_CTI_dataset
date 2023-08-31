@@ -7,7 +7,7 @@ or	O
 infected	O
 with	O
 Pegasus	B-Malware
-","	O
+,	O
 and	O
 four	O
 others	O

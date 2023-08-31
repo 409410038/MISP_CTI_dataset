@@ -25,10 +25,10 @@ patiently	O
 studying	O
 the	O
 targets	O
-??	O
+’	O
 financial	O
 systems	O
-","	O
+,	O
 injecting	O
 fraudulent	O
 transactions	O
@@ -36,7 +36,7 @@ hidden	O
 among	O
 regular	O
 activity	O
-","	O
+,	O
 and	O
 ultimately	O
 stealing	O

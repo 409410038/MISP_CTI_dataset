@@ -4,6 +4,7 @@ Execution	I-TTPs
 through	I-TTPs
 SQL	I-TTPs
 Injection	I-TTPs
+.	O
 An	O
 attacker	O
 uses	O
@@ -52,7 +53,7 @@ commands	O
 .	O
 Sometime	O
 later	O
-","	O
+,	O
 an	O
 unscrupulous	O
 backend	O
@@ -143,6 +144,7 @@ a	O
 command	O
 line	O
 argument	
+.	O
 Disable	O
 MSSQL	
 xp_cmdshell	

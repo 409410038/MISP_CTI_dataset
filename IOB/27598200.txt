@@ -9,7 +9,7 @@ disk	B-TTPs
 wipers	I-TTPs
 for	O
 Windows	B-Application
-","	O
+,	O
 Linux	B-Application
 and	O
 Solaris	B-Application

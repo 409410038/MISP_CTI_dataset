@@ -10,7 +10,7 @@ checking	I-Vulnerability
 on	I-Vulnerability
 buffer	I-Vulnerability
 operations	I-Vulnerability
-","	O
+,	O
 typically	O
 triggered	O
 by	O
@@ -23,7 +23,7 @@ adversary	O
 As	O
 a	O
 consequence	O
-","	O
+,	O
 an	O
 adversary	O
 is	O
@@ -39,7 +39,7 @@ buffer	I-TTPs
 regions	I-TTPs
 in	I-TTPs
 memory	I-TTPs
-","	O
+,	O
 causing	B-TTPs
 a	I-TTPs
 program	I-TTPs
@@ -109,7 +109,7 @@ to	O
 use	O
 dangerous	O
 functions	O
-","	O
+,	O
 make	O
 sure	O
 that	O
@@ -124,7 +124,7 @@ mechanisms	O
 such	O
 as	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -140,7 +140,7 @@ provides	O
 automatic	O
 bounds	O
 checking	O
-","	O
+,	O
 it	O
 is	O
 not	O

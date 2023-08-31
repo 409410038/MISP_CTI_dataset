@@ -66,11 +66,11 @@ on	O
 operating	O
 system	O
 shell	O
-","	O
+,	O
 and	O
-","	O
+,	O
 optionally	O
-","	O
+,	O
 the	O
 system	O
 configuration	O
@@ -96,7 +96,7 @@ directly	O
 on	O
 command	O
 shell	O
-","	O
+,	O
 instead	O
 treat	O
 user	O
@@ -123,7 +123,7 @@ specific	O
 types	O
 and	O
 values	O
-","	O
+,	O
 stripping	O
 or	O
 filtering	O
@@ -142,7 +142,7 @@ Design	O
 Limit	O
 program	O
 privileges	O
-","	O
+,	O
 so	O
 if	O
 metacharacters	O
@@ -180,7 +180,7 @@ application	O
 to	O
 execute	O
 in	O
-","	O
+,	O
 making	O
 it	O
 more	O
@@ -214,7 +214,7 @@ to	O
 a	O
 separate	O
 host	O
-","	O
+,	O
 in	O
 the	O
 event	O

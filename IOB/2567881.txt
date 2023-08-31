@@ -6,7 +6,7 @@ access	I-TTPs
 to	O
 an	O
 application	O
-","	O
+,	O
 service	O
 or	O
 device	O
@@ -21,7 +21,7 @@ of	O
 an	O
 authentication	O
 mechanism	O
-","	O
+,	O
 or	O
 by	O
 exploiting	B-TTPs
@@ -72,7 +72,7 @@ target	O
 's	O
 authentication	O
 procedures	O
-","	O
+,	O
 such	O
 as	O
 assumptions	O
@@ -112,7 +112,7 @@ user	O
 through	O
 illegitimate	O
 means	O
-","	O
+,	O
 while	O
 Authentication	B-TTPs
 Bypass	I-TTPs
@@ -145,7 +145,7 @@ by	O
 successfully	O
 authenticating	O
 users	O
-","	O
+,	O
 as	O
 relied	O
 upon	O
@@ -156,7 +156,7 @@ Exploitation	B-TTPs
 of	I-TTPs
 Session	I-TTPs
 Variables	I-TTPs
-","	I-TTPs
+,	I-TTPs
 Resource	I-TTPs
 IDs	I-TTPs
 and	I-TTPs
@@ -180,13 +180,13 @@ authentication	O
 such	O
 as	O
 passwords	O
-","	O
+,	O
 digest	O
 authentication	O
-","	O
+,	O
 security	O
 certificates	O
-","	O
+,	O
 etc	O
 .	O
 which	O

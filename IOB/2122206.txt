@@ -42,7 +42,7 @@ into	I-TTPs
 several	I-TTPs
 small	I-TTPs
 files	I-TTPs
-","	O
+,	O
 most	O
 of	O
 which	O
@@ -54,7 +54,7 @@ rates	O
 by	O
 AV	B-Application
 engines	I-Application
-","	O
+,	O
 with	O
 the	O
 final	O

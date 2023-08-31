@@ -76,7 +76,7 @@ the	O
 MIME	O
 conversion	O
 routine	O
-","	O
+,	O
 the	O
 patch	O
 itself	O
@@ -91,7 +91,7 @@ fix	O
 the	O
 original	O
 problem	O
-","	O
+,	O
 or	O
 the	O
 patch	O
@@ -118,7 +118,7 @@ From	O
 Exploiting	O
 Software	O
 ''	O
-","	O
+,	O
 please	O
 see	O
 reference	O

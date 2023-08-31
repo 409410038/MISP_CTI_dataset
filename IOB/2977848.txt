@@ -1,6 +1,4 @@
-api.txt	B-Indicator
-decoded	O
-to	O
-binary	O
-file	O
-15/68	O
+Request	B-Indicator
+for	I-Indicator
+Quotation	I-Indicator
+6000294944.ace	I-Indicator

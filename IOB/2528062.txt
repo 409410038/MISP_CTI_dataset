@@ -3,7 +3,7 @@ title	O
 :	O
 Shop	O
 Now	O
-","	O
+,	O
 Save	O
 Now	O
 -	O
@@ -12,7 +12,7 @@ Selection	O
 &	O
 Great	O
 Prices	O
-??	O
+—	O
 Millions	O
 of	O
 Items	O

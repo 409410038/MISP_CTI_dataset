@@ -1,216 +1,217 @@
-VBG	Accessing/Intercepting/Modifying	B-TTPs
-NNP	HTTP	I-TTPs
-NNPS	Cookies	I-TTPs
-DT	This	O
-NN	attack	O
-VBZ	relies	O
-IN	on	O
-DT	the	O
-NN	use	O
-IN	of	O
-NNP	HTTP	B-Protocol
-NNPS	Cookies	I-Protocol
-TO	to	O
-VB	store	O
-NNS	credentials	O
-","	","	O
-NN	state	O
-NN	information	O
-CC	and	O
-JJ	other	O
-JJ	critical	O
-NNS	data	O
-IN	on	O
-NN	client	O
-NNS	systems	O
-.	.	O
-EX	There	O
-VBP	are	O
-JJ	several	O
-JJ	different	O
-NNS	forms	O
-IN	of	O
-DT	this	O
-NN	attack	O
-.	.	O
-DT	The	O
-JJ	first	O
-NN	form	O
-IN	of	O
-DT	this	O
-NN	attack	O
-VBZ	involves	O
-VBG	accessing	B-TTPs
-NNP	HTTP	I-TTPs
-NNPS	Cookies	I-TTPs
-TO	to	I-TTPs
-VB	mine	I-TTPs
-IN	for	I-TTPs
-RB	potentially	I-TTPs
-JJ	sensitive	I-TTPs
-NNS	data	I-TTPs
-VBN	contained	I-TTPs
-RB	therein	I-TTPs
-.	.	O
-DT	The	O
-JJ	second	O
-NN	form	O
-VBZ	involves	O
-VBG	intercepting	B-TTPs
-DT	this	I-TTPs
-NN	data	I-TTPs
-IN	as	I-TTPs
-PRP	it	I-TTPs
-VBZ	is	I-TTPs
-VBN	transmitted	I-TTPs
-IN	from	I-TTPs
-NN	client	I-TTPs
-TO	to	I-TTPs
-VB	server	I-TTPs
-.	.	O
-DT	This	O
-JJ	intercepted	O
-NN	information	O
-VBZ	is	O
-RB	then	O
-VBN	used	O
-IN	by	O
-DT	the	O
-NN	adversary	O
-TO	to	O
-VB	impersonate	B-TTPs
-DT	the	I-TTPs
-JJ	remote	I-TTPs
-NN	user/session	I-TTPs
-.	.	O
-DT	The	O
-JJ	third	O
-NN	form	O
-VBZ	is	O
-WRB	when	O
-DT	the	O
-NN	cookie	B-TTPs
-POS	's	I-TTPs
-NN	content	I-TTPs
-VBZ	is	I-TTPs
-VBN	modified	I-TTPs
-IN	by	I-TTPs
-DT	the	I-TTPs
-NN	adversary	I-TTPs
-IN	before	I-TTPs
-PRP	it	I-TTPs
-VBZ	is	I-TTPs
-VBN	sent	I-TTPs
-RB	back	I-TTPs
-TO	to	I-TTPs
-DT	the	I-TTPs
-NN	server	I-TTPs
-.	.	O
-RB	Here	O
-DT	the	O
-JJ	adversary	O
-NN	seeks	O
-TO	to	O
-VB	convince	O
-DT	the	O
-NN	target	O
-NN	server	O
-TO	to	O
-VB	operate	O
-IN	on	O
-DT	this	O
-JJ	falsified	O
-NN	information	O
-.	.	O
-NN	Target	O
-NN	server	O
-NN	software	O
-MD	must	O
-VB	be	O
-DT	a	O
-NNP	HTTP	B-Protocol
-NN	daemon	O
-WDT	that	O
-VBZ	relies	O
-IN	on	O
-NNS	cookies	O
-.	.	O
-DT	The	O
-NNS	cookies	O
-MD	must	O
-VB	contain	O
-JJ	sensitive	O
-NN	information	O
-.	.	O
-DT	The	O
-JJ	adversary	O
-MD	must	O
-VB	be	O
-JJ	able	O
-TO	to	O
-VB	make	O
-NNP	HTTP	B-Protocol
-NNS	requests	I-Protocol
-TO	to	O
-DT	the	O
-NN	server	O
-","	","	O
-CC	and	O
-DT	the	O
-NN	cookie	O
-MD	must	O
-VB	be	O
-VBN	contained	O
-IN	in	O
-DT	the	O
-NN	reply	O
-.	.	O
-NN	Design	O
-:	:	O
-NNP	Use	O
-NN	input	O
-NN	validation	O
-IN	for	O
-NNS	cookies	O
-NNP	Design	O
-:	:	O
-NNP	Generate	O
-CC	and	O
-NNP	validate	O
-NNP	MAC	O
-IN	for	O
-NNS	cookies	O
-NNP	Implementation	O
-:	:	O
-NNP	Use	O
-NNP	SSL/TLS	B-Protocol
-TO	to	O
-VB	protect	O
-NN	cookie	O
-IN	in	O
-NN	transit	O
-NN	Implementation	O
-:	:	O
-NN	Ensure	O
-DT	the	O
-NN	web	O
-NN	server	O
-NNS	implements	O
-DT	all	O
-JJ	relevant	O
-NN	security	O
-NNS	patches	O
-","	","	O
-JJ	many	O
-JJ	exploitable	O
-NN	buffer	B-Vulnerability
-NNS	overflows	I-Vulnerability
-VBP	are	O
-VBN	fixed	O
-IN	in	O
-NNS	patches	O
-VBN	issued	O
-IN	for	O
-DT	the	O
-NN	software	O
-.	.	O
+Accessing/Intercepting/Modifying	B-TTPs
+HTTP	I-TTPs
+Cookies	I-TTPs
+.	O
+This	O
+attack	O
+relies	O
+on	O
+the	O
+use	O
+of	O
+HTTP	B-Protocol
+Cookies	I-Protocol
+to	O
+store	O
+credentials	O
+,	O
+state	O
+information	O
+and	O
+other	O
+critical	O
+data	O
+on	O
+client	O
+systems	O
+.	O
+There	O
+are	O
+several	O
+different	O
+forms	O
+of	O
+this	O
+attack	O
+.	O
+The	O
+first	O
+form	O
+of	O
+this	O
+attack	O
+involves	O
+accessing	B-TTPs
+HTTP	I-TTPs
+Cookies	I-TTPs
+to	I-TTPs
+mine	I-TTPs
+for	I-TTPs
+potentially	I-TTPs
+sensitive	I-TTPs
+data	I-TTPs
+contained	I-TTPs
+therein	I-TTPs
+.	O
+The	O
+second	O
+form	O
+involves	O
+intercepting	B-TTPs
+this	I-TTPs
+data	I-TTPs
+as	I-TTPs
+it	I-TTPs
+is	I-TTPs
+transmitted	I-TTPs
+from	I-TTPs
+client	I-TTPs
+to	I-TTPs
+server	I-TTPs
+.	O
+This	O
+intercepted	O
+information	O
+is	O
+then	O
+used	O
+by	O
+the	O
+adversary	O
+to	O
+impersonate	B-TTPs
+the	I-TTPs
+remote	I-TTPs
+user/session	I-TTPs
+.	O
+The	O
+third	O
+form	O
+is	O
+when	O
+the	O
+cookie	B-TTPs
+'s	I-TTPs
+content	I-TTPs
+is	I-TTPs
+modified	I-TTPs
+by	I-TTPs
+the	I-TTPs
+adversary	I-TTPs
+before	I-TTPs
+it	I-TTPs
+is	I-TTPs
+sent	I-TTPs
+back	I-TTPs
+to	I-TTPs
+the	I-TTPs
+server	I-TTPs
+.	O
+Here	O
+the	O
+adversary	O
+seeks	O
+to	O
+convince	O
+the	O
+target	O
+server	O
+to	O
+operate	O
+on	O
+this	O
+falsified	O
+information	O
+.	O
+Target	O
+server	O
+software	O
+must	O
+be	O
+a	O
+HTTP	B-Protocol
+daemon	O
+that	O
+relies	O
+on	O
+cookies	O
+.	O
+The	O
+cookies	O
+must	O
+contain	O
+sensitive	O
+information	O
+.	O
+The	O
+adversary	O
+must	O
+be	O
+able	O
+to	O
+make	O
+HTTP	B-Protocol
+requests	I-Protocol
+to	O
+the	O
+server	O
+,	O
+and	O
+the	O
+cookie	O
+must	O
+be	O
+contained	O
+in	O
+the	O
+reply	O
+.	O
+Design	O
+:	O
+Use	O
+input	O
+validation	O
+for	O
+cookies	O
+Design	O
+:	O
+Generate	O
+and	O
+validate	O
+MAC	O
+for	O
+cookies	O
+Implementation	O
+:	O
+Use	O
+SSL/TLS	B-Protocol
+to	O
+protect	O
+cookie	O
+in	O
+transit	O
+Implementation	O
+:	O
+Ensure	O
+the	O
+web	O
+server	O
+implements	O
+all	O
+relevant	O
+security	O
+patches	O
+,	O
+many	O
+exploitable	O
+buffer	B-Vulnerability
+overflows	I-Vulnerability
+are	O
+fixed	O
+in	O
+patches	O
+issued	O
+for	O
+the	O
+software	O
+.	O

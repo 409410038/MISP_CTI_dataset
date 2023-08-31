@@ -10,7 +10,7 @@ by	O
 the	O
 threat	O
 actors	O
-","	O
+,	O
 the	O
 ransomware	B-Malware
 deployment	O
@@ -37,7 +37,7 @@ a	I-TTPs
 different	I-TTPs
 file	I-TTPs
 extension	I-TTPs
-","	O
+,	O
 such	O
 as	O
 wpzlbji	B-Application

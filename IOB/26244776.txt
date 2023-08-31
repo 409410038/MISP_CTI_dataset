@@ -24,4 +24,3 @@ APPDATA	I-Indicator
 %	I-Indicator
 \xubntzl.txt	I-Indicator
 ''	O
-	

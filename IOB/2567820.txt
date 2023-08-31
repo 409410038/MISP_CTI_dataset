@@ -5,6 +5,7 @@ to	I-TTPs
 File	I-TTPs
 System	I-TTPs
 Calls	I-TTPs
+.	O
 An	O
 attacker	O
 manipulates	B-TTPs
@@ -33,11 +34,11 @@ to	O
 gain	B-TTPs
 access	I-TTPs
 to	I-TTPs
-","	I-TTPs
+,	I-TTPs
 and	I-TTPs
 perhaps	I-TTPs
 modify	I-TTPs
-","	I-TTPs
+,	I-TTPs
 areas	I-TTPs
 of	I-TTPs
 the	I-TTPs
@@ -68,6 +69,7 @@ directly	O
 to	O
 the	O
 filesystem	O
+.	O
 Design	O
 :	O
 Enforce	O
@@ -83,7 +85,7 @@ all	O
 input	O
 is	O
 validated	O
-","	O
+,	O
 and	O
 does	O
 not	O
@@ -127,7 +129,7 @@ For	O
 interactive	O
 user	O
 applications	O
-","	O
+,	O
 consider	O
 if	O
 direct	O
@@ -136,7 +138,7 @@ system	O
 interface	O
 is	O
 necessary	O
-","	O
+,	O
 instead	O
 consider	O
 having	O
@@ -158,9 +160,9 @@ scanning	O
 to	O
 identify	O
 directories	O
-","	O
+,	O
 programs	O
-","	O
+,	O
 and	O
 interfaces	O
 that	O

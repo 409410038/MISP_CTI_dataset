@@ -27,4 +27,3 @@ PROGRAMFILES	I-Indicator
 \VMware\VMware	I-Indicator
 View\Server\bin\ws_TomcatService.exe	I-Indicator
 )	O
-	

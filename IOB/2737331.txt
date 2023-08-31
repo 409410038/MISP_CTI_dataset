@@ -13,7 +13,9 @@ discovered	O
 in	O
 August	O
 2022	O
+.	O
 network	O
+.	O
 Github	B-Application
 Repo	O
 Compromise	O

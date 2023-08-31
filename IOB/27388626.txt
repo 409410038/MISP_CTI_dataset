@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1129	B-TTPs
-","	O
+,	O
 short	O
 :	O
 Execution	B-TTPs

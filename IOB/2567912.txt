@@ -36,7 +36,7 @@ server	O
 .	O
 For	O
 example	O
-","	O
+,	O
 a	O
 user	O
 might	O
@@ -82,7 +82,7 @@ information	I-TTPs
 .	O
 For	O
 example	O
-","	O
+,	O
 entering	O
 a	O
 *	O
@@ -137,7 +137,7 @@ string	O
 as	O
 user	O
 input	O
-","	O
+,	O
 fail	B-Vulnerability
 to	I-Vulnerability
 sanitize	I-Vulnerability
@@ -154,7 +154,7 @@ in	I-Vulnerability
 the	I-Vulnerability
 user	I-Vulnerability
 input	I-Vulnerability
-","	O
+,	O
 and	O
 insert	O
 the	O

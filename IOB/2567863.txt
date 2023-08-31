@@ -4,6 +4,7 @@ in	I-TTPs
 Local	I-TTPs
 Command-Line	I-TTPs
 Utilities	I-TTPs
+.	O
 This	O
 attack	O
 targets	O
@@ -125,7 +126,7 @@ mechanisms	O
 such	O
 as	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -141,7 +142,7 @@ provides	O
 automatic	O
 bounds	O
 checking	O
-","	O
+,	O
 it	O
 is	O
 not	O
@@ -178,7 +179,7 @@ be	O
 a	O
 complete	O
 solution	O
-","	O
+,	O
 especially	O
 against	O
 a	O

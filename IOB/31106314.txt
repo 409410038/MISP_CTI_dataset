@@ -3,9 +3,9 @@ of	O
 Delphi	O
 programming	O
 language	O
-","	O
+,	O
 JavaScript	O
-","	O
+,	O
 AutoHotKey	O
 scripting	O
 and	O

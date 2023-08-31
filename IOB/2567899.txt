@@ -27,7 +27,7 @@ authoritative	I-TTPs
 or	I-TTPs
 reputable	I-TTPs
 source	I-TTPs
-","	O
+,	O
 misleading	B-TTPs
 a	I-TTPs
 victim	I-TTPs

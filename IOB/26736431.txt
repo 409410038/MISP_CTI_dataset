@@ -3,7 +3,7 @@ published	O
 by	O
 the	O
 CERT.LV	B-Reporter
-","	O
+,	O
 national	B-Reporter
 cert	I-Reporter
 of	I-Reporter
@@ -11,7 +11,7 @@ the	I-Reporter
 Republic	I-Reporter
 of	I-Reporter
 Latvia	I-Reporter
-","	O
+,	O
 regarding	O
 a	O
 scam	O
@@ -24,4 +24,3 @@ a	O
 malicious	B-TTPs
 url	I-TTPs
 .	O
-	

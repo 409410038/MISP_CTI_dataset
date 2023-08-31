@@ -8,6 +8,6 @@ functionality	O
 -	O
 (	O
 T1053	B-TTPs
-","	O
+,	O
 ioc	O
 )	O

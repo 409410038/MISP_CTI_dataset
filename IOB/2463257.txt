@@ -6,7 +6,7 @@ Investigation	I-Reporter
 (	I-Reporter
 FBI	I-Reporter
 )	I-Reporter
-","	O
+,	O
 the	O
 Cybersecurity	B-Reporter
 and	I-Reporter
@@ -16,7 +16,7 @@ Agency	I-Reporter
 (	I-Reporter
 CISA	I-Reporter
 )	I-Reporter
-","	O
+,	O
 and	O
 the	O
 U.S.	B-Reporter
@@ -75,11 +75,11 @@ industry	O
 as	O
 Lazarus	B-ThreatActor
 Group	I-ThreatActor
-","	O
+,	O
 APT38	B-ThreatActor
-","	O
+,	O
 BlueNoroff	B-ThreatActor
-","	O
+,	O
 and	O
 Stardust	B-ThreatActor
 Chollima	I-ThreatActor

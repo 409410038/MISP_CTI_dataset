@@ -2,9 +2,12 @@ Kernel	B-Application
 Driver	I-Application
 Utility	I-Application
 1.2.0.2202	I-Application
+.	O
 KDU	B-Application
+.	O
 UG	O
 North	O
+.	O
 Copyright	O
 (	O
 C	O

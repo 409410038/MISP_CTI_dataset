@@ -2,11 +2,14 @@ Windows	B-Application
 Update	I-Application
 Agent	I-Application
 4.0.1.25	I-Application
+.	O
 Microsoft	B-Application
 Configuration	I-Application
 Application	I-Application
+.	O
 Microsoft	B-Application
 Corp	I-Application
+.	O
 Copyright	O
 (	O
 C	O

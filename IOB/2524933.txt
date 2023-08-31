@@ -2,4 +2,5 @@ Generic	O
 Phishing	B-TTPs
 Site	I-TTPs
 Detection	O
+.	O
 phishing-kit	B-Application

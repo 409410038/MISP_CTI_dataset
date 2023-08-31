@@ -4,6 +4,7 @@ through	I-TTPs
 SOAP	I-TTPs
 Parameter	I-TTPs
 Tampering	I-TTPs
+.	O
 An	O
 attacker	O
 modifies	B-TTPs
@@ -36,7 +37,7 @@ the	O
 service	O
 provider	O
 side	O
-","	O
+,	O
 the	O
 SOAP	B-Protocol
 message	I-Protocol
@@ -64,7 +65,7 @@ not	O
 use	O
 parameter	O
 binding	O
-","	O
+,	O
 thus	O
 enabling	O
 the	O
@@ -129,6 +130,7 @@ when	O
 building	O
 SQL	O
 queries	O
+.	O
 Properly	O
 validate	O
 and	O
@@ -181,7 +183,7 @@ At	O
 the	O
 database	O
 level	O
-","	O
+,	O
 ensure	O
 that	O
 the	O
@@ -213,7 +215,7 @@ operation	O
 .	O
 When	O
 possible	O
-","	O
+,	O
 run	O
 queries	O
 against	O

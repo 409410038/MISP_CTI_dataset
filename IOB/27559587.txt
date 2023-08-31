@@ -7,7 +7,7 @@ information	O
 stealers	O
 including	O
 Arkei	B-Malware
-","	O
+,	O
 Oski	B-Malware
 and	O
 Vidar	B-Malware

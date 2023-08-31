@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1045	B-TTPs
-","	O
+,	O
 short	O
 :	O
 Software	B-TTPs

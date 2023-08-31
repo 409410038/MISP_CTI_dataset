@@ -4,6 +4,5 @@ a	O
 malspam	B-TTPs
 campaign	O
 spreading	O
-AgenTesla	I-Malware
+AgenTesla	B-Malware
 .	O
-	

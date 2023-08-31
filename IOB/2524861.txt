@@ -3,7 +3,11 @@ ManageEngine	I-Application
 Improper	B-Vulnerability
 Authentication	I-Vulnerability
 Vulnerability	I-Vulnerability
+.	O
 client-to-server	O
+.	O
 code-execution	O
+.	O
 vulnerability	O
+.	O
 THREAT	O

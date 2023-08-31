@@ -2,7 +2,7 @@
 In	O
 March	O
 2021	O
-","	O
+,	O
 we	O
 investigated	O
 a	O

@@ -25,13 +25,13 @@ was	O
 compiled	O
 on	O
 2022-03-23	O
-","	O
+,	O
 according	O
 to	O
 the	O
 PE	B-Application
 timestamp	O
-","	O
+,	O
 suggesting	O
 that	O
 attackers	O

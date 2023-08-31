@@ -3,6 +3,5 @@ date	O
 :	O
 February	O
 23rd	O
-","	O
+,	O
 2022	O
-	

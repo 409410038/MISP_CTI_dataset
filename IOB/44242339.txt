@@ -1,22 +1,22 @@
-NNP	IOCs	O
-VBD	related	O
-TO	to	O
-DT	a	O
-NN	malspam	B-TTPs
-NN	campaign	O
-VBG	distributing	O
-DT	the	O
-NNP	Agent	B-Malware
-NNP	Tesla	I-Malware
-NN	infostealer	I-Malware
-.	.	O
-DT	The	O
-VBN	stolen	O
-NNS	data	O
-VBP	are	O
-VBN	exfiltrated	B-TTPs
-IN	through	I-TTPs
-DT	a	I-TTPs
-NNP	Telegram	I-TTPs
-NN	channel	I-TTPs
-.	.	O
+IOCs	O
+related	O
+to	O
+a	O
+malspam	B-TTPs
+campaign	O
+distributing	O
+the	O
+Agent	B-Malware
+Tesla	I-Malware
+infostealer	I-Malware
+.	O
+The	O
+stolen	O
+data	O
+are	O
+exfiltrated	B-TTPs
+through	I-TTPs
+a	I-TTPs
+Telegram	I-TTPs
+channel	I-TTPs
+.	O

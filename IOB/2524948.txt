@@ -3,4 +3,5 @@ Login	I-Application
 Brute	B-TTPs
 Force	I-TTPs
 Attack	O
+.	O
 brute-force	B-TTPs

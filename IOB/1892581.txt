@@ -17,6 +17,7 @@ TIMESTAMP	O
 >	O
 &	O
 1	O
+.	O
 Example	O
 Impacket	O
 command	O

@@ -1,13 +1,14 @@
 OS	B-TTPs
 Command	I-TTPs
 Injection	I-TTPs
+.	O
 In	O
 this	O
 type	O
 of	O
 an	O
 attack	O
-","	O
+,	O
 an	O
 adversary	O
 injects	B-TTPs
@@ -45,7 +46,7 @@ application	O
 to	O
 elevate	B-TTPs
 privileges	I-TTPs
-","	O
+,	O
 execute	B-TTPs
 arbitrary	I-TTPs
 commands	I-TTPs
@@ -139,7 +140,7 @@ privileges	O
 required	O
 .	O
 Also	O
-","	O
+,	O
 processes	O
 must	O
 shed	O

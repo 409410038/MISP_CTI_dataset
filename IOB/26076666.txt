@@ -1,6 +1,6 @@
 ping	B-Application
 127.0.0.7	B-Indicator
-?“n	O
+â€“n	O
 7	O
 >	O
 Nul	O

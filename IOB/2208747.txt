@@ -8,12 +8,12 @@ Control	I-Application
 prior	I-Application
 to	I-Application
 8.5.14	I-Application
-","	I-Application
+,	I-Application
 8.6.x	I-Application
 prior	I-Application
 to	I-Application
 8.6.6	I-Application
-","	I-Application
+,	I-Application
 8.7.x	I-Application
 prior	I-Application
 to	I-Application
@@ -33,7 +33,7 @@ vulnerability	I-Vulnerability
 .	O
 An	O
 authenticated	O
-","	O
+,	O
 high	O
 privileged	O
 malicious	O

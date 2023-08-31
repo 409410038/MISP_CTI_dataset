@@ -11,7 +11,7 @@ also	O
 deletes	B-TTPs
 shadow	I-TTPs
 copies	I-TTPs
-","	I-TTPs
+,	I-TTPs
 preventing	I-TTPs
 data	I-TTPs
 recovery	I-TTPs

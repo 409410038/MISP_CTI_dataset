@@ -10,6 +10,6 @@ itself	I-TTPs
 -	O
 (	O
 NtProtectVirtualMemory	B-Application
-","	O
+,	O
 NtAllocateVirtualMemory	B-Application
 )	O

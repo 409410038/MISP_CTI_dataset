@@ -23,4 +23,5 @@ in	O
 memory	O
 .	O
 memory	O
+.	O
 SparrowDoor_apipatch	O

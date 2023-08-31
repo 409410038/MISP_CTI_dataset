@@ -1,6 +1,7 @@
 Blind	B-TTPs
 SQL	I-TTPs
 Injection	I-TTPs
+.	O
 Blind	B-TTPs
 SQL	I-TTPs
 Injection	I-TTPs
@@ -22,7 +23,7 @@ are	O
 considered	O
 best	O
 practice	O
-","	O
+,	O
 the	O
 suppression	O
 alone	O
@@ -59,7 +60,7 @@ that	O
 facilitate	O
 SQL	B-TTPs
 Injection	I-TTPs
-","	O
+,	O
 the	O
 adversary	O
 constructs	B-TTPs
@@ -101,7 +102,7 @@ not	O
 .	O
 Applied	O
 iteratively	O
-","	O
+,	O
 the	O
 adversary	O
 determines	O
@@ -124,7 +125,7 @@ the	O
 application	O
 to	O
 store	O
-","	O
+,	O
 retrieve	O
 or	O
 modify	O
@@ -165,14 +166,14 @@ error	O
 messages	O
 and	O
 exceptions	O
-","	O
+,	O
 the	O
 application	O
 must	O
 handle	O
 them	O
 gracefully	O
-","	O
+,	O
 returning	O
 either	O
 a	O
@@ -187,7 +188,7 @@ to	O
 a	O
 default	O
 page	O
-","	O
+,	O
 without	O
 revealing	O
 any	O
@@ -225,7 +226,7 @@ Keywords	O
 such	O
 as	O
 UNION	O
-","	O
+,	O
 SELECT	O
 or	O
 INSERT	O

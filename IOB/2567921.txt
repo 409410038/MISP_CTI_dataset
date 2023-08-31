@@ -1,6 +1,7 @@
 Format	B-TTPs
 String	I-TTPs
 Injection	I-TTPs
+.	O
 An	O
 adversary	O
 includes	O
@@ -38,7 +39,7 @@ character	O
 .	O
 For	O
 example	O
-","	O
+,	O
 in	O
 certain	O
 functions	O
@@ -50,7 +51,7 @@ languages	O
 such	O
 as	O
 printf	O
-","	O
+,	O
 the	O
 formatting	O
 character	O
@@ -101,7 +102,7 @@ memory	I-TTPs
 locations	I-TTPs
 or	I-TTPs
 files	I-TTPs
-","	O
+,	O
 or	O
 simply	O
 to	O
@@ -156,7 +157,7 @@ strings	O
 as	O
 user	O
 input	O
-","	O
+,	O
 fail	B-Vulnerability
 to	I-Vulnerability
 sanitize	I-Vulnerability
@@ -167,7 +168,7 @@ in	I-Vulnerability
 the	I-Vulnerability
 user	I-Vulnerability
 input	I-Vulnerability
-","	O
+,	O
 and	O
 process	O
 this	O

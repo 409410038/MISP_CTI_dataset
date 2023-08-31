@@ -21,7 +21,7 @@ To	O
 fix	O
 the	O
 vulnerability	O
-","	O
+,	O
 QNAP	B-Reporter
 recommend	O
 updating	O

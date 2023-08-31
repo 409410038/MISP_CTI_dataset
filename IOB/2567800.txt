@@ -17,7 +17,7 @@ could	O
 allow	O
 an	O
 authenticated	O
-","	O
+,	O
 remote	O
 attacker	O
 to	O
@@ -47,8 +47,8 @@ vulnerability	O
 is	O
 due	O
 to	O
-lack	O
-of	O
+lack	B-Vulnerability
+of	I-Vulnerability
 input	I-Vulnerability
 validation	I-Vulnerability
 of	I-Vulnerability

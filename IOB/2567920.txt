@@ -15,7 +15,7 @@ characters	I-TTPs
 (	O
 that	O
 is	O
-","	O
+,	O
 character	B-TTPs
 encoding	I-TTPs
 a	I-TTPs
@@ -50,7 +50,7 @@ illegal	I-TTPs
 characters	I-TTPs
 or	I-TTPs
 strings	I-TTPs
-","	O
+,	O
 such	O
 as	O
 those	O
@@ -73,7 +73,7 @@ catch	O
 illegal	O
 encoded	O
 strings	O
-","	O
+,	O
 but	O
 may	O
 not	O
@@ -84,13 +84,13 @@ strings	O
 .	O
 For	O
 example	O
-","	O
+,	O
 a	O
 dot	O
 (	O
 .	O
 )	O
-","	O
+,	O
 often	O
 used	O
 in	O
@@ -103,7 +103,7 @@ often	O
 blocked	O
 by	O
 filters	O
-","	O
+,	O
 could	O
 be	O
 URL	O
@@ -113,7 +113,7 @@ as	O
 2E	O
 .	O
 However	O
-","	O
+,	O
 many	O
 filters	O
 recognize	O
@@ -130,7 +130,7 @@ In	O
 a	O
 double	B-TTPs
 encoding	I-TTPs
-","	O
+,	O
 the	O
 %	O
 in	O
@@ -145,7 +145,7 @@ again	O
 as	O
 %	O
 25	O
-","	O
+,	O
 resulting	O
 in	O
 %	O
@@ -156,7 +156,7 @@ filters	O
 might	O
 not	O
 catch	O
-","	O
+,	O
 but	O
 which	O
 could	O

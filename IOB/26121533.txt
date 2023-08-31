@@ -25,7 +25,7 @@ long	O
 lists	O
 of	O
 recipients	O
-","	O
+,	O
 original	O
 email	O
 recipient	O
@@ -35,7 +35,7 @@ many	O
 seemingly	O
 fake	O
 accounts	O
-","	O
+,	O
 or	O
 simply	O
 resending	O
@@ -51,11 +51,11 @@ lure	O
 documents	O
 .	O
 Notably	O
-","	O
+,	O
 in	O
 specific	O
 attacks	O
-","	O
+,	O
 the	O
 actor	O
 would	O
@@ -76,4 +76,3 @@ a	O
 single	O
 day	O
 .	O
-	

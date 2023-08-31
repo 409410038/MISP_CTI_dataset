@@ -2,6 +2,7 @@ Overflow	B-TTPs
 Variables	I-TTPs
 and	I-TTPs
 Tags	I-TTPs
+.	O
 This	O
 type	O
 of	O
@@ -37,7 +38,7 @@ that	I-TTPs
 includes	I-TTPs
 oversized	I-TTPs
 strings	I-TTPs
-","	O
+,	O
 thus	O
 causing	B-TTPs
 an	I-TTPs
@@ -99,7 +100,7 @@ mechanisms	O
 such	O
 as	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -115,7 +116,7 @@ provides	O
 automatic	O
 bounds	O
 checking	O
-","	O
+,	O
 it	O
 is	O
 not	O

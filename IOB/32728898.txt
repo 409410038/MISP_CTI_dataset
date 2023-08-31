@@ -21,7 +21,7 @@ It	O
 involves	O
 malicious	B-TTPs
 URLs	I-TTPs
-","	O
+,	O
 executable	O
 .exe	B-Application
 files	O

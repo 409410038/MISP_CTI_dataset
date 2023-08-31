@@ -21,7 +21,7 @@ June	O
 Shortly	O
 following	O
 this	O
-","	O
+,	O
 Lacework	B-Reporter
 Labs	I-Reporter
 began	O
@@ -42,7 +42,7 @@ While	O
 this	O
 was	O
 expected	O
-","	O
+,	O
 there	O
 appears	O
 to	O

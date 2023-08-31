@@ -1,7 +1,7 @@
 In	O
 March	O
 2022	O
-","	O
+,	O
 we	O
 observed	O
 a	O

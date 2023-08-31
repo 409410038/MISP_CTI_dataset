@@ -57,7 +57,7 @@ identity	O
 tokens	O
 in	O
 transit	O
-","	O
+,	O
 and	O
 use	O
 industry	O
@@ -107,7 +107,7 @@ does	O
 not	O
 explicitly	O
 logout	O
-","	O
+,	O
 terminate	O
 their	O
 session	O

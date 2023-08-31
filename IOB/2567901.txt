@@ -3,6 +3,7 @@ Using	I-TTPs
 MIME	I-TTPs
 Type	I-TTPs
 Mismatch	I-TTPs
+.	O
 An	O
 adversary	O
 creates	B-TTPs
@@ -90,7 +91,7 @@ filters	O
 before	O
 doing	O
 this	O
-","	O
+,	O
 the	O
 adversary	O
 's	O
@@ -101,7 +102,7 @@ on	O
 the	O
 target	O
 unsanitized	O
-","	O
+,	O
 possibly	O
 revealing	B-TTPs
 the	I-TTPs

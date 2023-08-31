@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1023	B-TTPs
-","	O
+,	O
 short	O
 :	O
 Shortcut	B-TTPs

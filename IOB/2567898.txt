@@ -1,6 +1,7 @@
 Web	B-TTPs
 Logs	I-TTPs
 Tampering	I-TTPs
+.	O
 Web	B-TTPs
 Logs	I-TTPs
 Tampering	I-TTPs
@@ -9,7 +10,7 @@ involve	O
 an	O
 attacker	O
 injecting	B-TTPs
-","	I-TTPs
+,	I-TTPs
 deleting	I-TTPs
 or	I-TTPs
 otherwise	I-TTPs
@@ -31,7 +32,7 @@ malicious	I-TTPs
 behavior	I-TTPs
 .	O
 Additionally	O
-","	O
+,	O
 writing	B-TTPs
 malicious	I-TTPs
 data	I-TTPs
@@ -41,11 +42,11 @@ files	I-TTPs
 may	O
 target	O
 jobs	O
-","	O
+,	O
 filters	O
-","	O
+,	O
 reports	O
-","	O
+,	O
 and	O
 other	O
 agents	O
@@ -75,7 +76,7 @@ that	O
 in	O
 this	O
 case	O
-","	O
+,	O
 the	O
 attack	O
 is	O

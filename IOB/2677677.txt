@@ -1,5 +1,5 @@
-NNP	PHPCMS	B-Application
-NNP	Arbitrary	B-Vulnerability
-NNP	Code	I-Vulnerability
-NNP	Execution	I-Vulnerability
-NNP	Vulnerability	I-Vulnerability
+PHPCMS	B-Application
+Arbitrary	B-Vulnerability
+Code	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

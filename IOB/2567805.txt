@@ -14,4 +14,5 @@ Command	I-Vulnerability
 Injection	I-Vulnerability
 '	O
 )	O
+.	O
 Stable	O

@@ -8,7 +8,7 @@ GSRN	I-Application
 )	I-Application
 is	O
 run	O
-","	O
+,	O
 operated	O
 and	O
 maintained	O
@@ -38,5 +38,7 @@ ref	O
 https	O
 :	O
 //www.gsocket.io/gsrn/	O
+.	O
 Annotation	O
+.	O
 text	O

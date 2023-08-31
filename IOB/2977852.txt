@@ -2,4 +2,5 @@ Request	B-Indicator
 for	I-Indicator
 Quotation	I-Indicator
 6000294944.exe	I-Indicator
+.	O
 13/71	O

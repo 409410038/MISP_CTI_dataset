@@ -15,8 +15,10 @@ WINDIR	O
 \System32\Tasks\Local	O
 Session	O
 Update	O
+.	O
 Local	O
 Session	O
 Update	O
+.	O
 Repeat	O
 hourly	O

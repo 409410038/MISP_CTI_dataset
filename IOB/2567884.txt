@@ -4,9 +4,9 @@ gains	B-TTPs
 access	I-TTPs
 to	I-TTPs
 application	I-TTPs
-","	I-TTPs
+,	I-TTPs
 service	I-TTPs
-","	I-TTPs
+,	I-TTPs
 or	I-TTPs
 device	I-TTPs
 with	I-TTPs
@@ -90,7 +90,7 @@ occur	I-TTPs
 .	O
 For	O
 example	O
-","	O
+,	O
 a	O
 web	O
 site	O
@@ -122,7 +122,7 @@ the	O
 link	O
 .	O
 However	O
-","	O
+,	O
 an	O
 attacker	O
 might	O
@@ -148,7 +148,7 @@ through	I-TTPs
 the	I-TTPs
 authentication	I-TTPs
 link	I-TTPs
-","	O
+,	O
 thereby	O
 avoiding	B-TTPs
 the	I-TTPs
@@ -172,7 +172,7 @@ pattern	O
 avoid	B-TTPs
 authentication	I-TTPs
 entirely	I-TTPs
-","	O
+,	O
 rather	O
 than	O
 faking	B-TTPs
@@ -201,12 +201,12 @@ authentication	O
 such	O
 as	O
 passwords	O
-","	O
+,	O
 digest	O
 authentication	O
-","	O
+,	O
 security	O
 certificates	O
-","	O
+,	O
 etc	O
 .	O

@@ -3,12 +3,12 @@ WNR2000v3	I-Application
 devices	I-Application
 before	I-Application
 1.1.2.14	I-Application
-","	O
+,	O
 WNR2000v4	B-Application
 devices	I-Application
 before	I-Application
 1.0.0.66	I-Application
-","	O
+,	O
 and	O
 WNR2000v5	B-Application
 devices	I-Application

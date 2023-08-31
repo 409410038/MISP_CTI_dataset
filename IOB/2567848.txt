@@ -1,6 +1,7 @@
 Manipulating	B-TTPs
 User-Controlled	I-TTPs
 Variables	I-TTPs
+.	O
 This	O
 attack	O
 targets	B-TTPs
@@ -9,10 +10,10 @@ controlled	I-TTPs
 variables	I-TTPs
 (	I-TTPs
 DEBUG=1	I-TTPs
-","	I-TTPs
+,	I-TTPs
 PHP	I-TTPs
 Globals	I-TTPs
-","	O
+,	O
 and	O
 So	O
 Forth	O
@@ -26,7 +27,7 @@ environment	I-TTPs
 variables	I-TTPs
 leveraging	I-TTPs
 user-supplied	I-TTPs
-","	I-TTPs
+,	I-TTPs
 untrusted	I-TTPs
 query	I-TTPs
 variables	I-TTPs
@@ -44,7 +45,7 @@ sanitization	I-Vulnerability
 In	O
 extreme	O
 cases	O
-","	O
+,	O
 the	O
 attacker	O
 can	O
@@ -60,12 +61,12 @@ application	I-TTPs
 .	O
 For	O
 instance	O
-","	O
+,	O
 in	O
 languages	O
 like	O
 PHP	O
-","	O
+,	O
 a	O
 number	O
 of	O
@@ -136,7 +137,7 @@ register_globals	O
 option	O
 is	O
 enabled	O
-","	O
+,	O
 PHP	O
 will	O
 create	O
@@ -145,9 +146,9 @@ variables	O
 for	O
 each	O
 GET	B-Protocol
-","	O
+,	O
 POST	B-Protocol
-","	O
+,	O
 and	O
 cookie	B-Protocol
 variable	I-Protocol

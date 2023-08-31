@@ -12,7 +12,7 @@ Version	O
 3.6.1	O
 Pro	O
 ''	O
-","	O
+,	O
 ``	O
 Host	O
 :	O
@@ -24,7 +24,7 @@ Password	O
 ``	O
 bestsuccess.ddns.net:2442:0	O
 ''	O
-","	O
+,	O
 ``	O
 Assigned	O
 name	O
@@ -33,7 +33,7 @@ name	O
 ``	O
 RemoteHost	O
 ''	O
-","	O
+,	O
 ``	O
 Connect	O
 interval	O
@@ -42,7 +42,7 @@ interval	O
 ``	O
 1	O
 ''	O
-","	O
+,	O
 ``	O
 Install	O
 flag	O
@@ -51,7 +51,7 @@ flag	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Setup	O
 HKCU\\Run	O
@@ -60,7 +60,7 @@ HKCU\\Run	O
 ``	O
 Enable	O
 ''	O
-","	O
+,	O
 ``	O
 Setup	O
 HKLM\\Run	O
@@ -69,7 +69,7 @@ HKLM\\Run	O
 ``	O
 Enable	O
 ''	O
-","	O
+,	O
 ``	O
 Install	O
 path	O
@@ -79,7 +79,7 @@ path	O
 Application	O
 path	O
 ''	O
-","	O
+,	O
 ``	O
 Copy	O
 file	O
@@ -88,7 +88,7 @@ file	O
 ``	O
 remcos.exe	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Startup	O
 value	O
@@ -97,7 +97,7 @@ value	O
 ``	O
 Remcos	O
 ''	O
-","	O
+,	O
 ``	O
 Hide	
 file	O
@@ -106,7 +106,7 @@ file	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Mutex	O
 ''	O
@@ -114,7 +114,7 @@ Mutex	O
 ``	O
 Remcos-HPUD4T	O
 ''	O
-","	O
+,	O
 ``	O
 Keylog	O
 flag	O
@@ -123,7 +123,7 @@ flag	O
 ``	O
 0	O
 ''	O
-","	O
+,	O
 ``	O
 Keylog	O
 path	O
@@ -133,7 +133,7 @@ path	O
 Application	O
 path	O
 ''	O
-","	O
+,	O
 ``	O
 Keylog	O
 file	O
@@ -142,7 +142,7 @@ file	O
 ``	O
 logs.dat	O
 ''	O
-","	O
+,	O
 ``	O
 Keylog	O
 crypt	O
@@ -151,7 +151,7 @@ crypt	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Hide	O
 keylog	O
@@ -161,7 +161,7 @@ file	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Screenshot	O
 flag	O
@@ -170,7 +170,7 @@ flag	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Screenshot	O
 time	O
@@ -179,7 +179,7 @@ time	O
 ``	O
 10	O
 ''	O
-","	O
+,	O
 ``	O
 Take	O
 Screenshot	O
@@ -189,7 +189,7 @@ option	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Take	O
 screenshot	O
@@ -198,7 +198,7 @@ title	O
 :	O
 ``	O
 ''	O
-","	O
+,	O
 ``	O
 Take	O
 screenshot	O
@@ -208,7 +208,7 @@ time	O
 ``	O
 5	O
 ''	O
-","	O
+,	O
 ``	O
 Screenshot	O
 path	O
@@ -217,7 +217,7 @@ path	O
 ``	O
 AppData	O
 ''	O
-","	O
+,	O
 ``	O
 Screenshot	O
 file	O
@@ -226,7 +226,7 @@ file	O
 ``	O
 Screenshots	O
 ''	O
-","	O
+,	O
 ``	O
 Screenshot	O
 crypt	O
@@ -235,7 +235,7 @@ crypt	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Mouse	O
 option	O
@@ -244,7 +244,7 @@ option	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Delete	O
 file	O
@@ -253,7 +253,7 @@ file	O
 ``	O
 Disable	O
 ''	O
-","	O
+,	O
 ``	O
 Audio	O
 record	O

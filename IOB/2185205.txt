@@ -9,7 +9,7 @@ for	O
 restoration	O
 of	O
 candidate	O
-","	O
+,	O
 threatened	O
 and	O
 endangered	O

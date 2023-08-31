@@ -1,19 +1,19 @@
-JJ	notepad.exe	B-Application
-NNP	[	O
-NNP	User	O
-NN	path	O
-NNP	]	O
-NN	\RGNR_AABBCCDD.txt	B-Indicator
-:	:	O
-DT	This	O
-NN	command	O
-VBZ	launches	O
-NNP	Notepad.exe	B-Application
-TO	to	O
-VB	show	O
-DT	the	O
-JJ	ransom	O
-NN	note	O
-TO	to	O
-DT	the	O
-NN	victim	O
+notepad.exe	B-Application
+[	O
+User	O
+path	O
+]	O
+\RGNR_AABBCCDD.txt	B-Indicator
+:	O
+This	O
+command	O
+launches	O
+Notepad.exe	B-Application
+to	O
+show	O
+the	O
+ransom	O
+note	O
+to	O
+the	O
+victim	O

@@ -2,4 +2,5 @@ Django	B-Application
 SQL	B-Vulnerability
 Injection	I-Vulnerability
 Vulnerability	I-Vulnerability
+.	O
 sql-injection	B-TTPs

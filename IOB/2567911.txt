@@ -30,7 +30,7 @@ based	O
 on	O
 the	O
 input	O
-","	O
+,	O
 the	O
 resulting	O
 SQL	O
@@ -76,7 +76,7 @@ part	I-Vulnerability
 of	I-Vulnerability
 SQL	I-Vulnerability
 queries	I-Vulnerability
-","	O
+,	O
 it	O
 is	O
 possible	O
@@ -104,7 +104,7 @@ design	O
 of	O
 the	O
 application	O
-","	O
+,	O
 it	O
 may	O
 also	O
@@ -137,7 +137,7 @@ directly	O
 to	O
 the	O
 database	O
-","	O
+,	O
 thus	O
 bypassing	O
 the	O
@@ -175,10 +175,11 @@ information	I-TTPs
 from	I-TTPs
 a	I-TTPs
 database	I-TTPs
-","	O
+,	O
 an	O
 attacker	O
 :	O
+.	O
 Strong	O
 input	O
 validation	O
@@ -204,7 +205,7 @@ Keywords	O
 such	O
 as	O
 UNION	O
-","	O
+,	O
 SELECT	O
 or	O
 INSERT	O
@@ -254,13 +255,13 @@ restricted	O
 to	O
 certain	O
 domains	O
-","	O
+,	O
 such	O
 as	O
 strings	O
 or	O
 integers	O
-","	O
+,	O
 and	O
 any	O
 input	O

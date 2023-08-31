@@ -1,5 +1,5 @@
-NNP	Maccms	B-Application
-NNP	Remote	B-Vulnerability
-NNP	Command	I-Vulnerability
-NNP	Execution	I-Vulnerability
-NNP	Vulnerability	I-Vulnerability
+Maccms	B-Application
+Remote	B-Vulnerability
+Command	I-Vulnerability
+Execution	I-Vulnerability
+Vulnerability	I-Vulnerability

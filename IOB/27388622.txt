@@ -13,7 +13,7 @@ packer	I-TTPs
 -	O
 (	O
 T1045	B-TTPs
-","	O
+,	O
 A	O
 section	O
 with	O
@@ -23,7 +23,7 @@ entropy	O
 has	O
 been	O
 found	O
-","	O
+,	O
 Overall	O
 entropy	O
 of	O
@@ -33,4 +33,3 @@ file	O
 is	O
 high	O
 )	O
-	

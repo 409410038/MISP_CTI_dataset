@@ -3,7 +3,7 @@ supports	O
 various	O
 tasking	O
 commands	O
-","	O
+,	O
 including	O
 reading/writing	B-TTPs
 files	I-TTPs

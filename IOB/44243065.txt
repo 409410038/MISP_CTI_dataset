@@ -1,6 +1,6 @@
 These	O
 IOCs	O
-","	O
+,	O
 compiled	O
 by	O
 the	O
@@ -8,7 +8,7 @@ National	B-Reporter
 Cert	I-Reporter
 of	I-Reporter
 Slovenia	I-Reporter
-","	O
+,	O
 appear	O
 to	O
 be	O

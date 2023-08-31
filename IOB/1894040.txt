@@ -1,7 +1,8 @@
 Donot	B-ThreatActor
 Team	I-ThreatActor
-??	O
+—	O
 Indicators	O
 of	O
 Compromise	O
+.	O
 Report	O

@@ -13,13 +13,13 @@ ADC	I-Application
 and	I-Application
 Gateway	I-Application
 10.5	I-Application
-","	I-Application
+,	I-Application
 11.1	I-Application
-","	I-Application
+,	I-Application
 12.0	I-Application
-","	I-Application
+,	I-Application
 12.1	I-Application
-","	I-Application
+,	I-Application
 and	I-Application
 13.0	I-Application
 .	O

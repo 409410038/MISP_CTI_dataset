@@ -2,7 +2,7 @@
 Since	O
 December	O
 2021	O
-","	O
+,	O
 multiple	O
 threat	O
 actor	O
@@ -12,7 +12,7 @@ exploited	B-TTPs
 Log4Shell	I-TTPs
 on	I-TTPs
 unpatched	I-TTPs
-","	I-TTPs
+,	I-TTPs
 public-facing	I-TTPs
 VMware	I-TTPs
 Horizon	I-TTPs
@@ -25,7 +25,7 @@ part	O
 of	O
 this	O
 exploitation	O
-","	O
+,	O
 suspected	O
 APT	O
 actors	O
@@ -51,7 +51,7 @@ In	O
 one	O
 confirmed	O
 compromise	O
-","	O
+,	O
 these	O
 APT	O
 actors	O
@@ -63,7 +63,7 @@ laterally	I-TTPs
 inside	I-TTPs
 the	I-TTPs
 network	I-TTPs
-","	O
+,	O
 gain	B-TTPs
 access	I-TTPs
 to	I-TTPs
@@ -71,7 +71,7 @@ a	I-TTPs
 disaster	I-TTPs
 recovery	I-TTPs
 network	I-TTPs
-","	O
+,	O
 and	O
 collect	B-TTPs
 and	I-TTPs

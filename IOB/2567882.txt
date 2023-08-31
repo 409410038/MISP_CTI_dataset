@@ -8,7 +8,7 @@ of	O
 assuming	O
 (	O
 i.e.	O
-","	O
+,	O
 taking	O
 on	O
 )	O
@@ -55,7 +55,7 @@ authentication	I-TTPs
 credentials	I-TTPs
 .	O
 Alternatively	O
-","	O
+,	O
 an	O
 adversary	O
 may	O
@@ -121,7 +121,7 @@ identity	O
 (	O
 for	O
 example	O
-","	O
+,	O
 a	O
 file	O
 with	O
@@ -181,7 +181,7 @@ an	O
 Identity	B-TTPs
 Spoofing	I-TTPs
 attack	I-TTPs
-","	O
+,	O
 the	O
 adversary	O
 is	O
@@ -218,7 +218,7 @@ authentication	O
 processes	O
 (	O
 e.g.	O
-","	O
+,	O
 multi-factor	O
 authentication	O
 )	O

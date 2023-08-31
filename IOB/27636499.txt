@@ -8,11 +8,11 @@ cases	O
 with	O
 Amnesty	B-Reporter
 International	I-Reporter
-??	I-Reporter
+’	I-Reporter
 s	I-Reporter
 Tech	I-Reporter
 Lab	I-Reporter
-","	O
+,	O
 which	O
 independently	O
 validated	O

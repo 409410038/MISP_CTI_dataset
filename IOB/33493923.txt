@@ -37,13 +37,13 @@ client.connect	O
 <	O
 Port	O
 >	O
-","	O
+,	O
 '	O
 <	O
 C2_IP	O
 >	O
 '	O
-","	O
+,	O
 function	O
 (	O
 )	O

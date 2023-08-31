@@ -28,7 +28,7 @@ attack	O
 is	O
 cross-site	B-TTPs
 flashing	I-TTPs
-","	O
+,	O
 an	O
 attacker	O
 controlled	B-TTPs
@@ -58,7 +58,7 @@ applications	O
 In	O
 some	O
 cases	O
-","	O
+,	O
 the	O
 victim	O
 must	O

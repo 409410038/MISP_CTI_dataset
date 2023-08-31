@@ -17,11 +17,11 @@ for	O
 the	O
 first	O
 time	O
-??	O
+“	O
 in	O
 the	O
 wild	O
-??	O
+”	O
 during	O
 the	O
 malicious	O
@@ -30,9 +30,9 @@ campaign	O
 It	O
 allows	O
 the	O
-??	O
+“	O
 fileless	O
-??	O
+”	O
 last	O
 stage	O
 Trojan	B-Malware
@@ -57,7 +57,7 @@ in	O
 the	O
 campaign	O
 isn	O
-??	O
+’	O
 t	O
 limited	O
 to	O
@@ -72,7 +72,7 @@ Windows	B-Application
 native	O
 API	O
 functions	O
-","	O
+,	O
 related	O
 to	O
 event	B-Application
@@ -87,7 +87,7 @@ interface	I-Application
 (	I-Application
 AMSI	I-Application
 )	I-Application
-","	O
+,	O
 to	O
 make	O
 the	O

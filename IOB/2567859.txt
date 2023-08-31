@@ -3,6 +3,7 @@ Overflow	I-TTPs
 via	I-TTPs
 Environment	I-TTPs
 Variables	I-TTPs
+.	O
 This	O
 attack	O
 pattern	O
@@ -28,7 +29,7 @@ modify	B-TTPs
 an	I-TTPs
 environment	I-TTPs
 variable	I-TTPs
-","	O
+,	O
 they	O
 may	O
 try	O

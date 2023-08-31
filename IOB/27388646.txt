@@ -4,6 +4,6 @@ service	I-TTPs
 -	O
 (	O
 T1031	B-TTPs
-","	O
+,	O
 volatility	B-Application
 )	O

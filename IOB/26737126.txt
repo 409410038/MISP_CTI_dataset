@@ -7,7 +7,7 @@ Host
 ``	O
 toopdyno2.duckdns.org	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Port	O
 ''	O
@@ -15,7 +15,7 @@ Port	O
 ``	O
 55140	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Tor	B-Application
 Port	I-Application
@@ -24,7 +24,7 @@ Port	I-Application
 ``	O
 0	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Install	O
 Dir	O
@@ -33,7 +33,7 @@ Dir	O
 ``	O
 0	O
 ''	O
-","	O
+,	O
 ``	O
 Install	O
 File	O
@@ -42,7 +42,7 @@ File	O
 ``	O
 0	O
 ''	O
-","	O
+,	O
 ``	O
 Communication	O
 Password	O
@@ -51,7 +51,7 @@ Password	O
 ``	O
 3cd2623273605167e72c665ad9347c60	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Tor	B-Application
 Process	O

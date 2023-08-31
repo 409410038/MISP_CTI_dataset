@@ -19,7 +19,7 @@ redirection	I-TTPs
 into	I-TTPs
 a	I-TTPs
 filename	I-TTPs
-","	O
+,	O
 directly	O
 or	O
 indirectly	O
@@ -53,9 +53,9 @@ build	O
 resources	O
 like	O
 files	O
-","	O
+,	O
 filenames	O
-","	O
+,	O
 and	O
 URL	O
 links	O
@@ -69,7 +69,7 @@ In	O
 this	O
 attack	O
 pattern	O
-","	O
+,	O
 the	O
 attacker	O
 uploads	B-TTPs

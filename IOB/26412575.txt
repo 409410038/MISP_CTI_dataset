@@ -12,7 +12,7 @@ of	O
 urgency	O
 has	O
 changed	O
-","	O
+,	O
 how	O
 people	O
 are	O
@@ -33,4 +33,3 @@ Phishing	B-TTPs
 Passwords	O
 *	O
 Updating	O
-	

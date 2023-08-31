@@ -3,6 +3,7 @@ Multiple	I-TTPs
 Input	I-TTPs
 Interpretation	I-TTPs
 Layers	I-TTPs
+.	O
 An	O
 attacker	O
 supplies	B-TTPs
@@ -54,7 +55,7 @@ pass	I-Vulnerability
 In	O
 this	O
 manner	O
-","	O
+,	O
 the	O
 attacker	O
 can	O
@@ -106,7 +107,7 @@ layers	I-TTPs
 .	O
 That	O
 is	O
-","	O
+,	O
 user	O
 input	O
 may	O
@@ -137,7 +138,7 @@ parser2	O
 In	O
 such	O
 cases	O
-","	O
+,	O
 the	O
 attacker	O
 will	O
@@ -152,13 +153,13 @@ through	O
 the	O
 input	O
 validator	O
-","	O
+,	O
 but	O
 after	O
 passing	O
 through	O
 parser2	O
-","	O
+,	O
 will	O
 be	O
 converted	O

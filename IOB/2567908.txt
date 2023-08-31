@@ -101,7 +101,7 @@ URL	O
 from	O
 the	O
 requests	O
-","	O
+,	O
 it	O
 may	O
 restrict	O
@@ -172,9 +172,9 @@ such	O
 as	O
 UTF-8	O
 encoding	O
-","	O
+,	O
 Unicode-encoding	O
-","	O
+,	O
 etc	O
 .	O
 The	O
@@ -269,7 +269,7 @@ URL	O
 patterns	O
 .	O
 However	O
-","	O
+,	O
 that	O
 may	O
 discard	O
@@ -331,7 +331,7 @@ not	O
 repeat	O
 decoding	O
 process	O
-","	O
+,	O
 if	O
 bad	O
 character	O
@@ -340,13 +340,13 @@ left	O
 after	O
 decoding	O
 process	O
-","	O
+,	O
 treat	O
 the	O
 data	O
 as	O
 suspicious	O
-","	O
+,	O
 and	O
 fail	O
 the	O
@@ -439,7 +439,7 @@ required	O
 from	O
 web-based	O
 forms	O
-","	O
+,	O
 avoid	O
 using	O
 the	O
@@ -450,7 +450,7 @@ method	I-Protocol
 to	O
 submit	O
 data	O
-","	O
+,	O
 as	O
 the	O
 method	O
@@ -470,7 +470,7 @@ easily	O
 manipulated	O
 .	O
 Instead	O
-","	O
+,	O
 use	O
 the	O
 ``	O

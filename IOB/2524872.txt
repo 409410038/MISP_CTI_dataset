@@ -2,4 +2,5 @@ Metabase	B-Application
 Information	B-Vulnerability
 Disclosure	I-Vulnerability
 Vulnerability	I-Vulnerability
+.	O
 info-leak	O

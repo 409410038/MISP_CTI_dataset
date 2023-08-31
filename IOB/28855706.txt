@@ -11,7 +11,7 @@ SearchIndexer.exe	B-Indicator
 by	O
 the	O
 malware	B-TTPs
-","	O
+,	O
 which	O
 is	O
 the	O
@@ -29,13 +29,13 @@ loads	O
 the	O
 libcurl	B-Application
 library	O
-","	O
+,	O
 SparrowDoor	B-Malware
 takes	O
 advantage	O
 of	O
 this	O
-","	O
+,	O
 as	O
 the	O
 malicious	O

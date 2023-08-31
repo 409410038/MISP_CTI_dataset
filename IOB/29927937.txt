@@ -2,7 +2,7 @@ IOCs	O
 published	O
 by	O
 CERT.LV	B-Reporter
-","	I-Reporter
+,	I-Reporter
 the	I-Reporter
 national	I-Reporter
 CERT	I-Reporter
@@ -11,7 +11,7 @@ the	I-Reporter
 Republic	I-Reporter
 of	I-Reporter
 Latvia	I-Reporter
-","	O
+,	O
 about	O
 a	O
 credit	B-TTPs

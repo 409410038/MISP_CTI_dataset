@@ -14,7 +14,7 @@ the	O
 main	O
 exploitation	O
 function	O
-","	O
+,	O
 it	O
 includes	O
 all	O
@@ -41,13 +41,13 @@ mentioned	O
 above	O
 (	O
 Mirai	B-Malware
-","	O
+,	O
 Qbot	B-Malware
-","	O
+,	O
 and	O
 Zbot	B-Malware
 )	O
-??	O
+—	O
 mainly	O
 Mirai	B-Malware
 and	O

@@ -5,5 +5,5 @@ to	O
 a	O
 user	O
 alexandros	O
+.	O
 ./vacuumdb/./rc/cfg.sh	B-Indicator
-	

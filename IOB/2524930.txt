@@ -5,5 +5,7 @@ and	I-TTPs
 Control	I-TTPs
 Traffic	O
 Detection	O
+.	O
 webshell	B-Malware
+.	O
 spyware	B-Malware

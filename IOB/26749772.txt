@@ -2,7 +2,7 @@ IOC	O
 published	O
 by	O
 CERT.LV	B-Reporter
-","	O
+,	O
 the	O
 national	B-Reporter
 CERT	I-Reporter
@@ -11,7 +11,7 @@ the	I-Reporter
 Republic	I-Reporter
 of	I-Reporter
 Latvia	I-Reporter
-","	O
+,	O
 about	O
 a	O
 phishing	B-TTPs

@@ -3,7 +3,7 @@ of	O
 social	B-TTPs
 engineering	I-TTPs
 techniques	O
-","	O
+,	O
 knowledge	O
 of	O
 RUST	O
@@ -11,11 +11,11 @@ and	O
 C++	O
 programming	O
 language	O
-","	O
+,	O
 knowledge	O
 of	O
 PowerShell	B-Application
-","	O
+,	O
 knowledge	O
 of	O
 LoL	B-TTPs
@@ -24,7 +24,7 @@ and	O
 use	O
 of	O
 LoLBins	B-TTPs
-","	O
+,	O
 knowledge	O
 of	O
 encryption	O
@@ -32,7 +32,7 @@ techniques	O
 (	O
 ChaCha20	O
 )	O
-","	O
+,	O
 and	O
 evasion	B-TTPs
 .	O

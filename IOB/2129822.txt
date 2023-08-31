@@ -3,7 +3,7 @@ ProofPoint	B-Reporter
 analysis	O
 of	O
 TA2541	B-ThreatActor
-","	O
+,	O
 a	O
 persistent	O
 cybercriminal	O
@@ -20,16 +20,15 @@ RATs	I-Malware
 targeting	O
 the	O
 aviation	O
-","	O
+,	O
 aerospace	O
-","	O
+,	O
 transportation	O
-","	O
+,	O
 and	O
 defense	O
 industries	O
-","	O
+,	O
 among	O
 others	O
 .	O
-	

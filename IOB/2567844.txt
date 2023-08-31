@@ -3,6 +3,7 @@ Overflow	I-TTPs
 via	I-TTPs
 Symbolic	I-TTPs
 Links	I-TTPs
+.	O
 This	O
 type	O
 of	O
@@ -50,7 +51,7 @@ the	O
 symbolic	O
 link	O
 file	O
-","	O
+,	O
 it	O
 could	O
 potentially	O
@@ -141,7 +142,7 @@ modified	O
 by	O
 an	O
 attacker	O
-","	O
+,	O
 make	O
 sure	O
 that	O
@@ -177,7 +178,7 @@ Symlink	I-TTPs
 race	I-TTPs
 ''	O
 )	O
-","	O
+,	O
 they	O
 can	O
 be	O
@@ -232,7 +233,7 @@ mechanisms	O
 such	O
 as	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -248,7 +249,7 @@ provides	O
 automatic	O
 bounds	O
 checking	O
-","	O
+,	O
 it	O
 is	O
 not	O

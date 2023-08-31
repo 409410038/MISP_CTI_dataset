@@ -3,7 +3,7 @@ the	O
 most	O
 recent	O
 instances	O
-","	O
+,	O
 the	O
 threat	O
 actor	O
@@ -14,7 +14,7 @@ MS	I-TTPs
 Office	I-TTPs
 Word	I-TTPs
 documents	I-TTPs
-","	O
+,	O
 leveraging	B-TTPs
 document	I-TTPs
 template	I-TTPs
@@ -27,5 +27,5 @@ payload	I-TTPs
 to	I-TTPs
 the	I-TTPs
 victims	I-TTPs
-??	I-TTPs
+’	I-TTPs
 machines	I-TTPs

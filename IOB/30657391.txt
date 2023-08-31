@@ -1,11 +1,11 @@
 These	O
 IOCs	O
-","	O
+,	O
 published	O
 by	O
 MORS	B-Reporter
 142	I-Reporter
-","	O
+,	O
 relate	O
 to	O
 malspam	B-TTPs

@@ -9,7 +9,7 @@ SentinelOne	B-Reporter
 article	O
 describing	O
 HermeticWiper	B-Malware
-","	O
+,	O
 a	O
 destructive	O
 malware	B-TTPs
@@ -21,7 +21,7 @@ Ukraine	O
 since	O
 February	O
 23	O
-","	O
+,	O
 2022	O
 .	O
 They	O
@@ -34,4 +34,3 @@ MISP	O
 event	O
 b9b6dcfa-0b11-40dc-9bf4-9a36a2c1a046	O
 .	O
-	

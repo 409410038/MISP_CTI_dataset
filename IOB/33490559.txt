@@ -2,9 +2,9 @@ The	O
 Curious	O
 Case	O
 of	O
-??	B-Malware
+“	B-Malware
 Monti	I-Malware
-??	I-Malware
+”	I-Malware
 Ransomware	I-Malware
 :	O
 A	O

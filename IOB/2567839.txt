@@ -1,6 +1,7 @@
 Cross	B-TTPs
 Zone	I-TTPs
 Scripting	I-TTPs
+.	O
 An	O
 attacker	O
 is	O
@@ -58,7 +59,7 @@ In	O
 a	O
 zone-based	O
 model	O
-","	O
+,	O
 pages	O
 belong	O
 to	O
@@ -114,7 +115,7 @@ a	O
 cross-zone	B-TTPs
 scripting	I-TTPs
 attack	O
-","	O
+,	O
 a	O
 page	O
 that	O
@@ -146,7 +147,7 @@ bugs	O
 in	O
 the	O
 browser	O
-","	O
+,	O
 exploiting	O
 incorrect	B-Vulnerability
 configuration	I-Vulnerability
@@ -154,7 +155,7 @@ in	I-Vulnerability
 the	I-Vulnerability
 zone	I-Vulnerability
 controls	I-Vulnerability
-","	O
+,	O
 through	O
 a	O
 cross-site	B-TTPs
@@ -176,7 +177,7 @@ a	O
 more	O
 trusted	O
 page	O
-","	O
+,	O
 or	O
 by	O
 leveraging	O
@@ -228,7 +229,7 @@ DELETE	I-Protocol
 on	O
 the	O
 server	O
-","	O
+,	O
 while	O
 cross-zone	B-TTPs
 scripting	I-TTPs

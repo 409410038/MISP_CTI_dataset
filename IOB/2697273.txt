@@ -4,7 +4,7 @@ researchers	O
 have	O
 identified	O
 EnemyBot	B-Malware
-","	O
+,	O
 a	O
 brand	O
 new	O
@@ -20,7 +20,7 @@ analyzing	O
 the	O
 initial	O
 infection	O
-","	O
+,	O
 it	O
 appears	O
 to	O
@@ -45,4 +45,5 @@ and	O
 functionality	O
 .	O
 ''	O
+.	O
 Blog	O

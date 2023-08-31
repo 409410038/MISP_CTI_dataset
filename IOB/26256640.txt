@@ -3,14 +3,14 @@ to	O
 the	O
 threat	O
 actor	O
-??	O
+’	O
 s	O
 heavy	O
 reliance	O
 on	O
 tunneling	B-TTPs
 tools	O
-","	O
+,	O
 as	O
 well	O
 as	O
@@ -23,7 +23,7 @@ to	O
 widely	O
 deploy	O
 those	O
-","	O
+,	O
 we	O
 track	O
 this	O
@@ -33,4 +33,3 @@ activity	O
 as	O
 TunnelVision	B-ThreatActor
 .	O
-	

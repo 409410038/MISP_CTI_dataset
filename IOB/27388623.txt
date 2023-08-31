@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1143	B-TTPs
-","	O
+,	O
 short	O
 :	O
 Hidden	B-TTPs

@@ -46,7 +46,7 @@ Contents	O
 :	O
 ``	O
 Hello	O
-","	O
+,	O
 In	O
 line	O
 with	O
@@ -56,13 +56,13 @@ recommendations	O
 of	O
 your	O
 company	O
-","	O
+,	O
 we	O
 are	O
 UEDA	O
 KIKOU	O
 CO.	O
-","	O
+,	O
 LTD.	O
 .	O
 We	O

@@ -3,7 +3,7 @@ identified	O
 evidence	O
 of	O
 HOMAGE	B-Vulnerability
-","	O
+,	O
 a	O
 previously-undisclosed	O
 iOS	B-Vulnerability

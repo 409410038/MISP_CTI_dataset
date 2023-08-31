@@ -2,7 +2,7 @@ In	O
 2019	O
 phishing	B-TTPs
 campaigns	O
-","	O
+,	O
 ModifiedElephant	B-ThreatActor
 operators	O
 also	O
@@ -25,4 +25,3 @@ by	O
 the	O
 target	O
 .	O
-	

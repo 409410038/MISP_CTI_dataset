@@ -9,10 +9,10 @@ folder	O
 -	O
 (	O
 T1129	B-TTPs
-","	O
+,	O
 ioc	O
-","	O
+,	O
 ioc	O
-","	O
+,	O
 ioc	O
 )	O

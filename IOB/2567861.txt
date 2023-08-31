@@ -3,10 +3,11 @@ Failure	I-TTPs
 through	I-TTPs
 Buffer	I-TTPs
 Overflow	I-TTPs
+.	O
 In	O
 this	O
 attack	O
-","	O
+,	O
 the	O
 idea	O
 is	O
@@ -148,7 +149,7 @@ mechanisms	O
 such	O
 as	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -164,7 +165,7 @@ provides	O
 automatic	O
 bounds	O
 checking	O
-","	O
+,	O
 it	O
 is	O
 not	O

@@ -106,7 +106,7 @@ GOLES88-ARIN	O
 OrgTechName	O
 :	O
 Golestani	O
-","	O
+,	O
 Amir	O
 OrgTechPhone	O
 :	O
@@ -127,7 +127,7 @@ GOLES88-ARIN	O
 OrgAbuseName	O
 :	O
 Golestani	O
-","	O
+,	O
 Amir	O
 OrgAbusePhone	O
 :	O
@@ -142,4 +142,3 @@ OrgAbuseRef	O
 https	B-Indicator
 :	I-Indicator
 //rdap.arin.net/registry/entity/GOLES88-ARIN	I-Indicator
-	

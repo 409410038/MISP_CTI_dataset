@@ -15,9 +15,9 @@ News	O
 |	O
 Sensex	O
 Nifty	O
-","	O
+,	O
 NSE	O
-","	O
+,	O
 BSE	O
 Live	O
 IPO	O

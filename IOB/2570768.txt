@@ -5,4 +5,5 @@ and	I-TTPs
 Control	I-TTPs
 Traffic	O
 Detection	O
+.	O
 cryptominer	B-Malware

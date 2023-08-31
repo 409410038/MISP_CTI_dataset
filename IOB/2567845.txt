@@ -5,13 +5,14 @@ Properly	I-TTPs
 Constrained	I-TTPs
 by	I-TTPs
 ACLs	I-TTPs
+.	O
 In	O
 applications	O
-","	O
+,	O
 particularly	O
 web	O
 applications	O
-","	O
+,	O
 access	O
 to	O
 functionality	O
@@ -61,7 +62,7 @@ for	O
 a	O
 particular	O
 element	O
-","	O
+,	O
 an	O
 attacker	O
 may	O
@@ -115,7 +116,7 @@ a	I-TTPs
 higher	I-TTPs
 privilege	I-TTPs
 level	I-TTPs
-","	O
+,	O
 can	O
 access	B-TTPs
 management	I-TTPs
@@ -123,7 +124,7 @@ sections	I-TTPs
 of	I-TTPs
 the	I-TTPs
 application	I-TTPs
-","	O
+,	O
 or	O
 can	O
 run	B-TTPs
@@ -160,11 +161,11 @@ ACLs	O
 The	O
 various	O
 resources	O
-","	O
+,	O
 or	O
 individual	O
 URLs	O
-","	O
+,	O
 must	O
 be	O
 somehow	O
@@ -199,7 +200,7 @@ a	O
 more	O
 general	O
 setting	O
-","	O
+,	O
 the	O
 administrator	O
 must	O

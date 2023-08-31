@@ -1,6 +1,7 @@
 Leverage	B-TTPs
 Alternate	I-TTPs
 Encoding	I-TTPs
+.	O
 An	O
 adversary	O
 leverages	O
@@ -39,7 +40,7 @@ characters	O
 .	O
 Data	B-Vulnerability
 canonicalization	I-Vulnerability
-","	I-Vulnerability
+,	I-Vulnerability
 input	I-Vulnerability
 filtering	I-Vulnerability
 and	I-Vulnerability
@@ -90,9 +91,9 @@ the	O
 application	O
 (	O
 UTF-8	O
-","	O
+,	O
 UTF-16	O
-","	O
+,	O
 etc	O
 .	O
 )	O

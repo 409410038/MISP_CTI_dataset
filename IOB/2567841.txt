@@ -3,6 +3,7 @@ Credential	I-TTPs
 Falsification	I-TTPs
 through	I-TTPs
 Prediction	I-TTPs
+.	O
 This	O
 attack	O
 targets	O
@@ -69,7 +70,7 @@ predictable	I-Vulnerability
 .	O
 For	O
 example	O
-","	O
+,	O
 the	O
 session	O
 IDs	O
@@ -80,7 +81,7 @@ predictable	O
 information	O
 (	O
 e.g.	O
-","	O
+,	O
 time	O
 )	O
 .	O
@@ -117,7 +118,7 @@ session	O
 ID	O
 (	O
 e.g.	O
-","	O
+,	O
 time	O
 )	O
 .	O

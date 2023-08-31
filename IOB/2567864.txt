@@ -1,168 +1,169 @@
-JJ	Client-side	B-TTPs
-NNP	Injection-induced	I-TTPs
-NNP	Buffer	I-TTPs
-NNP	Overflow	I-TTPs
-DT	This	O
-NN	type	O
-IN	of	O
-NN	attack	O
-VBZ	exploits	B-TTPs
-DT	a	I-TTPs
-NN	buffer	I-TTPs
-JJ	overflow	I-TTPs
-NN	vulnerability	I-TTPs
-IN	in	I-TTPs
-JJ	targeted	I-TTPs
-NN	client	I-TTPs
-NN	software	I-TTPs
-IN	through	O
-NN	injection	B-TTPs
-IN	of	I-TTPs
-JJ	malicious	I-TTPs
-NN	content	I-TTPs
-IN	from	I-TTPs
-DT	a	I-TTPs
-JJ	custom-built	I-TTPs
-NN	hostile	I-TTPs
-NN	service	I-TTPs
-.	.	O
-DT	The	O
-JJ	targeted	O
-NN	client	O
-NN	software	O
-VBZ	communicates	O
-IN	with	O
-DT	an	O
-JJ	external	O
-NN	server	O
-.	.	O
-DT	The	O
-JJ	targeted	O
-NN	client	O
-NN	software	O
-VBZ	has	O
-DT	a	O
-NN	buffer	B-Vulnerability
-JJ	overflow	I-Vulnerability
-NN	vulnerability	I-Vulnerability
-.	.	O
-DT	The	O
-NN	client	O
-NN	software	O
-MD	should	O
-RB	not	O
-VB	install	O
-JJ	untrusted	O
-NN	code	O
-IN	from	O
-DT	a	O
-JJ	non-authenticated	O
-NN	server	O
-.	.	O
-DT	The	O
-NN	client	O
-NN	software	O
-MD	should	O
-VB	have	O
-DT	the	O
-JJS	latest	O
-NNS	patches	O
-CC	and	O
-MD	should	O
-VB	be	O
-VBN	audited	O
-IN	for	O
-NNS	vulnerabilities	O
-IN	before	O
-VBG	being	O
-VBN	used	O
-TO	to	O
-VB	communicate	O
-IN	with	O
-RB	potentially	O
-JJ	hostile	O
-NNS	servers	O
-.	.	O
-NNP	Perform	O
-NN	input	O
-NN	validation	O
-IN	for	O
-NN	length	O
-IN	of	O
-NN	buffer	O
-NNS	inputs	O
-.	.	O
-VB	Use	O
-DT	a	O
-NN	language	O
-CC	or	O
-NN	compiler	O
-IN	that	O
-VBZ	performs	O
-JJ	automatic	O
-NNS	bounds	O
-VBG	checking	O
-.	.	O
-VB	Use	O
-DT	an	O
-NN	abstraction	O
-NN	library	O
-TO	to	O
-VB	abstract	O
-RP	away	O
-JJ	risky	O
-NNP	APIs	O
-.	.	O
-RB	Not	O
-DT	a	O
-JJ	complete	O
-NN	solution	O
-.	.	O
-JJ	Compiler-based	O
-JJ	canary	O
-NNS	mechanisms	O
-JJ	such	O
-IN	as	O
-NNP	StackGuard	O
-","	","	O
-NNP	ProPolice	O
-CC	and	O
-DT	the	O
-NNP	Microsoft	O
-NNP	Visual	O
-NNP	Studio	O
-NNP	/GS	O
-NN	flag	O
-.	.	O
-IN	Unless	O
-DT	this	O
-VBZ	provides	O
-JJ	automatic	O
-NNS	bounds	O
-VBG	checking	O
-","	","	O
-PRP	it	O
-VBZ	is	O
-RB	not	O
-DT	a	O
-JJ	complete	O
-NN	solution	O
-.	.	O
-NNP	Ensure	O
-DT	all	O
-VBP	buffer	O
-NNS	uses	O
-VBP	are	O
-RB	consistently	O
-JJ	bounds-checked	O
-.	.	O
-VB	Use	O
-JJ	OS-level	O
-JJ	preventative	O
-NN	functionality	O
-.	.	O
-RB	Not	O
-DT	a	O
-JJ	complete	O
-NN	solution	O
-.	.	O
+Client-side	B-TTPs
+Injection-induced	I-TTPs
+Buffer	I-TTPs
+Overflow	I-TTPs
+.	O
+This	O
+type	O
+of	O
+attack	O
+exploits	B-TTPs
+a	I-TTPs
+buffer	I-TTPs
+overflow	I-TTPs
+vulnerability	I-TTPs
+in	I-TTPs
+targeted	I-TTPs
+client	I-TTPs
+software	I-TTPs
+through	O
+injection	B-TTPs
+of	I-TTPs
+malicious	I-TTPs
+content	I-TTPs
+from	I-TTPs
+a	I-TTPs
+custom-built	I-TTPs
+hostile	I-TTPs
+service	I-TTPs
+.	O
+The	O
+targeted	O
+client	O
+software	O
+communicates	O
+with	O
+an	O
+external	O
+server	O
+.	O
+The	O
+targeted	O
+client	O
+software	O
+has	O
+a	O
+buffer	B-Vulnerability
+overflow	I-Vulnerability
+vulnerability	I-Vulnerability
+.	O
+The	O
+client	O
+software	O
+should	O
+not	O
+install	O
+untrusted	O
+code	O
+from	O
+a	O
+non-authenticated	O
+server	O
+.	O
+The	O
+client	O
+software	O
+should	O
+have	O
+the	O
+latest	O
+patches	O
+and	O
+should	O
+be	O
+audited	O
+for	O
+vulnerabilities	O
+before	O
+being	O
+used	O
+to	O
+communicate	O
+with	O
+potentially	O
+hostile	O
+servers	O
+.	O
+Perform	O
+input	O
+validation	O
+for	O
+length	O
+of	O
+buffer	O
+inputs	O
+.	O
+Use	O
+a	O
+language	O
+or	O
+compiler	O
+that	O
+performs	O
+automatic	O
+bounds	O
+checking	O
+.	O
+Use	O
+an	O
+abstraction	O
+library	O
+to	O
+abstract	O
+away	O
+risky	O
+APIs	O
+.	O
+Not	O
+a	O
+complete	O
+solution	O
+.	O
+Compiler-based	O
+canary	O
+mechanisms	O
+such	O
+as	O
+StackGuard	O
+,	O
+ProPolice	O
+and	O
+the	O
+Microsoft	O
+Visual	O
+Studio	O
+/GS	O
+flag	O
+.	O
+Unless	O
+this	O
+provides	O
+automatic	O
+bounds	O
+checking	O
+,	O
+it	O
+is	O
+not	O
+a	O
+complete	O
+solution	O
+.	O
+Ensure	O
+all	O
+buffer	O
+uses	O
+are	O
+consistently	O
+bounds-checked	O
+.	O
+Use	O
+OS-level	O
+preventative	O
+functionality	O
+.	O
+Not	O
+a	O
+complete	O
+solution	O
+.	O

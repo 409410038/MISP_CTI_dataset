@@ -4,6 +4,7 @@ Slashes	I-TTPs
 in	I-TTPs
 Alternate	I-TTPs
 Encoding	I-TTPs
+.	O
 This	O
 attack	O
 targets	O
@@ -49,7 +50,7 @@ By	O
 using	O
 that	O
 trick	O
-","	O
+,	O
 the	O
 attacker	O
 tries	O
@@ -91,7 +92,7 @@ incomplete	O
 input	O
 data	O
 decoding	O
-","	O
+,	O
 filtering	O
 and	O
 validation	O
@@ -196,7 +197,7 @@ case	O
 of	O
 path	O
 traversals	O
-","	O
+,	O
 use	O
 the	O
 principle	O
@@ -247,7 +248,7 @@ not	O
 repeat	O
 decoding	O
 process	O
-","	O
+,	O
 if	O
 bad	O
 character	O
@@ -256,13 +257,13 @@ left	O
 after	O
 decoding	O
 process	O
-","	O
+,	O
 treat	O
 the	O
 data	O
 as	O
 suspicious	O
-","	O
+,	O
 and	O
 fail	O
 the	O

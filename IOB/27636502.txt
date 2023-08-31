@@ -12,7 +12,7 @@ uniqueid	I-Indicator
 After	O
 performing	O
 tests	O
-","	O
+,	O
 the	O
 scaffolding	O
 then	O

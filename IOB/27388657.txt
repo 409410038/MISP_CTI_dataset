@@ -8,8 +8,8 @@ file	I-TTPs
 -	O
 (	O
 T1023	B-TTPs
-","	O
+,	O
 T1204	B-TTPs
-","	O
+,	O
 ioc	O
 )	O

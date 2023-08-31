@@ -4,7 +4,7 @@ of	O
 the	O
 targeted	O
 organizations	O
-","	O
+,	O
 the	O
 wiper	B-Malware
 was	O
@@ -30,4 +30,3 @@ Active	O
 Directory	O
 server	O
 .	O
-	

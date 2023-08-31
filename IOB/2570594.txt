@@ -4,7 +4,7 @@ beginning	O
 of	O
 March	O
 2022	O
-","	O
+,	O
 the	O
 CERT-UA	B-Reporter
 response	I-Reporter
@@ -20,7 +20,7 @@ names	O
 ``	O
 Assistance.rar	B-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Necessary_military_assistance.rar	B-Indicator
 ''	O
@@ -51,7 +51,7 @@ assistance	I-Indicator
 to	I-Indicator
 Ukraine.lnk	I-Indicator
 ''	O
-","	O
+,	O
 ``	O
 Providing	B-Indicator
 military	I-Indicator
@@ -63,7 +63,7 @@ Ukraine.lnk	I-Indicator
 .	O
 In	O
 addition	O
-","	O
+,	O
 it	O
 is	O
 also	O
@@ -101,7 +101,7 @@ of	O
 the	O
 electronic	O
 sheet	O
-","	O
+,	O
 as	O
 well	O
 as	O
@@ -120,7 +120,7 @@ the	O
 Latvian	O
 state	O
 authority	O
-","	O
+,	O
 unequivocally	O
 indicates	O
 that	O

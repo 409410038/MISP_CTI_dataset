@@ -19,7 +19,7 @@ the	O
 malware	B-TTPs
 establishes	O
 access	O
-","	O
+,	O
 it	O
 compromises	O
 Active	B-Application
@@ -56,13 +56,13 @@ malware	O
 leverages	O
 PowerShell	B-Application
 scripts	O
-","	O
+,	O
 in	O
 conjunction	O
 with	O
 Cobalt	B-Application
 Strike	I-Application
-","	O
+,	O
 and	O
 disables	O
 security	O
@@ -70,7 +70,7 @@ features	O
 within	O
 the	O
 victim	O
-??	O
+’	O
 s	O
 network	O
 .	O

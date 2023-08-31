@@ -34,7 +34,7 @@ Date	O
 Registrar	O
 :	O
 PSI-USA	O
-","	O
+,	O
 Inc.	O
 dba	O
 Domain	O

@@ -3,6 +3,7 @@ Opaque	I-TTPs
 Client-based	I-TTPs
 Data	I-TTPs
 Tokens	I-TTPs
+.	O
 In	O
 circumstances	O
 where	O
@@ -16,12 +17,12 @@ in	O
 tokens	O
 (	O
 cookies	O
-","	O
+,	O
 URLs	O
-","	O
+,	O
 data	O
 files	O
-","	O
+,	O
 and	O
 so	O
 forth	O
@@ -129,7 +130,7 @@ viably	O
 execute	O
 this	O
 attack	O
-","	O
+,	O
 some	O
 data	O
 (	O
@@ -202,7 +203,7 @@ the	O
 data	O
 is	O
 important	O
-","	O
+,	O
 then	O
 using	O
 a	O
@@ -220,7 +221,7 @@ is	O
 prescribed	O
 .	O
 However	O
-","	O
+,	O
 this	O
 guidance	O
 is	O
@@ -230,7 +231,7 @@ panacea	O
 .	O
 In	O
 particular	O
-","	O
+,	O
 any	O
 value	O
 created	O
@@ -243,7 +244,7 @@ by	O
 )	O
 the	O
 client	O
-","	O
+,	O
 which	O
 itself	O
 is	O
@@ -252,7 +253,7 @@ a	O
 malicious	O
 ''	O
 value	O
-","	O
+,	O
 all	O
 the	O
 protective	O
@@ -271,7 +272,7 @@ again	O
 .	O
 Put	O
 simply	O
-","	O
+,	O
 if	O
 the	O
 client	O
@@ -287,7 +288,7 @@ and	O
 encoding	O
 the	O
 value	O
-","	O
+,	O
 then	O
 simply	O
 protecting	O

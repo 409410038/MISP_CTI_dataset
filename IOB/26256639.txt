@@ -9,9 +9,9 @@ in	O
 the	O
 region	O
 lately	O
-","	O
+,	O
 TunnelVision	B-ThreatActor
-??	O
+’	O
 s	O
 activities	O
 were	O
@@ -20,7 +20,7 @@ to	O
 deployment	O
 of	O
 ransomware	B-Malware
-","	O
+,	O
 making	O
 the	O
 group	O
@@ -29,4 +29,3 @@ potentially	O
 destructive	O
 actor	O
 .	O
-	

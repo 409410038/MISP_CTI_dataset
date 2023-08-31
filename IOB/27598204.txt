@@ -7,7 +7,7 @@ hardcoded	O
 in	O
 its	O
 body	O
-","	O
+,	O
 driving	O
 the	O
 malware	O
@@ -18,7 +18,7 @@ is	O
 different	O
 from	O
 Industroyer	B-Malware
-","	O
+,	O
 stores	O
 configuration	O
 in	O
@@ -28,7 +28,7 @@ separate	O
 file	O
 .	O
 Thus	O
-","	O
+,	O
 attackers	O
 need	O
 to	O

@@ -4,6 +4,7 @@ WINDIR	O
 \system32\wbem\wmiprvse.exe	B-Application
 -secured	O
 -Embedding	O
+.	O
 wscript.exe	B-Application
 //e	O
 :	O

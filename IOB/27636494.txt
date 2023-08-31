@@ -1,7 +1,7 @@
 The	O
 Citizen	B-Reporter
 Lab	I-Reporter
-","	O
+,	O
 in	O
 collaboration	O
 with	O
@@ -9,7 +9,7 @@ Catalan	B-Reporter
 civil	I-Reporter
 society	I-Reporter
 groups	I-Reporter
-","	O
+,	O
 has	O
 identified	O
 at	O

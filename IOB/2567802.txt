@@ -8,7 +8,7 @@ application	O
 by	O
 injecting	B-TTPs
 additional	I-TTPs
-","	O
+,	O
 malicious	O
 content	O
 during	O
@@ -31,7 +31,7 @@ state	O
 into	O
 a	O
 static	O
-","	O
+,	O
 binary	O
 format	O
 for	O
@@ -65,7 +65,7 @@ into	I-TTPs
 a	I-TTPs
 vulnerable	I-TTPs
 application	I-TTPs
-","	O
+,	O
 an	O
 adversary	O
 can	O
@@ -88,7 +88,7 @@ number	O
 of	O
 unwanted	O
 outcomes	O
-","	O
+,	O
 including	O
 remote	O
 code	O
@@ -111,7 +111,7 @@ state	O
 on	O
 the	O
 server	O
-","	O
+,	O
 when	O
 possible	O
 .	O

@@ -72,7 +72,7 @@ is	O
 immaterial	O
 .	O
 Instead	O
-","	O
+,	O
 most	O
 buffer	B-TTPs
 attacks	I-TTPs
@@ -90,7 +90,7 @@ in	I-TTPs
 the	I-TTPs
 allocated	I-TTPs
 buffer	I-TTPs
-","	O
+,	O
 resulting	O
 in	O
 the	O
@@ -115,13 +115,13 @@ interacting	I-TTPs
 with	I-TTPs
 a	I-TTPs
 buffer	I-TTPs
-","	O
+,	O
 such	O
 as	O
 vulnerable	O
 C	O
 code	O
-","	O
+,	O
 and	O
 be	B-TTPs
 able	I-TTPs
@@ -141,7 +141,7 @@ from	O
 buffer	B-TTPs
 manipulation	I-TTPs
 attacks	I-TTPs
-","	O
+,	O
 a	O
 number	O
 of	O
@@ -158,7 +158,7 @@ development	O
 of	O
 the	O
 application	O
-","	O
+,	O
 consider	O
 using	O
 a	O
@@ -166,7 +166,7 @@ code	O
 language	O
 (	O
 e.g.	O
-","	O
+,	O
 Java	O
 )	O
 or	O
@@ -198,7 +198,7 @@ related	I-Vulnerability
 issues	I-Vulnerability
 (	O
 e.g.	O
-","	O
+,	O
 C	O
 )	O
 then	O
@@ -222,7 +222,7 @@ function	O
 must	O
 be	O
 used	O
-","	O
+,	O
 make	O
 sure	O
 that	O
@@ -233,7 +233,7 @@ is	O
 performed	O
 .	O
 Additionally	O
-","	O
+,	O
 there	O
 are	O
 often	O
@@ -244,9 +244,9 @@ compiler-based	O
 mechanisms	O
 (	O
 e.g.	O
-","	O
+,	O
 StackGuard	O
-","	O
+,	O
 ProPolice	O
 and	O
 the	O
@@ -268,7 +268,7 @@ buffer	B-Vulnerability
 issues	I-Vulnerability
 .	O
 Finally	O
-","	O
+,	O
 there	O
 may	O
 be	O

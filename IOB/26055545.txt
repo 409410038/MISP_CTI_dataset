@@ -5,7 +5,7 @@ formatter=csv	O
 format-param=fields==	O
 ''	O
 WorldID	O
-","	O
+,	O
 DisplayName	O
 ''	O
 vm	O
@@ -18,7 +18,7 @@ awk	B-Application
 \	O
 ''	O
 *	O
-","	O
+,	O
 \	O
 ''	O
 *	O

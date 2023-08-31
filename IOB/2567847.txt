@@ -2,6 +2,7 @@ Subverting	B-TTPs
 Environment	I-TTPs
 Variable	I-TTPs
 Values	I-TTPs
+.	O
 The	O
 attacker	O
 directly	O

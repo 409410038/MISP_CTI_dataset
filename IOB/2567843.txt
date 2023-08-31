@@ -1,6 +1,7 @@
 Using	B-TTPs
 Malicious	I-TTPs
 Files	I-TTPs
+.	O
 An	O
 attack	O
 of	O
@@ -22,7 +23,7 @@ access	I-TTPs
 an	I-TTPs
 executable	I-TTPs
 file	I-TTPs
-","	O
+,	O
 for	O
 example	O
 through	O
@@ -49,10 +50,10 @@ it	I-TTPs
 .	O
 Web	O
 servers	O
-","	O
+,	O
 ftp	O
 servers	O
-","	O
+,	O
 and	O
 message	O
 oriented	O
@@ -66,7 +67,7 @@ points	O
 are	O
 particularly	O
 vulnerable	O
-","	O
+,	O
 because	O
 both	O
 the	O
@@ -184,9 +185,9 @@ scanning	O
 to	O
 identify	O
 directories	O
-","	O
+,	O
 programs	O
-","	O
+,	O
 and	O
 interfaces	O
 that	O

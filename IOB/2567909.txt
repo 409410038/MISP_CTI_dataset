@@ -5,6 +5,7 @@ to	I-TTPs
 Bypass	I-TTPs
 Validation	I-TTPs
 Logic	I-TTPs
+.	O
 This	O
 attack	O
 is	O
@@ -77,7 +78,7 @@ bytes	O
 long	O
 .	O
 However	O
-","	O
+,	O
 early	O
 version	O
 of	O
@@ -110,7 +111,7 @@ shortest	O
 possible	O
 ''	O
 encoding	O
-","	O
+,	O
 but	O
 naive	O
 decoders	O
@@ -128,7 +129,7 @@ to	O
 the	O
 RFC	O
 3629	O
-","	O
+,	O
 a	O
 particularly	O
 subtle	O
@@ -156,7 +157,7 @@ form	O
 of	O
 its	O
 input	O
-","	O
+,	O
 but	O
 interprets	O
 certain	O
@@ -296,7 +297,7 @@ corrupt	O
 or	O
 lost	O
 bytes	O
-","	O
+,	O
 decoders	O
 must	O
 be	O
@@ -310,7 +311,7 @@ lead	O
 and	O
 trail	O
 bytes	O
-","	O
+,	O
 rather	O
 than	O
 just	O
@@ -330,7 +331,7 @@ position	O
 For	O
 security	O
 reasons	O
-","	O
+,	O
 a	O
 UTF-8	O
 decoder	O
@@ -359,7 +360,7 @@ decode	O
 the	O
 UTF-8	O
 encoding	O
-","	O
+,	O
 make	O
 sure	O
 that	O

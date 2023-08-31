@@ -20,6 +20,6 @@ allocation	O
 -	O
 (	O
 GetDiskFreeSpaceExW	B-Application
-","	O
+,	O
 GetDiskFreeSpaceW	B-Application
 )	O

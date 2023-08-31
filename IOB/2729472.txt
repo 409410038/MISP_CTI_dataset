@@ -1,6 +1,7 @@
 Revolut	O
 Bank	O
 Ltd	O
+.	O
 fake	O
 Bank	O
 account	O
@@ -8,6 +9,7 @@ of	O
 Clifford	O
 Chance	O
 LLP	O
+.	O
 Clifford	O
 Chance	O
 LLP	O

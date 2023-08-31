@@ -5,6 +5,7 @@ to	I-TTPs
 Bypass	I-TTPs
 Validation	I-TTPs
 Logic	I-TTPs
+.	O
 An	O
 attacker	O
 may	O
@@ -25,11 +26,11 @@ and	O
 use	O
 that	O
 to	O
-circumvent	I-TTPs
+circumvent	B-TTPs
 the	I-TTPs
 filter	I-TTPs
-or	I-TTPs
-cause	I-TTPs
+or	O
+cause	B-TTPs
 the	I-TTPs
 classifying	I-TTPs
 mechanism	I-TTPs

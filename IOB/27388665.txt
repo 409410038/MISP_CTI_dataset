@@ -5,6 +5,6 @@ computername	O
 -	O
 (	O
 GetComputerNameW	B-Application
-","	O
+,	O
 GetComputerNameA	B-Application
 )	O

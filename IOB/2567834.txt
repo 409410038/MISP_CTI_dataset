@@ -8,7 +8,7 @@ FortiOS	I-Application
 6.0.0	I-Application
 to	I-Application
 6.0.4	I-Application
-","	I-Application
+,	I-Application
 5.6.0	I-Application
 to	I-Application
 5.6.8	I-Application
@@ -19,15 +19,15 @@ to	I-Application
 and	O
 FortiProxy	B-Application
 2.0.0	I-Application
-","	I-Application
+,	I-Application
 1.2.0	I-Application
 to	I-Application
 1.2.8	I-Application
-","	I-Application
+,	I-Application
 1.1.0	I-Application
 to	I-Application
 1.1.6	I-Application
-","	I-Application
+,	I-Application
 1.0.0	I-Application
 to	I-Application
 1.0.7	I-Application

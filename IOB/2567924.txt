@@ -7,9 +7,9 @@ user-controllable	I-TTPs
 input	I-TTPs
 to	I-TTPs
 probe	I-TTPs
-","	I-TTPs
+,	I-TTPs
 attack	I-TTPs
-","	I-TTPs
+,	I-TTPs
 and	I-TTPs
 inject	I-TTPs
 data	I-TTPs
@@ -17,7 +17,7 @@ into	I-TTPs
 the	I-TTPs
 XML	I-TTPs
 database	I-TTPs
-","	O
+,	O
 using	O
 techniques	O
 similar	O
@@ -35,7 +35,7 @@ unauthorized	O
 viewing	O
 of	O
 data	O
-","	O
+,	O
 bypassing	B-TTPs
 authentication	I-TTPs
 or	O
@@ -47,7 +47,7 @@ direct	O
 XML	O
 database	O
 access	O
-","	O
+,	O
 and	O
 possibly	O
 altering	O
@@ -73,6 +73,7 @@ input	I-Vulnerability
 not	I-Vulnerability
 properly	I-Vulnerability
 sanitized	I-Vulnerability
+.	O
 Use	O
 of	O
 custom	O

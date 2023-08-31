@@ -7,6 +7,6 @@ window	I-TTPs
 -	O
 (	O
 T1143	B-TTPs
-","	O
+,	O
 CreateProcessInternalW	B-Application
 )	O

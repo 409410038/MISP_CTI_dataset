@@ -33,7 +33,7 @@ obfuscation	B-TTPs
 and	O
 evasion	B-TTPs
 mechanisms	I-TTPs
-","	O
+,	O
 as	O
 well	O
 as	O
@@ -56,11 +56,11 @@ GPOs	I-TTPs
 The	O
 present	O
 event	O
-","	O
+,	O
 compiled	O
 by	O
 CUDESO	B-Reporter
-","	O
+,	O
 has	O
 the	O
 advantage	O
@@ -77,7 +77,7 @@ a	O
 typical	O
 LockBit	B-Malware
 infection	O
-","	O
+,	O
 information	O
 that	O
 was	O

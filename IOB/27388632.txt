@@ -1,7 +1,7 @@
 TTP	O
 :	O
 T1082	B-TTPs
-","	O
+,	O
 short	O
 :	O
 System	B-TTPs

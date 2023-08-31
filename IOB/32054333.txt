@@ -1,13 +1,13 @@
 Hi	O
 Anders	O
-","	O
+,	O
 Following	O
 our	O
 conversation	O
 over	O
 the	O
 phone	O
-","	O
+,	O
 the	O
 attached	O
 invoice	O

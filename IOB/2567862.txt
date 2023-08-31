@@ -3,10 +3,11 @@ Overflow	I-TTPs
 via	I-TTPs
 Parameter	I-TTPs
 Expansion	I-TTPs
+.	O
 In	O
 this	O
 attack	O
-","	O
+,	O
 the	O
 target	O
 software	O
@@ -46,7 +47,7 @@ exceed	O
 some	O
 internal	O
 limit	O
-","	O
+,	O
 thereby	O
 creating	O
 a	O
@@ -70,7 +71,7 @@ controlled	O
 by	O
 the	O
 user	O
-","	O
+,	O
 but	O
 a	O
 later	O
@@ -85,7 +86,7 @@ erroneously	O
 considers	O
 the	O
 original	O
-","	O
+,	O
 not	O
 the	O
 expanded	O

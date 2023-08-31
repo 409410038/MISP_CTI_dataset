@@ -15,7 +15,7 @@ trust	I-TTPs
 between	I-TTPs
 email	I-TTPs
 accounts	I-TTPs
-","	O
+,	O
 as	O
 Cosmic	B-Malware
 Banker	I-Malware

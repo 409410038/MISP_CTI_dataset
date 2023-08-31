@@ -2,6 +2,7 @@ Poison	B-TTPs
 Web	I-TTPs
 Service	I-TTPs
 Registry	I-TTPs
+.	O
 SOA	O
 and	O
 Web	O
@@ -14,11 +15,11 @@ to	O
 perform	O
 look	O
 up	O
-","	O
+,	O
 get	O
 schema	O
 information	O
-","	O
+,	O
 and	O
 metadata	O
 about	O
@@ -43,7 +44,7 @@ a	I-TTPs
 malicious	I-TTPs
 service	I-TTPs
 provider	I-TTPs
-","	O
+,	O
 provide	B-TTPs
 incorrect	I-TTPs
 information	I-TTPs
@@ -59,7 +60,7 @@ denial	B-TTPs
 of	I-TTPs
 service	I-TTPs
 )	O
-","	O
+,	O
 and	O
 delete	O
 information	O
@@ -74,7 +75,7 @@ used	O
 to	O
 virtualize	O
 services	O
-","	O
+,	O
 provide	O
 return	O
 addresses	O
@@ -82,9 +83,9 @@ and	O
 other	O
 routing	O
 information	O
-","	O
+,	O
 however	O
-","	O
+,	O
 unless	O
 the	O
 WS-Addressing	O
@@ -115,7 +116,7 @@ to	I-TTPs
 any	I-TTPs
 service	I-TTPs
 providers	I-TTPs
-","	O
+,	O
 and	O
 the	O
 ability	O

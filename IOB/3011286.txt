@@ -33,7 +33,7 @@ UNC1151	B-ThreatActor
 Throughout	O
 our	O
 analysis	O
-","	O
+,	O
 it	O
 has	O
 become	O
@@ -50,7 +50,7 @@ skills	O
 have	O
 steadily	O
 increased	O
-","	O
+,	O
 enhancing	O
 the	O
 effects	O

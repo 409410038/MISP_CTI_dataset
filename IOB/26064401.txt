@@ -6,9 +6,9 @@ Copyright	O
 Hybrid	O
 Analysis	O
 GmbH	O
-","	O
+,	O
 All	O
 Rights	O
 Reserved	O
-","	O
+,	O
 www.payload-security.com	O

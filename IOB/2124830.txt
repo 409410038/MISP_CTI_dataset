@@ -15,7 +15,7 @@ https	O
 :	O
 //www.softether.org	O
 )	O
-","	O
+,	O
 advertised	O
 as	O
 ``	O
@@ -36,7 +36,7 @@ VPN	O
 software	O
 and	O
 [	O
-??	O
+…	O
 ]	O
 is	O
 an	O

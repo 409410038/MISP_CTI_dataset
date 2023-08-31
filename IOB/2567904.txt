@@ -5,6 +5,7 @@ in	I-TTPs
 syslog	I-TTPs
 (	I-TTPs
 )	I-TTPs
+.	O
 This	O
 attack	O
 targets	O
@@ -41,7 +42,7 @@ is	O
 a	O
 common	O
 problem	O
-","	O
+,	O
 and	O
 many	O
 public	O
@@ -84,7 +85,7 @@ Syslog	O
 syslog	O
 (	O
 LOG_ERR	O
-","	O
+,	O
 cmdBuf	O
 )	O
 ;	O

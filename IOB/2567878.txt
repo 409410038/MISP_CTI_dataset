@@ -9,6 +9,7 @@ to	I-TTPs
 Obtain	I-TTPs
 Sensitive	I-TTPs
 Data	I-TTPs
+.	O
 This	O
 attack	O
 utilizes	B-TTPs
@@ -104,7 +105,7 @@ from	O
 a	O
 security	O
 standpoint	O
-","	O
+,	O
 there	O
 frequently	O
 is	O
@@ -114,7 +115,7 @@ identity	O
 security	O
 mechanism	O
 deployed	O
-","	O
+,	O
 so	O
 Rest	O
 developers	O
@@ -131,7 +132,7 @@ In	O
 large	O
 data	O
 centers	O
-","	O
+,	O
 SSL	B-Protocol
 is	O
 typically	O
@@ -146,10 +147,10 @@ network	O
 at	O
 the	O
 firewall	O
-","	O
+,	O
 load	O
 balancer	O
-","	O
+,	O
 or	O
 router	O
 .	O
@@ -174,7 +175,7 @@ or	O
 encrypted	O
 the	O
 values	O
-","	O
+,	O
 but	O
 this	O
 is	O
@@ -194,7 +195,7 @@ to	O
 snapshot	B-TTPs
 the	I-TTPs
 credentials	I-TTPs
-","	O
+,	O
 such	O
 as	O
 username	O
@@ -217,7 +218,7 @@ attacker	O
 gathers	O
 these	O
 credentials	O
-","	O
+,	O
 they	O
 can	O
 submit	O
@@ -243,7 +244,7 @@ on	O
 the	O
 client	O
 side	O
-","	O
+,	O
 beyond	O
 what	O
 is	O
@@ -257,7 +258,7 @@ once	O
 this	O
 is	O
 compromised	O
-","	O
+,	O
 then	O
 this	O
 is	O
@@ -331,7 +332,7 @@ Utilize	O
 defense	O
 in	O
 depth	O
-","	O
+,	O
 do	O
 not	O
 rely	O

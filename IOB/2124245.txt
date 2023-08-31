@@ -1,8 +1,9 @@
 Description	O
 :	O
-Deletes	O
-security	O
-log	O
+Deletes	B-TTPs
+security	I-TTPs
+log	I-TTPs
+.	O
 cmd.exe	B-Application
 /c	O
 wevtutil	B-Application
