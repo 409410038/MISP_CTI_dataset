@@ -1,0 +1,7 @@
+Remote	B-TTPs
+Task	I-TTPs
+Creation	I-TTPs
+via	O
+ATSVC	B-Application
+Named	O
+Pipe	O

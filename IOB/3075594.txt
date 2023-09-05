@@ -1,0 +1,4 @@
+Adversary	O
+scans	B-TTPs
+Uber	I-TTPs
+infrastructure	I-TTPs

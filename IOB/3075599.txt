@@ -1,0 +1,4 @@
+Access	B-TTPs
+to	I-TTPs
+Thycotic	I-TTPs
+PAM	I-TTPs

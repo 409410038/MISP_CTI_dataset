@@ -1,0 +1,3 @@
+CrackMapExec	B-Application
+Process	O
+Patterns	O

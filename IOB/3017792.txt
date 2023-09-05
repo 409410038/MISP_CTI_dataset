@@ -1,0 +1,7 @@
+Accessing	O
+WinAPI	O
+in	O
+PowerShell	B-Application
+for	O
+Credentials	B-TTPs
+Dumping	I-TTPs

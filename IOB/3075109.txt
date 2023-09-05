@@ -1,0 +1,9 @@
+Acquisition	B-TTPs
+of	I-TTPs
+credentials	I-TTPs
+","	I-TTPs
+possibly	I-TTPs
+in	I-TTPs
+dark	I-TTPs
+forums	I-TTPs
+.	O

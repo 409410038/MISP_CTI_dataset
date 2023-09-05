@@ -1,0 +1,6 @@
+PowerShell	B-Application
+as	O
+a	O
+Service	O
+in	O
+Registry	O

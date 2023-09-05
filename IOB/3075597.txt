@@ -1,0 +1,6 @@
+PowerShell	B-TTPs
+script	I-TTPs
+contained	I-TTPs
+creds	I-TTPs
+in	I-TTPs
+clear-text	I-TTPs

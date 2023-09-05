@@ -1,0 +1,9 @@
+PowerShell	B-TTPs
+scripts	I-TTPs
+in	I-TTPs
+Network	I-TTPs
+share	I-TTPs
+(	I-TTPs
+credential	I-TTPs
+leak	I-TTPs
+)	I-TTPs

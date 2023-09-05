@@ -1,0 +1,17 @@
+``	O
+GET	B-Protocol
+/ucbsync.php	B-Indicator
+?	I-Indicator
+cmd=syncfile	I-Indicator
+:	I-Indicator
+db_files/favicon.ico:137.184.181	I-Indicator
+[	I-Indicator
+.	I-Indicator
+]	I-Indicator
+252/	I-Indicator
+$	I-Indicator
+PWD|sh|	I-Indicator
+?	I-Indicator
+HTTP/1.0	B-Protocol
+''	O
+200	O

@@ -1,0 +1,7 @@
+Encoded	O
+PowerShell	B-Application
+Command	O
+Line	O
+Usage	O
+of	O
+ConvertTo-SecureString	O
