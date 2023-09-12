@@ -27,11 +27,11 @@ uses	O
 untrusted	B-Vulnerability
 input	I-Vulnerability
 to	O
-build	
+build	O
 command	O
 strings	O
 is	O
-vulnerable	
+vulnerable	O
 .	O
 An	O
 adversary	O

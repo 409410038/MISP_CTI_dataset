@@ -164,16 +164,16 @@ a	O
 way	O
 that	O
 would	O
-prevent	
+prevent	O
 the	O
 attackers	O
 '	O
-supplied	
+supplied	O
 data	O
 from	O
-controlling	
+controlling	O
 the	O
-structure	
+structure	O
 of	O
 the	O
 executed	O

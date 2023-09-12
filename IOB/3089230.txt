@@ -52,7 +52,7 @@ Exchange	B-Application
 security	O
 vulnerability	O
 ,	O
-i.e.	
+i.e.	O
 ,	O
 a	O
 0-day	B-Vulnerability

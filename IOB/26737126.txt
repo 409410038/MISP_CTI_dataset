@@ -1,7 +1,7 @@
 BitRat	B-Malware
 {	O
 ``	O
-Host	
+Host	O
 ''	O
 :	O
 ``	O

@@ -47,7 +47,7 @@ Cross	B-TTPs
 Site	I-TTPs
 Scripting	I-TTPs
 ,	O
-viz.	
+viz.	O
 ,	O
 arbitrary	B-TTPs
 code	I-TTPs

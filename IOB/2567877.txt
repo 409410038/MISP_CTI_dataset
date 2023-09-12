@@ -15,7 +15,7 @@ between	O
 two	O
 components	O
 (	O
-typically	
+typically	O
 client	O
 and	O
 server	O

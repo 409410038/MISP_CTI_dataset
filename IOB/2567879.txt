@@ -111,11 +111,11 @@ logout	O
 terminate	O
 their	O
 session	O
-after	
+after	O
 this	O
-period	
+period	O
 of	O
-inactivity	
+inactivity	O
 .	O
 If	O
 the	O

@@ -326,7 +326,7 @@ the	O
 threat	O
 of	O
 alternative	O
-method	
+method	O
 of	O
 data	B-TTPs
 encoding	I-TTPs

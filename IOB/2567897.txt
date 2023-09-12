@@ -58,7 +58,7 @@ is	O
 a	O
 filter	O
 that	O
-looks	
+looks	O
 for	O
 a	O
 trailing	O

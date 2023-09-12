@@ -179,7 +179,7 @@ in	O
 the	O
 database	O
 .	O
-Re-validate	
+Re-validate	O
 it	O
 prior	O
 to	O
@@ -204,6 +204,6 @@ as	O
 a	O
 command	O
 line	O
-argumentO	
+argument	O	
 )	O
 .	O

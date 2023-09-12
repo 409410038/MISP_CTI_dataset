@@ -71,20 +71,20 @@ be	O
 bypassed	O
 via	O
 an	O
-attacker-provided	
-signature	
+attacker-provided	O
+signature	O
 that	O
 makes	O
 it	O
-appear	
+appear	O
 that	O
 the	O
 legitimate	O
-authoritative	
+authoritative	O
 or	O
-reputable	
+reputable	O
 source	O
 provided	O
 the	O
-signature	
+signature	O
 .	O
