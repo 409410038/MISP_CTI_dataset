@@ -1,7 +1,0 @@
-Elastic	B-Application
-Kibana	I-Application
-server.js	I-Application
-Local	B-Vulnerability
-File	I-Vulnerability
-Inclusion	I-Vulnerability
-Vulnerability	I-Vulnerability

@@ -1,4 +1,0 @@
-HTTP	B-TTPs
-/etc/passwd	I-TTPs
-Access	I-TTPs
-Attempt	I-TTPs

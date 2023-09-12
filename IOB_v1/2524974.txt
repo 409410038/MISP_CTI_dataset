@@ -1,5 +1,0 @@
-Event	B-Application
-Manager	I-Application
-SQL	B-Vulnerability
-Injection	I-Vulnerability
-Vulnerability	I-Vulnerability

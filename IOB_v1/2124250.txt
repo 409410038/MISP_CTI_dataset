@@ -1,6 +1,0 @@
-<	O
-LockBit	B-Malware
-2.0	I-Malware
-Ransomware	I-Malware
-path	O
->	O

@@ -18,10 +18,10 @@ financial	O
 markets	O
 using	O
 Bitcoin	O
-","	O
+,	O
 USD	O
 Tether	O
-","	O
+,	O
 USDC	O
 and	O
 more	O

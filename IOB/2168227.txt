@@ -15,9 +15,9 @@ whois.psi-usa.info	O
 Registrar	O
 URL	O
 :	O
-http	B-Indicator
-:	I-Indicator
-//www.psi-usa.info	I-Indicator
+http	O
+:	O
+//www.psi-usa.info	O
 Updated	O
 Date	O
 :	O
@@ -49,9 +49,9 @@ Abuse	O
 Contact	O
 Email	O
 :	O
-domain-abuse	B-Indicator
-@	I-Indicator
-psi-usa.info	I-Indicator
+domain-abuse	O
+@	O
+psi-usa.info	O
 Registrar	O
 Abuse	O
 Contact	O

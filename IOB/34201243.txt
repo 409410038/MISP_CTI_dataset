@@ -32,8 +32,8 @@ in	O
 multiple	O
 attacks	O
 involving	O
-data	O
-wiping	O
+data	B-TTPs
+wiping	I-TTPs
 malware	O
 called	O
 CaddyWiper	B-Malware
@@ -65,10 +65,10 @@ bypasses	O
 the	O
 need	O
 for	O
-setting	O
-up	O
-a	O
-scheduled	B-TTPs
+setting	B-TTPs
+up	I-TTPs
+a	I-TTPs
+scheduled	I-TTPs
 task	I-TTPs
 in	O
 Windows	B-Application

@@ -112,7 +112,7 @@ Mutex	O
 ''	O
 :	O
 ``	O
-Remcos-HPUD4T	O
+Remcos-HPUD4T	B-Indicator
 ''	O
 ,	O
 ``	O

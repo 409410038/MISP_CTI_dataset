@@ -1,7 +1,0 @@
-SAP	B-Application
-Multiple	O
-Products	O
-HTTP	B-Vulnerability
-Request	I-Vulnerability
-Smuggling	I-Vulnerability
-Vulnerability	I-Vulnerability

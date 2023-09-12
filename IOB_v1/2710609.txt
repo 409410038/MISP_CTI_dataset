@@ -1,7 +1,0 @@
-Zend	B-Application
-Framework	I-Application
-Zend_XmlRpc	I-Application
-Class	I-Application
-Information	B-Vulnerability
-Disclosure	I-Vulnerability
-Vulnerability	I-Vulnerability

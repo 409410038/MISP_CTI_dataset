@@ -1,6 +1,0 @@
-%	O
-WINDIR	O
-%	O
-\system32\config\systemprofile\AppData\Roaming\microsoft\osc.exe	B-Application
--i127.0.0.1	O
--p8118	O

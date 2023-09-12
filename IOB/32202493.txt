@@ -112,7 +112,7 @@ Mutex	O
 ''	O
 :	O
 ``	O
-ssssssssssssssssssssssa-VBDY16	O
+ssssssssssssssssssssssa-VBDY16	B-Indicator
 ''	O
 ,	O
 ``	O

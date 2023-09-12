@@ -1,7 +1,0 @@
-WordPress	B-Application
-Social	I-Application
-Warfare	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

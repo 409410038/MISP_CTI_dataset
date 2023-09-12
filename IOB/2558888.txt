@@ -1,4 +1,4 @@
-Zip	B-Application
+Zip	O
 archive	O
 retrieved	O
 from	O

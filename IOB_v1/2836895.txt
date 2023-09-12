@@ -1,5 +1,0 @@
-Genexis	B-Application
-Platinum-4410	I-Application
-Information	B-Vulnerability
-Disclosure	I-Vulnerability
-Vulnerability	I-Vulnerability

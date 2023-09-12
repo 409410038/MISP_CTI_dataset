@@ -1,9 +1,0 @@
-F5	B-Application
-Traffic	I-Application
-Management	I-Application
-User	I-Application
-Interface	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

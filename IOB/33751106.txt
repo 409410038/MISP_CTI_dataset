@@ -17,10 +17,10 @@ because	O
 of	O
 different	O
 senders	O
-","	O
+,	O
 attachment	O
 names	O
-","	O
+,	O
 attachment	O
 hashes	O
 and	O
@@ -107,7 +107,7 @@ malicious	I-TTPs
 files	I-TTPs
 (	I-TTPs
 Javascript	I-TTPs
-","	I-TTPs
+,	I-TTPs
 batch	I-TTPs
 and	I-TTPs
 database	I-TTPs

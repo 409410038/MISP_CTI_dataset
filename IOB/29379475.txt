@@ -17,7 +17,7 @@ Mutex	O
 ''	O
 :	O
 ``	O
-6d38b3f5-33a1-41b7-a7f2-d8fe2b39	O
+6d38b3f5-33a1-41b7-a7f2-d8fe2b39	B-Indicator
 ''	O
 ,	O
 ``	O

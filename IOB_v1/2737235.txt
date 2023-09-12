@@ -1,5 +1,0 @@
-Layer5	B-Application
-Meshery	I-Application
-SQL	B-Vulnerability
-Injection	I-Vulnerability
-Vulnerability	I-Vulnerability

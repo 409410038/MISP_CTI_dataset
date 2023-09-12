@@ -27,7 +27,7 @@ For	O
 that	O
 ,	O
 the	O
-malware	B-TTPs
+malware	O
 is	O
 using	B-TTPs
 a	I-TTPs

@@ -1,6 +1,0 @@
-Joomla	B-Application
-!	I-Application
-HTTP	B-Protocol
-SQL	B-TTPs
-Injection	I-TTPs
-Attempt	O

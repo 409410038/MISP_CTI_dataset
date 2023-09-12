@@ -1,9 +1,0 @@
-TTP	O
-:	O
-T1031	B-TTPs
-","	O
-short	O
-:	O
-Modify	B-TTPs
-Existing	I-TTPs
-Service	I-TTPs

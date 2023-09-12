@@ -1,7 +1,0 @@
-Realtek	B-Application
-Jungle	I-Application
-SDK	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

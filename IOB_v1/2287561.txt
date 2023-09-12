@@ -1,7 +1,0 @@
-From	O
-title	O
-:	O
-Anibis	O
-[	O
-Guard-Protect	O
-]	O

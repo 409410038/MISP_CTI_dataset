@@ -1,5 +1,5 @@
-Malicious	O
-email	O
+Malicious	B-TTPs
+email	I-TTPs
 (	O
 Correo	O
 Micioso	O
@@ -13,15 +13,15 @@ Spanish	O
 Probably	O
 a	O
 malspam	B-TTPs
-because	
-un	O
-``	O
-.docx	B-Application
-''	O
-file	O
-seems	O
-attached	O
-to	O
-the	O
-email	O
+because	O
+un	B-TTPs
+``	I-TTPs
+.docx	I-TTPs
+''	I-TTPs
+file	I-TTPs
+seems	I-TTPs
+attached	I-TTPs
+to	I-TTPs
+the	I-TTPs
+email	I-TTPs
 .	O

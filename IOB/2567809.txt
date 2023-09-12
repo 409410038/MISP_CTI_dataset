@@ -7,9 +7,9 @@ Injection	I-TTPs
 .	O
 An	O
 attacker	O
-uses	O
-standard	O
-SQL	B-TTPs
+uses	B-TTPs
+standard	I-TTPs
+SQL	I-TTPs
 injection	I-TTPs
 methods	I-TTPs
 to	O
@@ -28,12 +28,12 @@ be	O
 done	O
 directly	O
 through	O
-misuse	O
-of	O
-directives	O
-such	O
-as	O
-MSSQL_xp_cmdshell	B-Application
+misuse	B-TTPs
+of	I-TTPs
+directives	I-TTPs
+such	I-TTPs
+as	I-TTPs
+MSSQL_xp_cmdshell	I-TTPs
 or	O
 indirectly	O
 through	O
@@ -43,13 +43,13 @@ data	I-TTPs
 into	I-TTPs
 the	I-TTPs
 database	I-TTPs
-that	O
-would	O
-be	O
-interpreted	O
-as	O
-shell	
-commands	O
+that	I-TTPs
+would	I-TTPs
+be	I-TTPs
+interpreted	I-TTPs
+as	I-TTPs
+shell	I-TTPs
+commands	I-TTPs
 .	O
 Sometime	O
 later	O
@@ -73,8 +73,8 @@ application	O
 )	O
 fetches	O
 the	O
-injected	B-TTPs
-data	I-TTPs
+injected	O
+data	O
 stored	O
 in	O
 the	O
@@ -87,20 +87,20 @@ as	O
 command	O
 line	O
 arguments	O
-without	O
-performing	O
-proper	O
-validation	O
+without	B-Vulnerability
+performing	I-Vulnerability
+proper	I-Vulnerability
+validation	I-Vulnerability
 .	O
 The	O
 malicious	O
 data	O
-escapes	
+escapes	O
 that	O
 data	O
-plane	
+plane	O
 by	O
-spawning	
+spawning	O	
 new	O
 commands	O
 to	O
@@ -112,20 +112,20 @@ host	O
 .	O
 The	O
 application	O
-does	O
-not	O
-properly	
-validate	
-data	O
-before	O
-storing	O
-in	O
-the	O
-database	O
-Backend	
+does	B-Vulnerability
+not	I-Vulnerability
+properly	I-Vulnerability	
+validate	I-Vulnerability
+data	I-Vulnerability
+before	I-Vulnerability
+storing	I-Vulnerability
+in	I-Vulnerability
+the	I-Vulnerability
+database	I-Vulnerability
+Backend	O
 application	O
-implicitly	
-trusts	
+implicitly	O
+trusts	O
 the	O
 data	O
 stored	O
@@ -138,40 +138,40 @@ is	O
 used	O
 on	O
 the	O
-backend	
+backend	O
 as	O
 a	O
 command	O
 line	O
-argument	
+argument	O
 .	O
 Disable	O
-MSSQL	
-xp_cmdshell	
-directive	
+MSSQL	O
+xp_cmdshell	O
+directive	O
 on	O
 the	O
 database	O
-Properly	
-validate	
+Properly	O
+validate	O
 the	O
 data	O
 (	O
-syntactically	
+syntactically	O
 and	O
-semantically	
+semantically	O
 )	O
 before	O
-writing	
+writing	O
 it	O
 to	O
 the	O
 database	O
 .	O
-Do	
+Do	O
 not	O
-implicitly	
-trust	
+implicitly	O
+trust	O
 the	O
 data	O
 stored	O
@@ -183,27 +183,27 @@ Re-validate
 it	O
 prior	O
 to	O
-usage	
+usage	O
 to	O
 make	O
-sure	
+sure	O
 that	O
 it	O
 is	O
-safe	
+safe	O
 to	O
 use	O
 in	O
 a	O
 given	O
-context	
+context	O
 (	O
-e.g	
+e.g	O
 .	O
 as	O
 a	O
 command	O
 line	O
-argument	
+argumentO	
 )	O
 .	O

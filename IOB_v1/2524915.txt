@@ -1,6 +1,0 @@
-Apache	B-Application
-Log4j	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

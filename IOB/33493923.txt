@@ -1,7 +1,7 @@
-%	O
-PROGRAMFILES	O
-%	O
-\\VMware	B-Application
+%	B-Application
+PROGRAMFILES	I-Application
+%	I-Application
+\\VMware	I-Application
 ''	I-Application
 VMware	I-Application
 View	I-Application
@@ -20,7 +20,7 @@ require	O
 )	O
 .exec	O
 (	O
-'cmd.exe	O
+'cmd.exe	B-Application
 '	O
 )	O
 ;	O

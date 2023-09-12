@@ -1,7 +1,7 @@
-%	O
-WINDIR	O
-%	O
-\system32\wbem\wmiprvse.exe	B-Application
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\system32\wbem\wmiprvse.exe	I-Application
 -secured	O
 -Embedding	O
 .	O
@@ -10,7 +10,7 @@ wscript.exe	B-Application
 :	O
 vbscript	O
 //b	O
-%	O
-APPDATA	O
-%	O
-\Microsoft\Templates\version.ini	B-Indicator
+%	B-Indicator
+APPDATA	I-Indicator
+%	I-Indicator
+\Microsoft\Templates\version.ini	I-Indicator

@@ -1,7 +1,0 @@
-Netgear	B-Application
-DGN	I-Application
-Device	I-Application
-Remote	B-Vulnerability
-Command	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

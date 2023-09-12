@@ -7,5 +7,5 @@ campaign	O
 distributing	O
 the	O
 AgenTesla	B-Malware
-stealer	O
+stealer	I-Malware
 .	O

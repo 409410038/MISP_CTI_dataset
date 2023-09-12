@@ -1,8 +1,8 @@
-A	O
-process	O
-created	O
-a	O
-hidden	B-TTPs
+A	B-TTPs
+process	I-TTPs
+created	I-TTPs
+a	I-TTPs
+hidden	I-TTPs
 window	I-TTPs
 -	O
 (	O

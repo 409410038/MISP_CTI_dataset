@@ -1,9 +1,0 @@
-ZOHOcorp	B-Application
-ManageEngine	I-Application
-Improper	B-Vulnerability
-Authentication	I-Vulnerability
-Vulnerability	I-Vulnerability
-client-to-server	O
-code-execution	O
-vulnerability	O
-THREAT	O

@@ -1,5 +1,0 @@
-VPNFilter	B-Malware
-Control	B-TTPs
-and	I-TTPs
-Command	I-TTPs
-Traffic	O

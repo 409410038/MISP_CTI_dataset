@@ -4,8 +4,8 @@ host	O
 for	O
 which	O
 no	O
-DNS	B-Application
-query	I-Application
+DNS	O
+query	O
 was	O
 performed	O
 -	O

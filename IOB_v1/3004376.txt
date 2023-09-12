@@ -1,5 +1,0 @@
-Atlassian	B-Application
-Confluence	I-Application
-Directory	B-Vulnerability
-Traversal	I-Vulnerability
-Vulnerability	I-Vulnerability

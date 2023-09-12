@@ -6,8 +6,8 @@ Stealer	I-Malware
 based	O
 on	O
 the	O
-PE	B-Application
-section	I-Application
+PE	O
+section	O
 name	O
 LLCPPC	B-Indicator
 .	O

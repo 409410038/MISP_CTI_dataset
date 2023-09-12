@@ -1,8 +1,0 @@
-Microsoft	B-Application
-Open	I-Application
-Management	I-Application
-Infrastructure	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

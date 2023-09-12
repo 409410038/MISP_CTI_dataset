@@ -1,6 +1,0 @@
-From	O
-title	O
-:	O
-403	O
--	O
-Forbidden	O

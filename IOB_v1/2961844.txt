@@ -1,6 +1,0 @@
-NNP	Zyxel	B-Application
-NNP	Multiple	O
-NNP	Products	O
-NNP	Command	B-Vulnerability
-NNP	Injection	I-Vulnerability
-NNP	Vulnerability	I-Vulnerability

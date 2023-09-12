@@ -1,3 +1,0 @@
-Unicc	B-Application
-QR	I-Application
-Scanner	I-Application

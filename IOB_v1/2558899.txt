@@ -1,5 +1,0 @@
-fresh.exe	B-Indicator
-(	O
-Snake	B-Malware
-Keylogger	I-Malware
-)	O

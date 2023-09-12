@@ -1,6 +1,6 @@
-%	O
-WINDIR	O
-%	O
-\system32\config\systemprofile\AppData\Roaming\microsoft\osc.exe	B-Application
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\system32\config\systemprofile\AppData\Roaming\microsoft\osc.exe	I-Application
 -i127.0.0.1	O
 -p8118	O

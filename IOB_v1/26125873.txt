@@ -1,6 +1,0 @@
-Use	O
-of	O
-ZIP	B-Application
-compressed	O
-files	O
-	

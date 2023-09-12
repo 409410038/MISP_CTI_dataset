@@ -50,8 +50,8 @@ I	O
 created	O
 a	O
 simple	O
-YARA	B-Application
-rule	I-Application
+YARA	O
+rule	O
 on	O
 VT	B-Application
 :	O

@@ -1,8 +1,0 @@
-MobileIron	B-Application
-Core	I-Application
-and	I-Application
-Connector	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

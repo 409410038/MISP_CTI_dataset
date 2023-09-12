@@ -1,7 +1,0 @@
-From	O
-title	O
-:	O
-Welcome	O
-to	O
-OpenResty	O
-!	O

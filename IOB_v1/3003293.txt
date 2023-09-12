@@ -1,8 +1,0 @@
-Cisco	B-Application
-HyperFlex	I-Application
-HX	I-Application
-Handling	O
-Remote	B-Vulnerability
-Command	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

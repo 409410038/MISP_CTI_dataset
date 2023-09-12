@@ -1,8 +1,0 @@
-TTP	O
-:	O
-T1204	B-TTPs
-","	O
-short	O
-:	O
-User	B-TTPs
-Execution	I-TTPs

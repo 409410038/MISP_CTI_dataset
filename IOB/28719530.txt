@@ -1,7 +1,7 @@
 BlackCat/ALPHV	B-Malware
-steals	O
-victim	O
-data	O
+steals	B-TTPs
+victim	I-TTPs
+data	I-TTPs
 prior	O
 to	O
 the	O

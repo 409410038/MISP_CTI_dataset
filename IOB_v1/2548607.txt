@@ -1,7 +1,0 @@
-GPON	B-Application
-Home	I-Application
-Routers	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

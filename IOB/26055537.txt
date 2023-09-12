@@ -11,12 +11,12 @@ tokens=	O
 in	O
 (	O
 'wevtutil.exe	B-Application
-el	I-Application
+el	O
 '	O
 )	O
 DO	O
 wevtutil.exe	B-Application
-cl	I-Application
+cl	O
 \	O
 ''	O
 %	O

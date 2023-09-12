@@ -1,9 +1,9 @@
 Checks	O
 for	O
 the	O
-Locally	B-Application
-Unique	I-Application
-Identifier	I-Application
+Locally	O
+Unique	O
+Identifier	O
 on	O
 the	O
 system	O

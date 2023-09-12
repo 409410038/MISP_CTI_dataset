@@ -1,8 +1,0 @@
-From	O
-title	O
-:	O
-Attention	O
-Required	O
-!	O
-|	O
-Cloudflare	B-Application

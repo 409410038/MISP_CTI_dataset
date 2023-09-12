@@ -5,7 +5,7 @@ specific	O
 strings	O
 send	O
 through	O
-ICMP	B-Application
+ICMP	B-Protocol
 by	O
 the	O
 malware	B-TTPs

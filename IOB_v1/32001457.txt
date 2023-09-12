@@ -1,8 +1,0 @@
-IOC	O
-about	O
-a	O
-malspam	B-TTPs
-campaign	O
-spreading	O
-FormBook	B-Malware
-.	O

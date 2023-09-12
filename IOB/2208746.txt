@@ -41,8 +41,8 @@ the	O
 VMware	B-Application
 App	I-Application
 Control	I-Application
-administration	O
-interface	O
+administration	I-Application
+interface	I-Application
 may	O
 be	O
 able	O

@@ -1,5 +1,5 @@
-64-bit	B-Application
-DLL	I-Application
+64-bit	O
+DLL	O
 (	O
 hidden	O
 flag	O

@@ -1,7 +1,0 @@
-Fortinet	B-Application
-FortiOS	I-Application
-SSL	I-Application
-VPN	I-Application
-Path	B-Vulnerability
-Traversal	I-Vulnerability
-Vulnerability	I-Vulnerability

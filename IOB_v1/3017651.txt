@@ -1,5 +1,0 @@
-Process	B-TTPs
-Dump	I-TTPs
-via	I-TTPs
-Comsvcs	I-TTPs
-DLL	I-TTPs

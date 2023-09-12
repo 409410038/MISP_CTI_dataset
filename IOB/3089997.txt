@@ -1,6 +1,6 @@
 From	O
 title	O
 :	O
-S?kums	O
+Sākums	O
 -	O
 Latvenergo	O

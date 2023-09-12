@@ -1,7 +1,0 @@
-Operation	B-Application
-bridge	I-Application
-Manager	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

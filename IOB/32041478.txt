@@ -27,7 +27,7 @@ LoLBins	B-TTPs
 ,	O
 knowledge	O
 of	O
-encryption	O
+encryption	B-TTPs
 techniques	O
 (	O
 ChaCha20	O

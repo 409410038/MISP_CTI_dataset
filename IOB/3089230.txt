@@ -4,7 +4,7 @@ beginning	O
 of	O
 August	O
 2022	O
-","	O
+,	O
 while	O
 doing	O
 security	O
@@ -13,7 +13,7 @@ monitoring	O
 incident	O
 response	O
 services	O
-","	O
+,	O
 GTSC	B-Reporter
 SOC	I-Reporter
 team	I-Reporter
@@ -25,7 +25,7 @@ infrastructure	O
 was	O
 being	O
 attacked	O
-","	O
+,	O
 specifically	O
 to	O
 their	O
@@ -36,7 +36,7 @@ application	O
 During	O
 the	O
 investigation	O
-","	O
+,	O
 GTSC	B-Reporter
 Blue	I-Reporter
 Team	I-Reporter
@@ -51,13 +51,13 @@ unpublished	O
 Exchange	B-Application
 security	O
 vulnerability	O
-","	O
+,	O
 i.e.	
-","	O
+,	O
 a	O
 0-day	B-Vulnerability
 vulnerability	I-Vulnerability
-","	O
+,	O
 thus	O
 immediately	O
 came	O
@@ -72,7 +72,7 @@ At	O
 the	O
 same	O
 time	O
-","	O
+,	O
 Red	B-Reporter
 Team	I-Reporter
 experts	I-Reporter
@@ -100,7 +100,7 @@ previous	O
 1-day	B-Vulnerability
 Exchange	I-Vulnerability
 exploit	I-Vulnerability
-","	O
+,	O
 the	O
 RedTeam	B-Reporter
 has	O
@@ -109,20 +109,20 @@ great	O
 understanding	O
 of	O
 Exchange	B-Application
-??	O
+’	O
 s	O
 code	O
 flows	O
 and	O
 processing	O
 mechanisms	O
-","	O
+,	O
 therefore	O
 research	O
 time	O
 was	O
 reduced	O
-","	O
+,	O
 and	O
 the	O
 vulnerability	O
@@ -181,13 +181,13 @@ soon	O
 as	O
 possible	O
 .	O
-ZDI	O
+ZDI	B-Reporter
 verified	O
 and	O
 acknowledged	O
 2	O
 bugs	O
-","	O
+,	O
 whose	O
 CVSS	O
 scores	O
@@ -195,7 +195,7 @@ are	O
 8.8	O
 and	O
 6.3	O
-","	O
+,	O
 concerning	O
 the	O
 exploit	O
@@ -206,7 +206,7 @@ However	O
 up	O
 to	O
 now	O
-","	O
+,	O
 GTSC	B-Reporter
 has	O
 seen	O
@@ -221,7 +221,7 @@ problem	O
 After	O
 careful	O
 testing	O
-","	O
+,	O
 we	O
 confirmed	O
 that	O
@@ -251,7 +251,7 @@ from	O
 Microsoft	O
 is	O
 available	O
-","	O
+,	O
 we	O
 publish	O
 this	O

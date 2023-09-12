@@ -12,9 +12,9 @@ malware	O
 The	O
 attack	O
 attempt	O
-involves	O
-a	O
-crafted	O
-Excel	B-Application
-attachment	O
+involves	B-TTPs
+a	I-TTPs
+crafted	I-TTPs
+Excel	I-TTPs
+attachment	I-TTPs
 .	O

@@ -1,6 +1,0 @@
-From	O
-title	O
-:	O
-Apple	O
-iPhone	O
-13	O

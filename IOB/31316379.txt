@@ -10,10 +10,10 @@ environments	I-Application
 high	O
 knowledge	O
 of	O
-living	O
-off	O
-the	O
-land	O
+living	B-TTPs
+off	I-TTPs
+the	I-TTPs
+land	I-TTPs
 techniques	O
 ,	O
 high	O

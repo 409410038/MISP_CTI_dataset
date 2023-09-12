@@ -1,6 +1,6 @@
 Detects	O
-scheduled	O
-task	O
+scheduled	B-TTPs
+task	I-TTPs
 pattern	O
 found	O
 in	O

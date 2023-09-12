@@ -1,8 +1,8 @@
-Stopped	O
-Application	O
-Layer	O
-Gateway	O
-service	O
+Stopped	B-TTPs
+Application	I-TTPs
+Layer	I-TTPs
+Gateway	I-TTPs
+service	I-TTPs
 -	O
 (	O
 T1031	B-TTPs

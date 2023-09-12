@@ -1,5 +1,0 @@
-Apache	B-Application
-Shiro	I-Application
-Improper	B-Vulnerability
-Authentication	B-Vulnerability
-Vulnerability	I-Vulnerability

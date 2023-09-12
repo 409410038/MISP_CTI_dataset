@@ -1,6 +1,0 @@
-WordPress	B-Application
-Login	I-Application
-Brute	B-TTPs
-Force	I-TTPs
-Attack	O
-brute-force	B-TTPs

@@ -50,9 +50,9 @@ input	I-Vulnerability
 An	O
 attacker	O
 could	O
-exploit	O
-this	O
-vulnerability	O
+exploit	B-TTPs
+this	I-TTPs
+vulnerability	I-TTPs
 by	O
 sending	B-TTPs
 malicious	I-TTPs
@@ -88,7 +88,7 @@ shell	I-TTPs
 as	I-TTPs
 root	I-TTPs
 .	O
-Cisco	B-Application
+Cisco	B-Reporter
 has	O
 released	O
 firmware	O

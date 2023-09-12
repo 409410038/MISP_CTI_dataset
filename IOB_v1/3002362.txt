@@ -1,6 +1,0 @@
-Apache	B-Application
-APISIX	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

@@ -1,5 +1,0 @@
-TOTOLINK	B-Application
-EX200	I-Application
-Command	B-Vulnerability
-Injection	I-Vulnerability
-Vulnerability	I-Vulnerability

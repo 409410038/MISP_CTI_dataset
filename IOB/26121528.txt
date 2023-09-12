@@ -14,7 +14,7 @@ with	O
 fake	B-TTPs
 double	I-TTPs
 extensions	I-TTPs
-(	O
-filename.pdf.exe	B-Indicator
-)	O
+(	I-TTPs
+filename.pdf.exe	I-TTPs
+)	I-TTPs
 .	O

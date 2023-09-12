@@ -1,6 +1,0 @@
-From	O
-title	O
-:	O
-Domain	O
-Default	O
-page	O

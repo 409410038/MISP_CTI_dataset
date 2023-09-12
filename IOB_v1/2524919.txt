@@ -1,5 +1,0 @@
-F5	B-Application
-BIG-IP	I-Application
-Authentication	B-Vulnerability
-Bypass	I-Vulnerability
-Vulnerability	I-Vulnerability

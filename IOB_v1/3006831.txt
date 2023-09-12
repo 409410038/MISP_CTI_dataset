@@ -1,6 +1,0 @@
-Kramerav	B-Application
-VIAware	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

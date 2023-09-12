@@ -39,7 +39,7 @@ this	O
 as	O
 the	O
 malicious	O
-loader	O
+loader	B-Malware
 is	O
 given	O
 the	O

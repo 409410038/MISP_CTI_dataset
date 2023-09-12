@@ -1,7 +1,7 @@
 cmd.exe	B-Application
 /Q	O
 /c	O
-start	O
+start	B-Application
 c	B-Indicator
 :	I-Indicator
 \stage1.exe	I-Indicator

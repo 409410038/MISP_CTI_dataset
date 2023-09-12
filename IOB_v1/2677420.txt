@@ -1,4 +1,0 @@
-Bolivia	O
-Plurinational	O
-State	O
-Of	O

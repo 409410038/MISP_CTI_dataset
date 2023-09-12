@@ -5,9 +5,9 @@ were	O
 found	O
 in	O
 the	O
-process	B-Application
-memory	I-Application
-dump	I-Application
+process	O
+memory	O
+dump	O
 -	O
 (	O
 ioc	O

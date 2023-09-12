@@ -1,5 +1,0 @@
-Cleartext	B-Vulnerability
-Storage	I-Vulnerability
-of	I-Vulnerability
-Sensitive	I-Vulnerability
-Information	I-Vulnerability

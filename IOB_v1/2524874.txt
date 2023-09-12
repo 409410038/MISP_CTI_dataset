@@ -1,5 +1,0 @@
-Buffalo	B-Application
-WSR-2533DHPL2	I-Application
-Path	B-Vulnerability
-Traversal	I-Vulnerability
-Vulnerability	I-Vulnerability

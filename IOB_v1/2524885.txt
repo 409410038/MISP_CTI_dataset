@@ -1,7 +1,0 @@
-Spring	B-Application
-Cloud	I-Application
-SPEL	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

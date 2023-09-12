@@ -1,8 +1,8 @@
 High	O
 knowledge	O
 of	O
-social	O
-engineering	O
+social	B-TTPs
+engineering	I-TTPs
 techniques	O
 ,	O
 knowledge	O

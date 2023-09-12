@@ -1,7 +1,0 @@
-Apache	B-Application
-HTTP	B-Protocol
-Server	I-Protocol
-Server-Side	B-Vulnerability
-Request	I-Vulnerability
-Forgery	I-Vulnerability
-Vulnerability	I-Vulnerability

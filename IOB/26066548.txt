@@ -16,8 +16,8 @@ Aviation	O
 stakeholder	O
 .	O
 Malware	B-TTPs
-posed	O
-as	O
-an	O
-.xlsx.rar	B-Application
-file	O
+posed	I-TTPs
+as	I-TTPs
+an	I-TTPs
+.xlsx.rar	I-TTPs
+file	I-TTPs

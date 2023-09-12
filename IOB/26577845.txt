@@ -88,7 +88,7 @@ as	O
 part	O
 of	O
 a	O
-ransomware	B-Malware
+ransomware	O
 family1	O
 ,	O
 frequently	O
@@ -96,8 +96,8 @@ changing	O
 obfuscation	B-TTPs
 techniques	O
 to	O
-avoid	O
-detection	O
-and	O
-prevention	O
+avoid	B-TTPs
+detection	I-TTPs
+and	I-TTPs
+prevention	I-TTPs
 .	O

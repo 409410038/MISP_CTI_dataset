@@ -1,7 +1,7 @@
-%	O
-WINDIR	O
-%	O
-\System32\cmd.exe	B-Application
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\System32\cmd.exe	I-Application
 /q	O
 /c	O
 echo	B-Application

@@ -20,6 +20,6 @@ targeted	O
 or	O
 infected	O
 with	O
-mercenary	O
-spyware	B-Malware
+mercenary	B-Malware
+spyware	I-Malware
 .	O

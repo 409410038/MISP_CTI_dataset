@@ -14,7 +14,7 @@ minidump	B-Application
 to	O
 dump	O
 the	O
-LSASS.exe	B-Indicator
+LSASS.exe	B-Application
 process	O
 and	O
 retrieve	O

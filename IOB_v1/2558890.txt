@@ -1,6 +1,0 @@
-Windows	B-Application
-shortcut	O
-contained	O
-in	O
-ISO	B-Application
-file	O

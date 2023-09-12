@@ -1,4 +1,0 @@
-wmic	B-Application
-csproduct	O
-get	O
-UUID	O

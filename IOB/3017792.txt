@@ -1,7 +1,7 @@
-Accessing	O
-WinAPI	O
-in	O
-PowerShell	B-Application
+Accessing	B-TTPs
+WinAPI	I-TTPs
+in	I-TTPs
+PowerShell	I-TTPs
 for	O
 Credentials	B-TTPs
 Dumping	I-TTPs

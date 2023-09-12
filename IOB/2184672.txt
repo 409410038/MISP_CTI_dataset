@@ -15,5 +15,5 @@ C	O
 2020	O
 -	O
 2022	O
-KDU	B-Application
+KDU	O
 Project	O

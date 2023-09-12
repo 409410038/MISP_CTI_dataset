@@ -7,7 +7,7 @@ APT	I-ThreatActor
 leverages	O
 Windows	B-Application
 Update	I-Application
-client	O
+client	I-Application
 ,	O
 GitHub	B-Application
 in	O

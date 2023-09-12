@@ -1,7 +1,7 @@
 <	O
 !	O
 --	O
-HTML	B-Application
+HTML	O
 Encryption	O
 provided	O
 by	O

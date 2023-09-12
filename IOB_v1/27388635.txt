@@ -1,8 +1,0 @@
-Queries	O
-for	O
-the	O
-computername	O
--	O
-(	O
-GetComputerNameW	B-Application
-)	O

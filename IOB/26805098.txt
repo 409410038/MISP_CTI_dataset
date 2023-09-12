@@ -27,7 +27,7 @@ zmswatch	O
 /dev/null	O
 ;	O
 then	O
-echo	O
+echo	B-Application
 ``	O
 running	O
 ''	O

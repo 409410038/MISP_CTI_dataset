@@ -1,8 +1,0 @@
-TTP	O
-:	O
-T1143	B-TTPs
-","	O
-short	O
-:	O
-Hidden	B-TTPs
-Window	I-TTPs

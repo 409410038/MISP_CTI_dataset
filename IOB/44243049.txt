@@ -2,7 +2,7 @@ A	O
 list	O
 of	O
 command-and-control	B-TTPs
-servers	O
+servers	I-TTPs
 potentially	O
 used	O
 in	O

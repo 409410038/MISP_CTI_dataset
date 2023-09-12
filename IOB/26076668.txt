@@ -179,10 +179,10 @@ windows	B-Application
 domains	O
 by	O
 abusing	B-TTPs
-Active	B-TTPs
-Directory	B-TTPs
-group	B-TTPs
-policies	B-TTPs
+Active	I-TTPs
+Directory	I-TTPs
+group	I-TTPs
+policies	I-TTPs
 .	O
 In	O
 August	O

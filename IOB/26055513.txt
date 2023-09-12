@@ -32,7 +32,7 @@ Notably	O
 they	O
 use	O
 multiple	O
-extortion	O
+extortion	B-TTPs
 techniques	O
 in	O
 some	O
@@ -64,5 +64,5 @@ denial-of-service	B-TTPs
 (	B-TTPs
 DDoS	B-TTPs
 )	B-TTPs
-attacks	B-TTPs
+attacks	O
 .	O

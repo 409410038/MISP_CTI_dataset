@@ -205,7 +205,9 @@ gmail.com	O
 Information	O
 related	O
 to	O
-'134.119.176.0/20AS29066'	B-Indicator
+'	O
+134.119.176.0	B-Indicator
+/20AS29066'	O
 route	O
 :	O
 134.119.176.0/20	B-Indicator

@@ -5,7 +5,7 @@ Intelligence	I-Reporter
 (	I-Reporter
 PTI	I-Reporter
 )	I-Reporter
-team	O
+team	I-Reporter
 has	O
 assembled	O
 this	O

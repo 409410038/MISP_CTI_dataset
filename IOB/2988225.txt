@@ -12,11 +12,11 @@ these	O
 attacks	O
 through	O
 its	O
-”	B-Malware
-TeslaGun	I-Malware
-”	I-Malware
-control	I-Malware
-panel	I-Malware
+”	O
+TeslaGun	B-Malware
+”	O
+control	O
+panel	O
 .	O
 The	O
 PRODAFT	B-Reporter
@@ -25,7 +25,7 @@ Intelligence	I-Reporter
 (	I-Reporter
 PTI	I-Reporter
 )	I-Reporter
-team	O
+team	I-Reporter
 identified	O
 the	O
 group	O

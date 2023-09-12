@@ -1,9 +1,0 @@
-Anmei	B-Application
-Digital	I-Application
-Hotel	I-Application
-Broadband	I-Application
-OS	I-Application
-Remote	B-Vulnerability
-Command	I-Vulnerability
-Injection	I-Vulnerability
-Vulnerability	I-Vulnerability

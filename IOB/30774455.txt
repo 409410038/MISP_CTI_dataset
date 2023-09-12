@@ -14,8 +14,8 @@ MS	I-TTPs
 Office	I-TTPs
 Word	I-TTPs
 documents	I-TTPs
-,	O
-leveraging	B-TTPs
+,	I-TTPs
+leveraging	I-TTPs
 document	I-TTPs
 template	I-TTPs
 injection	I-TTPs

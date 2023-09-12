@@ -28,7 +28,7 @@ Overall	O
 entropy	O
 of	O
 this	O
-PE	B-Application
+PE	O
 file	O
 is	O
 high	O

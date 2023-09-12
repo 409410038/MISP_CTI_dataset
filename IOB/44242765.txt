@@ -5,9 +5,9 @@ a	O
 campaign	O
 distributing	O
 FormBook	B-Malware
-involving	O
-a	O
-crafted	O
-Excel	B-Application
-file	O
+involving	B-TTPs
+a	I-TTPs
+crafted	I-TTPs
+Excel	I-TTPs
+file	I-TTPs
 .	O

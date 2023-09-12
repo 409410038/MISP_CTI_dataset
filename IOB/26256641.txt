@@ -6,9 +6,9 @@ the	O
 activity	O
 of	O
 an	O
-Iranian-aligned	O
-threat	O
-actor	O
+Iranian-aligned	B-ThreatActor
+threat	I-ThreatActor
+actor	I-ThreatActor
 operating	O
 in	O
 the	O

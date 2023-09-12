@@ -9,7 +9,7 @@ Delphi	O
 knowledge	O
 ,	O
 Advance	O
-PE	B-Application
+PE	O
 architecture	O
 knowledge	O
 ,	O

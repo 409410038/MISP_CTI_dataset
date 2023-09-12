@@ -17,7 +17,7 @@ Get-ADComputer	O
 s	O
 ’	O
 |	O
-foreach	O
+foreach	B-Application
 {	O
 InvokeGPUpdate	O
 -computer	O

@@ -1,5 +1,0 @@
-Sitecore	B-Application
-Experience	I-Application
-Platform	I-Application
-Deserialization	B-Vulnerability
-Vulnerability	I-Vulnerability

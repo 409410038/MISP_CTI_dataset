@@ -1,4 +1,0 @@
-rConfig	B-Application
-SQL	B-Vulnerability
-Injection	I-Vulnerability
-Vulnerability	I-Vulnerability

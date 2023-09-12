@@ -1,7 +1,0 @@
-Detects	O
-first	O
-stage	O
-payload	O
-from	O
-WhisperGate	B-Malware
-all	O

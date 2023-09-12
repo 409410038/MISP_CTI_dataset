@@ -1,8 +1,8 @@
 The	O
-GRU	B-Application
+GRU	O
 ’	O
 s	O
 galaxy	O
 of	O
-Russian-speaking	B-Application
-websites	I-Application
+Russian-speaking	O
+websites	O

@@ -1,5 +1,5 @@
 The	O
-PE	B-Application
+PE	O
 compilation	O
 timestamp	O
 of	O

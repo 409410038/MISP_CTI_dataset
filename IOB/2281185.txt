@@ -11,8 +11,8 @@ opcodes	O
 of	O
 the	O
 function	O
-loading	O
-obfuscated	B-TTPs
+loading	B-TTPs
+obfuscated	I-TTPs
 strings	I-TTPs
 .	O
 infostealer_win_mars_stealer_early_version	O

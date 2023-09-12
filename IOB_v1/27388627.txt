@@ -1,9 +1,0 @@
-One	O
-or	O
-more	O
-processes	O
-crashed	O
--	O
-(	O
-__exception__	O
-)	O

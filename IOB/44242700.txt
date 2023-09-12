@@ -7,5 +7,5 @@ campaign	O
 distributing	O
 he	O
 LokiBot	B-Malware
-infostealer	O
+infostealer	I-Malware
 .	O

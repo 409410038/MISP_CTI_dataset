@@ -10,8 +10,8 @@ Emotet	B-Malware
 The	O
 attack	O
 attempt	O
-involves	O
-a	O
+involves	B-TTPs
+a	I-TTPs
 malicious	B-TTPs
 attached	I-TTPs
 Excel	I-TTPs

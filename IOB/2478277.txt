@@ -9,7 +9,7 @@ patching	O
 APIs	O
 .	O
 No	O
-MZ/PE	B-Application
+MZ/PE	O
 match	O
 as	O
 the	O

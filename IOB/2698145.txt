@@ -2,9 +2,9 @@ This	O
 module	O
 is	O
 a	O
-Python	B-Application
-script	I-Application
-file	I-Application
+Python	O
+script	O
+file	O
 that	O
 downloads	O
 all	O

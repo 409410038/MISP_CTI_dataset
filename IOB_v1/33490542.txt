@@ -1,9 +1,0 @@
-Preventing	O
-Black	B-Malware
-Basta	I-Malware
-Ransomware	I-Malware
-in	O
-2022	O
-|	O
-Deep	B-Reporter
-Instinct	I-Reporter

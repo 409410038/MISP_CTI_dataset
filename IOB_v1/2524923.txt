@@ -1,7 +1,0 @@
-Seowon	B-Application
-Slc-130	I-Application
-Router	I-Application
-Remote	B-Vulnerability
-Command	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

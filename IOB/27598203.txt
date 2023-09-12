@@ -10,9 +10,9 @@ named	O
 108_100.exe	B-Indicator
 and	O
 executed	O
-using	O
-a	O
-scheduled	B-TTPs
+using	B-TTPs
+a	I-TTPs
+scheduled	I-TTPs
 task	I-TTPs
 on	O
 2022-04-08	O
@@ -29,7 +29,7 @@ on	O
 according	O
 to	O
 the	O
-PE	B-Application
+PE	O
 timestamp	O
 ,	O
 suggesting	O

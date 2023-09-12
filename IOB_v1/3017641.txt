@@ -1,5 +1,0 @@
-webshell_php_3b64command	O
-:	O
-Webshells	B-Malware
-PHP	O
-B64	O

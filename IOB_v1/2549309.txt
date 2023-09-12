@@ -1,5 +1,0 @@
-Mirai	B-Malware
-and	O
-Reaper	B-Malware
-Exploitation	O
-Traffic	O

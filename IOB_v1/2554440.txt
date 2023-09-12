@@ -1,7 +1,0 @@
-NetWire	B-Malware
-RAT	I-Malware
-Command	B-TTPs
-and	I-TTPs
-Control	I-TTPs
-Traffic	O
-Detection	O

@@ -1,5 +1,0 @@
-ForgeRock	B-Application
-OpenAM	I-Application
-Insecure	B-Vulnerability
-Deserialization	I-Vulnerability
-Vulnerability	I-Vulnerability

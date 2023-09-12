@@ -1,6 +1,0 @@
-The	O
-Windows	B-Application
-version	O
-of	O
-SoftEther	B-Application
-VPN	I-Application

@@ -7,13 +7,13 @@ Microsoft	B-Application
 Configuration	I-Application
 Application	I-Application
 .	O
-Microsoft	B-Application
-Corp	I-Application
+Microsoft	O
+Corp	O
 .	O
 Copyright	O
 (	O
 C	O
 )	O
-Microsoft	B-Application
-Corp	I-Application
+Microsoft	O
+Corp	O
 .	O

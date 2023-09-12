@@ -1,6 +1,6 @@
 Full	O
 time	O
-malware	B-TTPs
+malware	O
 dev	O
 ,	O
 also	O

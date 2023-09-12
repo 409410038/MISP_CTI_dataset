@@ -8,7 +8,7 @@ distributing	O
 Emotet	B-Malware
 through	O
 a	O
-booby-trapped	O
-Excel	B-Application
-attachment	
+booby-trapped	B-TTPs
+Excel	I-TTPs
+attachment	I-TTPs
 .	O

@@ -1,7 +1,0 @@
-ISO	B-Application
-file	O
-extracted	O
-from	O
-downloaded	O
-zip	B-Application
-archive	O

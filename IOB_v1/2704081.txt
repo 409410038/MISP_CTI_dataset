@@ -1,8 +1,0 @@
-Intelliantech	B-Application
-Aptus	I-Application
-Web	I-Application
-1.24	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

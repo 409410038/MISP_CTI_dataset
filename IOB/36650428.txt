@@ -11,8 +11,8 @@ describing	O
 HermeticWiper	B-Malware
 ,	O
 a	O
-destructive	O
-malware	B-TTPs
+destructive	B-TTPs
+malware	I-TTPs
 used	O
 in	O
 cyberattacks	O

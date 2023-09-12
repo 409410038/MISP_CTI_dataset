@@ -2,9 +2,9 @@ IOC	O
 published	O
 by	O
 CERT.LV	B-Reporter
-,	O
-the	O
-national	B-Reporter
+,	I-Reporter
+the	I-Reporter
+national	I-Reporter
 CERT	I-Reporter
 of	I-Reporter
 the	I-Reporter

@@ -1,8 +1,0 @@
-WordPress	B-Application
-School	I-Application
-Management	I-Application
-Pro	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

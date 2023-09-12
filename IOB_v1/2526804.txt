@@ -1,9 +1,0 @@
-WordPress	B-Application
-WPGraphQL	I-Application
-Plugin	I-Application
-Authentication	B-Vulnerability
-Bypass	I-Vulnerability
-and	O
-Information	B-Vulnerability
-Disclosure	I-Vulnerability
-Vulnerability	I-Vulnerability

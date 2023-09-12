@@ -3,11 +3,10 @@ Scheduled	I-TTPs
 Task	I-TTPs
 -	O
 ''	O
-%	O
-WINDIR	O
-%	O
-\System32\	O
-schtasks.exe	B-Application
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\System32\schtasks.exe	I-Application
 ''	O
 /create	O
 /sc	O

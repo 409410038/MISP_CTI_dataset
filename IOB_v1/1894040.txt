@@ -1,7 +1,0 @@
-Donot	B-ThreatActor
-Team	I-ThreatActor
-??	O
-Indicators	O
-of	O
-Compromise	O
-Report	O

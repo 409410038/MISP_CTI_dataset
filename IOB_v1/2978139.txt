@@ -1,6 +1,0 @@
-From	O
-title	O
-:	O
-Mailbox	O
-User	O
-Configuration	O

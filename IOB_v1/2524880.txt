@@ -1,6 +1,0 @@
-Apache	B-Application
-Tapestry	I-Application
-ClasspathAssetRequestHandler	I-Application
-Information	B-Vulnerability
-Disclosure	I-Vulnerability
-Vulnerability	I-Vulnerability

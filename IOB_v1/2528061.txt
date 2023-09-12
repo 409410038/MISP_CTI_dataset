@@ -1,6 +1,0 @@
-ZyXEL/Billion/TrueOnline	B-Application
-Routers	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

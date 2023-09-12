@@ -1,7 +1,0 @@
-WordPress	B-Application
-InfiniteWP	I-Application
-Client	I-Application
-Authentication	B-Vulnerability
-Bypass	I-Vulnerability
-Vulnerability	I-Vulnerability
-server-to-client	O

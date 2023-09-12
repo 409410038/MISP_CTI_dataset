@@ -1,5 +1,5 @@
 Mirai	B-Malware
 and	O
 Reaper	B-Malware
-Exploitation	O
+Exploitation	B-TTPs
 Traffic	O

@@ -1,6 +1,6 @@
-??	O
+“	O
 cmd	B-Application
-??	O
+”	O
 /c	O
 cd	O
 /d	O
@@ -32,4 +32,5 @@ echo	B-Application
 [	O
 E	O
 ]	O
+.	O
 PowerShell	B-Application

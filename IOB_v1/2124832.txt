@@ -1,8 +1,0 @@
-Part	O
-of	O
-oracll.exe	B-Indicator
-SoftEther	B-Application
-VPN	I-Application
-Windows	I-Application
-version	O
-.	O

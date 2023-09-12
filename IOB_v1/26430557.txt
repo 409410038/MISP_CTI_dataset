@@ -1,8 +1,0 @@
-Elephant	B-ThreatActor
-Beetle	I-ThreatActor
-:	O
-UNCOVERING	O
-AN	O
-ORGANIZED	O
-FINANCIAL-THEFT	O
-OPERATION	O

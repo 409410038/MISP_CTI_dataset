@@ -10,10 +10,10 @@ AgentTesla	B-Malware
 The	O
 attack	O
 attempt	O
-involves	O
-an	O
-attached	O
-malicious	O
-Word	B-Application
-document	O
+involves	B-TTPs
+an	I-TTPs
+attached	I-TTPs
+malicious	I-TTPs
+Word	I-TTPs
+document	I-TTPs
 .	O

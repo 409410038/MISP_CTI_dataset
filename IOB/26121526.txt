@@ -3,8 +3,8 @@ threat	O
 actor	O
 uses	O
 spearphishing	B-TTPs
-with	O
-malicious	B-TTPs
+with	I-TTPs
+malicious	I-TTPs
 documents	I-TTPs
 to	O
 deliver	O

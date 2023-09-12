@@ -1,10 +1,11 @@
-%	O
-WINDIR	O
-%	O
-\system32\config\systemprofile\AppData\Roaming\microsoft\pvhost.exe	B-Application
+%	B-Application
+WINDIR	I-Application
+%	I-Application
+\system32\config\systemprofile\AppData\Roaming\microsoft\	I-Application
+pvhost.exe	I-Application
 -N	O
 -R	O
-18118:127.0.0.1:8118	O
+18118:127.0.0.1:8118	B-Indicator
 -P	O
 [	O
 Port	O

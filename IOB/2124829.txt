@@ -10,7 +10,7 @@ the	O
 module	O
 related	O
 to	O
-Kerberos	B-Application
-tickets	O
-operations	O
+Kerberos	B-Protocol
+tickets	I-Protocol
+operations	I-Protocol
 .	O

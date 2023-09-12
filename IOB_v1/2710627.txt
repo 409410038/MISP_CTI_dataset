@@ -1,7 +1,0 @@
-Apache	B-Application
-Struts2	I-Application
-OGNL	I-Application
-Remote	B-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability

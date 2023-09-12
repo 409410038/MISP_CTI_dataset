@@ -1,5 +1,0 @@
-fsutil	B-Application
-behavior	O
-set	O
-SymlinkEvaluation	O
-R2R:1	O

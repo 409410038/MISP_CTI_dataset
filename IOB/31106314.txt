@@ -9,6 +9,6 @@ JavaScript	O
 AutoHotKey	O
 scripting	O
 and	O
-Power	O
-Shell	O
+Power	B-Application
+Shell	I-Application
 Scripting	O

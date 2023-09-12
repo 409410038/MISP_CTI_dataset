@@ -1,6 +1,0 @@
-Shellshock	B-Vulnerability
-Bash	I-Vulnerability
-Remote	I-Vulnerability
-Code	I-Vulnerability
-Execution	I-Vulnerability
-Vulnerability	I-Vulnerability
