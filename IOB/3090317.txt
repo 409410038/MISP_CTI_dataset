@@ -1,0 +1,9 @@
+cmd.exе	B-Application
+/с	O
+dir	B-Application
+.	O
+List	O
+current	O
+directories	O
+and	O
+files	O

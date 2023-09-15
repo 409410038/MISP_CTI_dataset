@@ -1,0 +1,14 @@
+cmd.exе	B-Application
+/c	O
+аppcmd	B-Application
+list	O
+site	O
+.	O
+List	O
+the	O
+hosted	O
+websites	O
+on	O
+the	O
+web	O
+server	O

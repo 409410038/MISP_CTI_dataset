@@ -1,0 +1,8 @@
+cmd.exе	B-Application
+/c	O
+opеnfilеs	B-Application
+.	O
+Display	O
+files	O
+opened	O
+remotely	O

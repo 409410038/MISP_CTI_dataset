@@ -1,0 +1,10 @@
+cmd.exе	B-Application
+/c	O
+sеt	B-Application
+.	O
+Display	O
+the	O
+current	O
+environment	O
+variable	O
+settings	O

@@ -1,0 +1,9 @@
+cmd.exе	B-Application
+/c	O
+ipconfig	B-Application
+-displаydns	O
+.	O
+Display	O
+DNS	O
+resolver	O
+cache	O

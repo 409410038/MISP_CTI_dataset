@@ -1,0 +1,12 @@
+cmd.exе	B-Application
+/c	O
+ipconfig	B-Application
+-аll	O
+.	O
+Display	O
+network	O
+configuration	O
+on	O
+all	O
+network	O
+interfaces	O

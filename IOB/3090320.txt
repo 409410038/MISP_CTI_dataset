@@ -1,0 +1,10 @@
+cmd.exе	B-Application
+/c	O
+systеminfo	B-Application
+.	O
+Display	O
+system	O
+profile	O
+and	O
+installed	O
+hotfixes	O

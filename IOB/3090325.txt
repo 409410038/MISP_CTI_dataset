@@ -1,0 +1,11 @@
+cmd.exе	B-Application
+/c	O
+nеt	B-Application
+use	O
+.	O
+Display	O
+mapped	O
+drives	O
+to	O
+local	O
+system	O

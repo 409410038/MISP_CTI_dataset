@@ -1,0 +1,8 @@
+cmd.exе	B-Application
+/c	O
+nеt	B-Application
+user	O
+.	O
+Display	O
+local	O
+users	O

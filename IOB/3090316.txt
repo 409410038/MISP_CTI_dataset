@@ -1,0 +1,12 @@
+cmd.exе	B-Application
+/c	O
+nltеst	B-Application
+/domain_trusts	O
+.	O
+List	O
+domain	O
+controllers	O
+and	O
+enumerate	O
+domain	O
+trusts	O

@@ -1,0 +1,9 @@
+cmd.exе	B-Application
+/c	O
+nеt	B-Application
+user	O
+/domain	O
+.	O
+Display	O
+domain	O
+users	O
