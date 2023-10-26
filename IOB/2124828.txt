@@ -7,10 +7,10 @@ compiled	O
 with	O
 only	O
 the	O
-``	O
-LogonPasswords	B-Application
-''	O
-module	O
+``	B-Application
+LogonPasswords	I-Application
+''	I-Application
+module	I-Application
 ,	O
 used	O
 to	O

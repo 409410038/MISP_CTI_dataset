@@ -3,11 +3,11 @@ attack	O
 of	O
 this	O
 type	O
-exploits	B-TTPs
-a	I-TTPs
-programs	I-TTPs
-'	I-TTPs
-vulnerabilities	I-TTPs
+exploits	O
+a	O
+programs	O
+'	O
+vulnerabilities	O
 that	O
 allows	B-Vulnerability
 an	I-Vulnerability
@@ -92,8 +92,8 @@ as	I-TTPs
 an	I-TTPs
 entry	I-TTPs
 point	I-TTPs
-to	I-TTPs
-tunnel	I-TTPs
+to	O
+tunnel	B-TTPs
 through	I-TTPs
 the	I-TTPs
 application	I-TTPs

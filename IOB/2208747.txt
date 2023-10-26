@@ -52,11 +52,11 @@ may	O
 be	O
 able	O
 to	O
-execute	O
-commands	O
-on	O
-the	O
-server	O
+execute	B-TTPs
+commands	I-TTPs
+on	I-TTPs
+the	I-TTPs
+server	I-TTPs
 due	O
 to	O
 improper	B-Vulnerability

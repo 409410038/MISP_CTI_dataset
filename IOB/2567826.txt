@@ -14,8 +14,8 @@ Vigor300B	I-Application
 and	I-Application
 1.4.4_Beta	I-Application
 devices	I-Application
-allow	O
-remote	B-Vulnerability
+allow	B-Vulnerability
+remote	I-Vulnerability
 code	I-Vulnerability
 execution	I-Vulnerability
 as	I-Vulnerability

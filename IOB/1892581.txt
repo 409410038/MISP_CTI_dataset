@@ -19,7 +19,7 @@ TIMESTAMP	O
 1	O
 .	O
 Example	O
-Impacket	O
+Impacket	B-TTPs
 command	O
 line	O
 showing	O
@@ -27,8 +27,8 @@ the	O
 execution	O
 of	O
 the	O
-destructive	O
-malware	B-TTPs
+destructive	B-TTPs
+malware	I-TTPs
 .	O
 The	O
 working	O

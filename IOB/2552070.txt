@@ -8,4 +8,4 @@ to	O
 sandbox	O
 run	O
 .	O
-KyUffThOkYwRRtgPP	O
+KyUffThOkYwRRtgPP	B-Indicator

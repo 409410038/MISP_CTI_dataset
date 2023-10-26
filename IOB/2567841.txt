@@ -57,8 +57,8 @@ access	O
 to	O
 resources	O
 .	O
-The	B-Vulnerability
-session	I-Vulnerability
+The	O
+session	B-Vulnerability
 IDs	I-Vulnerability
 used	I-Vulnerability
 by	I-Vulnerability

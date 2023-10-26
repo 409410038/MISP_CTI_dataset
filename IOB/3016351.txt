@@ -7,9 +7,9 @@ medium	O
 confidence	O
 that	O
 the	O
-Lorenz	B-Malware
-ransomware	I-Malware
-group	O
+Lorenz	B-ThreatActor
+ransomware	I-ThreatActor
+group	I-ThreatActor
 exploited	O
 CVE-2022-29499	B-Vulnerability
 to	O

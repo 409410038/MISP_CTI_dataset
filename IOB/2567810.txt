@@ -89,8 +89,8 @@ The	O
 goal	O
 is	O
 to	O
-first	O
-discover	B-TTPs
+first	B-TTPs
+discover	I-TTPs
 cases	I-TTPs
 where	I-TTPs
 the	I-TTPs

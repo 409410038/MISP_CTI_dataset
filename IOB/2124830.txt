@@ -3,8 +3,8 @@ is	O
 the	O
 public	O
 and	O
-open-source	B-Application
-Linux	I-Application
+open-source	O
+Linux	B-Application
 VPN	I-Application
 software	I-Application
 known	O
@@ -45,10 +45,10 @@ alternative	O
 to	O
 OpenVPN	B-Application
 and	O
-Microsoft	O
-'s	O
-VPN	O
-servers	O
+Microsoft	B-Application
+'s	I-Application
+VPN	I-Application
+servers	I-Application
 ''	O
 .	O
 This	O
@@ -57,8 +57,8 @@ has	O
 the	O
 capabilities	O
 to	O
-do	O
-exfiltration	B-TTPs
+do	B-TTPs
+exfiltration	I-TTPs
 using	B-TTPs
 a	I-TTPs
 number	I-TTPs

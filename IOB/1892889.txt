@@ -1,6 +1,6 @@
-DFIR	B-Application
-Resources	I-Application
-Whispergate	I-Application
+DFIR	O
+Resources	O
+Whispergate	B-Malware
 .	O
 Source	O
 Code	O

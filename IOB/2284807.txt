@@ -2,7 +2,7 @@ The	O
 PRODAFT	B-Reporter
 Threat	I-Reporter
 Intelligence	I-Reporter
-team	I-Reporter
+team	O
 detected	O
 and	O
 gained	O
