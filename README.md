@@ -6,6 +6,6 @@ This is a BIO tagging format for Malware Information Sharing Platform CTI NER tr
 I tried to expand recoginition range to Non-named entity to make the NER model more practical. 
 Entity types in this dataset include Malware, TTPs(Tactic, Technique, Procedure), Application, Threat Actor, Reporter(of this CTI), Protocol, Indicator, Vulnerability.
 
-If you have any question for this project, you can post an issue. I will try my best to help you.
+This is just a project from my Bachelor's degree. I won't be updating the dataset anymore. If you have any questions for this project, you can raise an issue. I will try my best to help you.
 
 Thank you!!
