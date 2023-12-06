@@ -1,6 +1,6 @@
 # MISP_CTI_dataset
 
-WARNING: This dataset may have some wrong tag, it up to your definition of entities in cyber-security. You also can use untagged data to create your dataset. 
+WARNING: This dataset may have some wrong tag, it up to your definition of entities in cyber-security. You can also use untagged data to create your dataset. 
 
 This is a BIO tagging format for Malware Information Sharing Platform CTI NER trainning. 
 I tried to expand recoginition range to Non-named entity to make the NER model more practical. 
