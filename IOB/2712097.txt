@@ -3,5 +3,5 @@ title	O
 :	O
 Welcome	O
 to	O
-OpenResty	O
+OpenResty	B-Application
 !	O

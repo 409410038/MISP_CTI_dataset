@@ -80,9 +80,9 @@ information	O
 technology	O
 sectors	O
 .	O
-RagnarLocker	B-Malware
-ransomware	I-Malware
-actors	O
+RagnarLocker	B-ThreatActor
+ransomware	I-ThreatActor
+actors	I-ThreatActor
 work	O
 as	O
 part	O

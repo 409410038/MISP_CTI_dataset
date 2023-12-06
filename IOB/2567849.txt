@@ -1,7 +1,7 @@
 An	O
 attacker	O
-employs	B-TTPs
-forceful	I-TTPs
+employs	O
+forceful	B-TTPs
 browsing	I-TTPs
 to	O
 access	B-TTPs

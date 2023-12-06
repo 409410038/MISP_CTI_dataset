@@ -129,10 +129,10 @@ might	O
 be	O
 able	O
 to	O
-reach	O
-secured	O
-web	O
-content	O
+reach	B-TTPs
+secured	I-TTPs
+web	I-TTPs
+content	I-TTPs
 by	O
 explicitly	O
 entering	B-TTPs

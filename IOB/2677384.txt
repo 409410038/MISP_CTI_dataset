@@ -25,8 +25,8 @@ targeting	O
 users	O
 with	O
 malware	B-TTPs
-that	O
-steals	B-TTPs
+that	I-TTPs
+steals	I-TTPs
 credentials	I-TTPs
 stored	I-TTPs
 in	I-TTPs

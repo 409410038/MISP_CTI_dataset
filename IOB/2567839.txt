@@ -233,7 +233,7 @@ server	O
 while	O
 cross-zone	B-TTPs
 scripting	I-TTPs
-attacks	O
+attacks	I-TTPs
 the	O
 concept	O
 of	O

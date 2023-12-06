@@ -1,4 +1,4 @@
-HTTP	B-TTPs
-/etc/passwd	I-TTPs
+HTTP	B-Protocol
+/etc/passwd	B-TTPs
 Access	I-TTPs
 Attempt	I-TTPs

@@ -42,8 +42,8 @@ to	O
 login	O
 to	O
 the	O
-ssh	O
-server	O
+ssh	B-Protocol
+server	I-Protocol
 or	O
 web	O
 interface	O

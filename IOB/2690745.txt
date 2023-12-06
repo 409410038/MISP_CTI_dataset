@@ -53,8 +53,8 @@ name	I-TTPs
 Andreas	I-TTPs
 Capital	I-TTPs
 ”	I-TTPs
-and	O
-offer	B-TTPs
+and	I-TTPs
+offer	I-TTPs
 notably	I-TTPs
 a	I-TTPs
 so-called	I-TTPs

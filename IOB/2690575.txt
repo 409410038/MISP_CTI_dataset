@@ -35,7 +35,8 @@ servers	I-TTPs
 responsible	I-TTPs
 for	I-TTPs
 healthcare	I-TTPs
-services—including	O
+services	I-TTPs
+—including	O
 electronic	O
 health	O
 records	O
@@ -72,8 +73,8 @@ prolonged	O
 periods	O
 .	O
 The	O
-initial	B-TTPs
-access	I-TTPs
+initial	O
+access	O
 vector	O
 (	O
 s	O

@@ -32,8 +32,8 @@ format	I-TTPs
 secure	I-TTPs
 @	I-TTPs
 cssf.services	I-TTPs
-,	O
-presenting	B-TTPs
+,	I-TTPs
+presenting	I-TTPs
 themselves	I-TTPs
 as	I-TTPs
 a	I-TTPs

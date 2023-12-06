@@ -85,8 +85,8 @@ place	O
 ,	O
 but	O
 if	O
-a	B-Vulnerability
-remote	I-Vulnerability
+a	O
+remote	B-Vulnerability
 attacker	I-Vulnerability
 is	I-Vulnerability
 allowed	I-Vulnerability

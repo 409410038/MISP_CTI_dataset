@@ -2,7 +2,7 @@
 cmd	B-Application
 ”	O
 /c	O
-cd	O
+cd	B-Application
 /d	O
 ``	O
 c	O

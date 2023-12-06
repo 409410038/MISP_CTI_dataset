@@ -5,9 +5,9 @@ WINDIR	I-Application
 -windowstyle	O
 hidden	O
 -Command	O
-C	O
-:	O
-\W45784602214\Asus.CertificateValidation.2022.1728.641.AutoIt3.exe	B-Indicator
-C	O
-:	O
-\W45784602214\Asus.CertificateValidation.2022.1728.641.AutoIt3.log	B-Indicator
+C	B-Indicator
+:	I-Indicator
+\W45784602214\Asus.CertificateValidation.2022.1728.641.AutoIt3.exe	I-Indicator
+C	B-Indicator
+:	I-Indicator
+\W45784602214\Asus.CertificateValidation.2022.1728.641.AutoIt3.log	I-Indicator

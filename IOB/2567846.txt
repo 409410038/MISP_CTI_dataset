@@ -219,7 +219,7 @@ prevent	O
 known	O
 directory	B-TTPs
 listing	I-TTPs
-attacks	O
+attacks	I-TTPs
 from	O
 working	O
 .	O

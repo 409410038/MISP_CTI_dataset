@@ -32,7 +32,7 @@ an	I-Vulnerability
 affected	I-Vulnerability
 device	I-Vulnerability
 to	O
-execute	I-TTPs
+execute	B-TTPs
 arbitrary	I-TTPs
 commands	I-TTPs
 .	O

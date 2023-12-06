@@ -99,8 +99,8 @@ functions	O
 not	O
 vulnerable	O
 to	O
-buffer	B-Vulnerability
-overflow	I-Vulnerability
+buffer	B-TTPs
+overflow	I-TTPs
 .	O
 If	O
 you	O
@@ -128,9 +128,9 @@ StackGuard	O
 ProPolice	O
 and	O
 the	O
-Microsoft	O
-Visual	O
-Studio	O
+Microsoft	B-Application
+Visual	I-Application
+Studio	I-Application
 /GS	O
 flag	O
 .	O

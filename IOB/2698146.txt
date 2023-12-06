@@ -22,7 +22,7 @@ other	O
 functionality	O
 of	O
 the	O
-malware	B-TTPs
+malware	O
 and	O
 the	O
 attacks	O

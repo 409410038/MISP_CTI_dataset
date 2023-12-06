@@ -70,7 +70,7 @@ about	O
 the	O
 system	O
 .	O
-Fuzzing	O
+Fuzzing	B-TTPs
 can	O
 help	O
 an	O
@@ -86,7 +86,7 @@ in	I-TTPs
 the	I-TTPs
 system	I-TTPs
 .	O
-Fuzzing	O
+Fuzzing	B-TTPs
 gives	O
 an	O
 attacker	O
@@ -122,10 +122,10 @@ against	O
 the	O
 system	O
 by	O
-specially	O
-crafting	O
-user	O
-input	O
+specially	B-TTPs
+crafting	I-TTPs
+user	I-TTPs
+input	I-TTPs
 that	O
 may	O
 allow	O

@@ -16,8 +16,8 @@ on	O
 leveraging	B-TTPs
 alternate	I-TTPs
 encodings	I-TTPs
-to	I-TTPs
-bypass	I-TTPs
+to	O
+bypass	B-TTPs
 validation	I-TTPs
 logic	I-TTPs
 .	O
